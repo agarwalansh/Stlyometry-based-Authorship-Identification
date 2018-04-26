@@ -1,0 +1,572 @@
+
+
+
+
+produced by dan dyckman
+
+
+
+
+________________________
+  transcriber's comments
+
+where hebrew letters appeared within the english text, these have been
+transliterated and included in brackets.  in many cases the hebrew has
+also been spelled out, thus:
+   [tov (tet-vov-bet)].
+
+a rare additional transcriber's note may be found within brackets [].
+
+the source text contained only one comment in a bracket, that should
+not be confused as a transcriber's note.  this is the word [baden]
+that appeared in the bibliography.
+
+each [s] is the special character known as "section sign."
+
+where the source text referenced a page number within the same book,
+the transcriber substituted a reference in brackets [] that will be
+useful for readers of this e-text version.
+
+the source book contained the complete pirkei avot, in hebrew, with
+vowels.  this has, of necessity, been omitted from the current
+e-text document, which uses only roman font.
+
+footnotes all appeared at the bottom of the page, separated by a line
+from the main text, and printed in the same font and size as the main
+text.  the transcriber has moved these footnotes to follow the
+paragraph they supplement, and indented them.
+
+at the end of this e-text, readers will find a section titled
+transcription notes which deals with issues such as accent marks.
+
+following this, readers will find a page reference index.  this
+reference will help maintain the stability of references to this
+book from outside sources.
+
+end of transcriber's comments
+
+
+
+
+
+ library of jewish classics
+ ==========================
+
+ i. leopold zunz: the sufferings of the jews during the middle ages
+ ii. hyman hurwitz: talmudic tales
+ iii. "pirek abot": the sayings of the jewish fathers
+
+
+
+
+
+     library of jewish classics-iii.
+ ________________________________________
+
+           the sayings of the
+             jewish fathers
+
+             [pirkei avot]
+              "pirke abot"
+ ________________________________________
+
+           translated, with an
+         introduction and notes
+
+                  by
+       joseph i. gorfinkle, ph.d.
+
+               author of
+ "the eight chapters of maimonides on ethics"
+
+                _______
+
+           _second edition_
+
+ ________________________________________
+
+
+
+              contents
+   preface
+   introduction
+      name
+      purpose
+      description
+      contents
+      language
+      development of abot
+      abot in liturgy
+      bibliography
+   chapter   i
+   chapter  ii
+   chapter iii
+   chapter  iv
+   chapter   v
+   chapter  vi
+   hebrew text (appendix)
+
+
+
+
+
+
+
+
+
+         preface
+
+notwithstanding the fact that there are many editions of the _sayings
+of the jewish fathers_, and that it has been translated innumerable
+times in all modern tongues, no apology need be given for the
+appearance of this little volume in the series of _jewish classics_.
+the _pirke abot_ is indeed a classical bit of that ancient jewish
+classic, the _mishnah_.
+
+the translation in this edition is based largely upon that of taylor,
+in his _sayings of the jewish fathers_, and upon the excellent version
+of singer, in his _authorized daily prayer book_.
+
+this edition is intended mainly for popular reading, but it has been
+thought wise to amplify the notes, especially with bibliographical
+references, so that it may serve the purpose of a teacher's handbook,
+and also be useful as a text-book for the higher grades of religious
+schools and for study circles.  the references are to books that are
+generally accessible, and, wherever possible, to books in english.
+the notes are by no means intended to be exhaustive, but rather to be
+suggestive.
+
+it is the humble hope of the editor that this little book may be the
+means of further popularizing the practical and, at the same time,
+high-minded wisdom of the "fathers"; that it may serve as an incentive
+to a more detailed study of their philosophy of life, and that its
+appearance may help us to lead in a revival of that most ancient and
+praiseworthy custom of reading the _pirke abot_ in the house of
+worship on the sabbath, during the summer months.  let him into whose
+hands these sayings fall "meditate upon them day and night," for "he
+who would be saintly must fulfil the dicta of the fathers."
+
+            joseph i gorfinkle.
+
+mt. vernon, n. y.
+   february, 1913.
+
+
+
+
+
+
+
+            introduction
+
+                name
+
+_the tractate abot_ (_massechet abot_) is the ninth treatise of _the
+order_ or _series on damages_ (_seder nezikin_), which is the fourth
+section of the _mishnah_ (1).  it is commonly known in hebrew as
+_pirke abot_, _the chapters of the fathers_, and has also been termed
+_mishnat ha-chasidim_, _instruction for the pious_, because of the
+rabbinic saying, "he who wishes to be pious, let him practise the
+teachings of _abot_" (2).  on account of the nature of its contents,
+it is generally designated in english as the _ethics of the fathers_.
+taylor entitles his edition _dibre aboth ha-olam_, sayings of the
+fathers of the world_, and has as the english title, _sayings of the
+jewish fathers_.  gustav gottheil refers to the _abot_ as the _sayings
+of the pharisaic fathers_ (3).  its german title is generally _die
+spruche der vater_, and in french it is usually rendered _chapitres_
+or _maximes des peres_.
+
+      (1) see _infra_, [chapter v], n. 61.
+
+      (2) _baba kamma_, 30a.  see taylor, _sayings of the jewish
+      fathers_, p. 3.  maimonides refers to this saying in the
+      _foreword_ of his _eight chapters_; see gorfinkle, _the eight
+      chapters_, etc., p. 34.
+
+      (3) see _sun and shield_, p. 321 _et passim_.  see _infra_, n.
+      8, which accounts for the use of "_pharisaic_."
+
+the use of the word _abot_ (fathers), in the title, is of very ancient
+date.  we can only guess at the reason for its being used, and,
+consequently, there are various explanations for it.  samuel de uceda,
+in his collective commentary, says that as this tractate of the
+_mishnah_ contains the advice and good counsel, which, for the most
+part, come from a father, the rabbis mentioned in it adopt the role of
+"fathers," and are therefore so designated.  this explanation does
+not, however, deter him from advancing another to the effect that this
+treatise is the basis of all subsequent ethical and moral teachings
+and doctrines, and the rabbis are, in consequence, the "fathers" or
+prototypes of all ethical teachers and moralists (4).  loeb attributes
+its use to the fact that the rabbis of _abot_ are the "fathers" or
+"ancestors of rabbinic judaism" (5).  hoffman states that the word
+_abot_ means "teachers of tradition" (_traditionslehrer_), and points
+to the expression _abot ha-olam_ (_eduyot_, i. 4), which, translated
+literally, is "fathers of the world," but is used to designate the
+most distinguished teachers, which is a true characterization of the
+rabbis of _abot_ (6).  taylor says in regard to the title, "it takes
+its name from the fact that it consists to a great extent of the
+maxims of the jewish fathers whose names are mentioned in the pages"
+(7).  hoffmann's seems the most acceptable explanation.
+
+      (4) _midrash shemuel_ (ed. warsaw, 1876), p. 6.  the _midrash
+      shemuel_ is a collective commentary, first published in venice
+      in 1579, and which has since passed through six editions.  see
+      p. 22, n. 21.
+
+      (5) _la chaine_, etc., p. 307, n. 1.
+
+      (6) see hoffman, _seder nesikin, introd._, p. xx, and p. 258,
+      n. 36.  in this passage of _eduyot_, hillel and shammai are
+      referred to as _abot ha-olam_; in _yerushalmi shekalim_, iii,
+      47b, rabbi and ishmael and rabbi akiba, and in _yerushalmi
+      chagigah_, ii, 77d, all the pairs of _abot_ i are similarly
+      designated.
+
+      (7) taylor, _loc. cit._
+
+
+
+
+            purpose
+
+the original aim of _abot_ was to show the divine source and authority
+of the traditional law revealed to moses on mt. sinai, and to
+demonstrate its continuity from moses through joshua, the elders, and
+the men of the great synagogue, down to those rabbis who lived during
+the period between 200 b.c.e. to 200 c.e.  loeb maintains that _abot_
+was originally a composition of the pharisaic rabbis who wished to
+indicate that the traditions held and expounded by them, and which the
+sadducees repudiated, were divine and, in time and sequence,
+uninterruptedly authoritative (8).  this line of continuous tradition
+is plainly seen in the first two chapters.  a second and probably
+later purpose was to present a body of practical maxims and aphorisms
+for the daily guidance of the people.
+
+
+      (8) _la chaine_, etc.  the sadducees belonged to the priestly
+      and aristocratic families.  they made light of the oral
+      traditions, did not believe in the future life, and were
+      indifferent to the independence of the jewish nation.  the
+      pharisees, on the other hand, were constituted largely from
+      the common people; they were believers in, and strict
+      observers of, the traditional laws, and were ardent
+      nationalists.  the bitter attack of jesus on them, which has
+      resulted in making the word "pharisee" synonymous with
+      "hypocrite" and "self-righteous person," was, to say the
+      least, unjust, as herford has so lucidly pointed out in his
+      sympathetic study of the pharisees.  herford, though not a
+      jew, has taken up the cudgels most ably in defence of this
+      sect, with remarkable insight into the life and literature of
+      the ancient jews.  he demonstrates conclusively that though
+      there were hypocrites among the pharisees, as among all
+      classes and creeds, yet the average pharisee was a man of the
+      most elevated religious ideals, who misunderstood jesus, but
+      who, in turn was misunderstood by him.  huxley, in his
+      _evolution of theology_, says, "of all the strange ironies in
+      history, perhaps the strangest is that 'pharisee' is current
+      as a term of reproach among the theological descendants of
+      that sect of nazarenes who, without the martyr spirit of those
+      primitive puritans, would never have come into existence."
+      such great teachers and men of sterling quality and golden
+      utterance as antigonus of soko (i, 3), hillel (i, 12-14; ii,
+      5-8), jochanan ben zakkai (ii, 9-19), gamaliel, whose pupil
+      was paul, the apostle (i, 16), and judah, the prince (ii, 1),
+      whose sayings grace the pages of _abot_, were, as loeb points
+      out, of the pharisaic school or party.  there is naturally a
+      large literature on the pharisees.  herford's _pharisaism_
+      deserves careful perusal.  see, also, josephus (ed.
+      whiston-margoliouth), _antiq._, xiii, 10.6, xviii, 1, 2-4;
+      schurer, _history of the jews_, etc., ii, ii, p. 14 _et seq._;
+      _jewish encyclopedia_ and literature mentioned there; geiger,
+      _judaism and its history_, p. 102 _et seq._, and friedlander,
+      g., _the jewish sources of the sermon on the mount_, p. 34 _et
+      seq._
+
+
+
+
+         description
+
+the _sayings of the jewish fathers_ is the oldest collection of
+ethical dicta of the rabbis of the _mishnah_ (9).  it is a rabbinic
+anthology.  it has been happily styled "a compendium of practical
+ethics" (10), and, as mielziner has said, "these rabbinical sentences,
+if properly arranged, present an almost complete code of human duties"
+(11).  the _abot_ is, then, a sort of moral code.
+
+      (9) there was another, and apparently older, recension of
+      _pirke abot_ on which is based the _abot de-rabbi natan_, an
+      _hagadic_ or homiletical exposition of _abot_.  two recensions
+      of _abot de-rabbi natan_ exist, and have been edited by
+      schechter.  on this work, see hoffman, _die erste mischna_, p.
+      26 _et seq._, mielziner, article _abot de-rabbi natan_, in
+      _jewish encyclopedia_, strack, _einleitung_, p. 69 _et seq.,
+      and pollak, _rabbi nathans system_, etc., _introduction_, pp.
+      7-9.  an english translation is found in rodkinson's edition
+      of the _talmud_, vol. v, p. 1 _et seq._
+
+      (10) taylor, _loc. cit._  lazarus, _ethics of judaism_, ii.
+      113, calls it "a compendium of ethics."
+
+      (11) in _jewish encyclopedia_, art. _abot_.
+
+
+
+
+         contents
+
+even a superficial reading of _abot_ will bring home to one the fact
+that it is made up of various strata.  in fact, it falls naturally
+into the following strands or divisions:
+
+a. chapter i, 1-15: chronologically arranged sayings of the oldest
+        authorities, from the men of the great synagogue to hillel
+        and shammai.
+
+b. (1) chapters i, 16-ii, 4: sayings of the men of the school of
+        hillel to rabban gamaliel (about 230 c.e.), the son of judah
+        ha-nasi
+
+   (2) chapter ii, 5-8: additional sayings of hillel.
+
+c. (1) chapter ii, 9-19: the sayings of jochanan ben zakkai, the
+        pupil of hillel, and of his disciples.
+
+   (2) chapter ii, 20-21: the sayings of rabbi tarfon, a younger
+        contemporary of jochanan ben zakkai.
+
+d. chapter iii: the maxims of seventeen _tannaim_ (authorities
+        mentioned in the _mishnah_) to the time of and including
+        rabbi akiba.  these are not arranged in strictly
+        chronological order.
+
+e. chapter iv: the sayings of twenty-five _tannaim_ after the time
+        of rabbi akiba, who were contemporaries of rabbi meir and of
+        rabbi judah ha-nasi.  these are not chronologically arranged.
+
+f. (1) chapter v, 1-18: anonymous sayings forming a series of groups
+        of ten, seven, and four things, dealing with the creation of
+        the world, with miracles, and with the varieties of men and
+        minds.
+
+   (2) chapter v, 19-22: anonymous sayings touching upon the
+        varieties of motives and contrasting the good and evil
+        dispositions.
+
+   (3) chapter v, 23: sayings of judah ben tema.
+
+   (4) chapter v, 24: the ages of man.
+
+   (5) chapter v, 25, 26: the sayings of ben bag bag and of ben he
+        he.
+
+g. chapter vi: the acquisition of the _torah;_ praise of the
+        _torah_.
+
+
+
+         language
+
+the language of _abot_ is easy mishnaic hebrew, with portions of four
+verses (i, 13; ii, 7; v, 25, and v, 26) in aramaic, which is closely
+related to hebrew.  it is worthy of note that these aramaic portions
+originated with the school of hillel (12).
+
+      (12) on the language of the _mishnah_, see mielziner,
+      _introduction to the talmud_, pp. 15-16, and lauterbach in
+      _jewish encyclopedia_, vol ii, p. 614.  on the use of aramaic
+      in the _mishnah_, see schurer, _history_, i, ii, p. 8 _et
+      seq._, and bacher, in _jewish encyclopedia_, art. _aramaic
+      language among the jews_.  several centuries before the common
+      era, aramaic was the vernacular of the jews.  hebrew, however,
+      remained in use as the sacred language ([lashon ha-kodesh]),
+      it being the language of the learned, and was employed for
+      literary, liturgical, and legal purposes.  this accounts for
+      the mishnah being written almost entirely in hebrew, though
+      aramaic was spoken on the streets.  it is related of judah
+      ha-nasi that he disliked the aramaic jargon to such an extent
+      that he forbade its use in his home, where even the servants
+      spoke hebrew with elegance (_rosh ha-shanah_, 26b).  when
+      scholars used aramaic in his presence, he chided them for not
+      speaking in hebrew or in greek (_baba kamma_, 82b).
+
+
+
+
+         development of abot (13)
+
+      (13) on the subject-matter of this section, consult hoffmann,
+      _die erste mischna_, pp. 26-37; idem, _mischnaiot seder
+      nesikin_, _introd._, pp. xx-xxi; brull, _enstehung und
+      ursprunglicher inhalt des traktates abot;_ loeb, _la chaine_,
+      etc.; ginzburg, _spruche der vater, erstes capitel historisch
+      beleuchtet_ (liepzig, 1889); strack, _die spruche der vater_,
+      _introd._, pp. 7-8; idem, _einleitung_, p. 52, and rawicz,
+      _commentar des maimonides_, p. 105, n. 3.
+
+it is apparent from the literary construction of _abot_ that it has
+been edited several times, and that, in its earliest form, the
+_abot_ collection was much smaller than we have it to-day.  originally,
+probably shortly after the time of hillel, it may have been merely a
+sort of appendix to the _tractate sanhedrin_, with typical sayings of
+each of the heads of the _sanhedrin_.  these dicta are contained in
+what is designated as section a.  later, presumably by rabbi akiba,
+there were added to this original kernel of _abot_ the sayings of
+rabbi jochanan ben zakkai and his most illustrious pupils, which
+comprise section c.  this resulted in the grouping together of the
+sayings of ten generations of traditional authorities, as follows:
+(1) the men of the great synagogue, (2) simon, the just, (3) antigonus
+of soko, (4) jose ben joezer and jose ben jochanan, (5) joshua ben
+perachiah and nittai, the arbelite, (6) judah ben tabbai and simeon
+ben shatach, (7) shemaiah and abtalion, (8) hillel and shammai, (9)
+jochanan ben zakkai, and (10) the latter's disciples.  by association
+of idea with this number ten, there were added to this collection
+numerical sayings of ten, and, then, others of seven and four, found
+in chapter v, 1-9 and 10-13.
+
+into this enlarged kernel of pithy sayings of the oldest authorities,
+which may be characterized as the _abot of rabbi akiba_, later
+_tannaim_--rabbi meir, rabbi judah ha-nasi, and others--interpolated
+additional sayings of the afore-mentioned rabbis, and also typical
+utterances of their disciples, and of other well-known teachers.  this
+accounts for the presence in _abot_ of the body of maxims of the six
+generations of the school of hillel, designated above as section b 1,
+and which was very properly introduce after the aphorisms of hillel
+and of his contemporary, shammai.  the thread of tradition being
+interrupted by this interpolation, it was again taken up by the
+introduction of another body of hillel's sayings (b 2), thus providing
+for a natural transition from hillel to jochanan ben zakkai.  proof of
+the fact that section b is an addition is that in the _abot de-rabbi
+natan_--which, as has been said above, is based on an older version of
+_abot_ (14)--the sayings of jochanan ben zakkai follow immediately
+upon those of shammai.  the sayings of judah ha-nasi, the redactor of
+the _mishnah_, and of rabbi gamaliel, his son, were undoubtedly added
+after the time of judah.
+
+      (14) see _supra_, p. 13, n. 9.
+
+chapter iii contains the sayings of authorities who were the
+predecessors of judah, the first two having lived before the
+destruction of the second temple.  chapter iv is made up of the dicta
+of a number of rabbis who were contemporaries of judah.  these two
+chapters were, no doubt, inserted by judah, the redactor of the
+_mishnah_ as we virtually have it to-day.  evidence that chapter iv is
+an addition to the original _abot_ is that it has a number of
+aphorisms which are repetitions of some found in chapters i and ii.
+the greater part of chapter v, as stated above, was a portion of the
+_abot_ of rabbi akiba.
+
+chapter vi, which is known as _the chapter on the acquisition of
+torah_ (_perek kinyan torah_), as _the external teaching of the abot_
+(_baraita de-abot_) (15), as _the chapter of rabbi meir_ (_perek rabbi
+meir_) (16), and as _the external teaching of rabbi meir_ (_baraita
+de-rabbi meir_), is a supplement of the treatise _abot_, as is claimed
+for it by its superscription, "the sages taught in the language of the
+_mishnah_," a formula generally used in the _talmud_ to introduce a
+_baraita_.  one of the authorities mentioned in it is joshua ben levi,
+a palestinian _amora_ (an authority of the _gemara_) who lived during
+the third century.  this demonstrates the comparatively late date of
+the final redaction of this chapter.  by the middle of the ninth
+century it formed a part of the treatise _abot_.  it was added to the
+prayer-book to be read on the sixth sabbath of the period between
+passover and the festival of weeks (_shebuot_) (17).
+
+      (15) a _baraita_ contains traditions and opinions of
+      authorities of the _mishnah_ which are not embodied in the
+      _mishnah_ or rabbi judah ha-nasi.  see mielziner,
+      _introduction to the talmud_, pp. 20-21, strack, _einleitung
+      in den talmud_, p. 3, and the _jewish encyclopedia_, _s.v._  a
+      _gemara_ (talmudical commentary) to the _baraita de-abot_ was
+      published from a ms. by coronel in _chamishah kuntresin_
+      (vienna, 1864).  this _baraita_ is found also in the
+      seventeenth chapter of _tanna de-be eliyahu sutta_, but with
+      different textual readings.  see ginzberg, in the _jewish
+      encyclopedia_, ii, pp. 516-517.
+
+      (16) known thus because rabbi meir's name is found in the
+      first verse.
+
+      (17) see next section.  the sixth chapter is found in some
+      editions of the _mishnah_.
+
+
+
+         abot in the liturgy (18)
+
+      (18) on the subject-matter of this section, see the citation
+      from the sar shalom gaon, in the _siddur_ of r. amram, 30a;
+      _midrash shemual_, pp. 3-4; zunz, _die ritus_, pp. 85-86;
+      strack, _die spruche der vater_, p. 5, and _siddur_, ed. baer,
+      p. 271, note.  other portions of the _mishnah_ and also of the
+      _talmud_ that are included in the liturgy are, in the morning
+      service, _zebachim_ v (_siddur_, ed. singer, p. 11); in the
+      evening service for the sabbath, _sabbat_, ii (pp. 120-122),
+      and, from the _talmud_, end of _berachot_ (p. 122); in the
+      additional service for sabbath and festivals, from the _talmud
+      keritot_, 6a, from the _mishnah_, end of _tamid_, and from the
+      _talmud_, end of _berachot_ (pp. 167-168).
+
+as taylor has said, "its simplicity and intrinsic excellence have
+secured for _abot_ a widespread and lasting popularity, and have led
+to its being excerpted from the _talmud_ and used liturgically in the
+synagogue, at certain seasons, from an early period" (19).  thus, the
+_abot_ is found not only in all editions of the _mishnah_ and the
+_talmud_, but also in the prayer-books of the ashkenazic rite (20).
+the practice of reading a chapter from _abot_, on saturday, after the
+afternoon prayer (_minchah_), originated as early as gaonic times
+(seventh to eleventh centuries).  during the middle of the ninth
+century, _abot_ and its _baraita_ were thus liturgically used.  in
+spanish communities it was recited in the morning of the sabbath, and
+not in the afternoon.  by the eleventh century, this custom was
+universally a part of the synagogal service.
+
+      (19) taylor, _loc. cit._
+
+      (20) german and polish.
+
+
+originally, _abot_ was probably read only from passover to _shebuot;_
+and, since this period has generally six sabbaths, and there are only
+five chapters of _abot_, the chapter _kinyan torah_ was appointed to
+be read on the sixth sabbath.  later, the period of the year in which
+_abot_ was read varied in different communities.  in germany, there
+were _kehillot_ in which it was recited during the winter as well as
+during the summer.  in some communities it was read from passover to
+the feast of tabernacles (_sukkot_), in others from the sabbath of
+_parashah yitro_ (ex. xviii, 1-xx, 26) to the sabbath of _parashah
+masse'e_ (num. xxxiii, 1-xxxvi, 13), that is, from the sabbath on
+which is read an account of the giving of the law until the sabbath
+preceding the beginning of the reading of the "repetition of the law,"
+_i.e._, deuteronomy.  in many orthodox congregations to-day this
+practice is still adhered to, and _abot_ is read on sabbath afternoons
+during the summer, or from the sabbath after passover to the sabbath
+before the new year (_rosh ha-shanah_).
+
+a number of reasons have been suggested for the custom of reading the
+_abot_ in the synagogue, the most likely being that it was introduced
+to occupy the minds of worshippers during the long wait, on a summer's
+day, between the afternoon and evening services.  whatever the reason
+for this custom may have been is immaterial and unimportant; but what
+is of importance is that, by this excellent practice, a whole body of
+moral dicta--each one summing up with remarkable conciseness a life's
+experience and philosophy, each one breathing the spirit of piety,
+saintliness, justice, and love for humanity--has sunk deeply into the
+innermost heart and consciousness of the jewish people, exerting such
+an influence that the principles set forth in the _abot_ have been
+eternally wrought into the moral fibre of the descendants of the
+rabbis.  to the lips of the jew, these maxims spring spontaneously; to
+those who know them they are a safe and secure guide through life;
+they are not only heard in the synagogue, but are quoted and applied
+at home and abroad.  such are the fruits of a benign custom, which
+israel will do well to prize and preserve.
+
+
+
+         bibliography
+
+because of its great popularity, the _pirke abot_ has appeared in many
+editions.  there is no _gemara_ (talmudic commentary) on the _abot_,
+which undoubtedly accounts for the numerous commentaries on it (21).
+because of the attractiveness of its contents, and since it forms a
+part of the ritual, it has been translated many times into many
+tongues (22), and a great deal has been written on it.  the following

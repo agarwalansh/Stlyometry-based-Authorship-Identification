@@ -1,0 +1,1104 @@
+                   preface to the first edition
+
+        the translation of the new testament here offered to
+english-speaking christians is a bona fide translation made
+directly from the greek, and is in no sense a revision. the plan
+adopted has been the following.
+
+        1. an earnest endeavour has been made (based upon more
+than sixty years' study of both the greek and english languages,
+besides much further familiarity gained by continual teaching) to
+ascertain the exact meaning of every passage not only by the
+light that classical greek throws on the langruage used, but also
+by that which the septuagint and the hebrew scriptures afford;
+aid being sought too from versions and commentators ancient and
+modern, and from the ample _et cetera_ of _apparatus grammaticus_
+and theological and classical reviews and magazines--or rather,
+by means of occasional excursions into this vast prairie.
+
+        2. the sense thus seeming to have been ascertained, the
+next step has been to consider how it could be most accurately
+and naturally exhibited in the english of the present day; in
+other words, how we can with some approach to probability suppose
+that the inspired writer himself would have expressed his
+thoughts, had he been writing in our age and country. /1
+
+        3. lastly it has been evidently desirable to compare the
+results thus attained with the renderings of other scholars,
+especially of course witll the authorized and revised versions.
+but alas, the great majority of even "new translations," so
+called, are, in reality, only tyndale's immortal work a
+little--often very litlle--modernized!
+
+        4. but in the endeavour to find in twentieth century
+english a precise equivalent for a greek word, phrase, or
+sentence there are two dangers to be guarded against. there are a
+scylla and a charybdis. on the one hand there is the english of
+society, on the other hand that of the utterly uneducated, each
+of these _patois_ having also its own special, though expressive,
+borderland which we name 'slang.' but all these salient angles
+(as a professor of fortification might say) of our language are
+forbidden ground to the reverent translator of holy scripture.
+
+        5. but again, a _modern_ translation--does this imply
+that no words or phrases in any degree antiquated are to be
+admitted? not so, for great numbers of such words and phrases are
+still in constant use. to be antiquated is not the same thing as
+to be obsolete or even obsolescent, and without at least a tinge
+of antiquity it is scarcely possible that there should be that
+dignity of style that befits the sacred themes with which the
+evangelists and apostles deal.
+
+        6. it is plain that this attempt to bring out the sense
+of the sacred writings naturally as well as accurately in
+present-day english does not permit, except to a limited extent,
+the method of literal rendering--the _verbo verbum reddere_ at
+which horace shrugs his shoulders. dr. welldon, recently bishop
+of calcutta, in the preface (p. vii) to his masterly translation
+of the _nicomachean ethics_ of aristotle, writes, "i have
+deliberately rejected the principle of trying to translate the
+same greek word by the same word in english, and where
+circumstances seemed to call for it i have sometimes used two
+english words to represent one word of the greek;"--and he is
+perfectly right. with a slavish literality delicate shades of
+meaning cannot be reproduced, nor allowance be made for the
+influence of interwoven thought, or of the writer's ever
+shifting--not to say changing--point of view. an utterly ignorant
+or utterly lazy man, if possessed of a little ingenuity, can with
+the help of a dictionary and grammar give a word-for-word
+rendering, whether intelligible or not, and print 'translation'
+on his title-page. on the other hand it is a melancholy spectacle
+to see men of high ability and undoubted scholarship toil and
+struggle at translation under a needless restriction to
+literality, as in intellectual handcuffs and fetters, when they
+might with advantage snap the bonds and fling them away, as dr.
+welldon has done: more melancholy still, if they are at the same
+time racking their brains to exhibit the result of their
+labours---a splendid but idle philological _tour de force_ --in
+what was english nearly 300 years before.
+
+        7. obviously any literal translation cannot but carry
+idioms of the earlier language into the later, where they will
+very probably not be understood; /2 and more serious still is the
+evil when, as in the jewish greek of the n t, the earlier
+language of the two is itself composite and abounds in forms of
+speech that belong to one earlier still. for the n.t. greek, even
+in the writings of luke, contains a large number of hebrew
+idioms; and a literal rendering into english cannot but partially
+veil, and in some degree distort, the true sense, even if it does
+not totally obscure it (and that too where _perfect_ clearness
+should be attained, if possible), by this admixture of hebrew as
+well as greek forms of expression.
+
+        8. it follows that the reader who is bent upon getting a
+literal rendering, such as he can commonly find in the r.v. or
+(often a better one) in darby's _new testament_, should always be
+on his guard against its strong tendency to mislead.
+
+        9. one point however can hardly be too emphatically
+stated. it is not the present translator's ambition to supplant
+the versions already in general use, to which their intrinsic
+merit or long familiarity or both have caused all christian minds
+so lovingly to cling. his desire has rather been to furnish a
+succinct and compressed running commentary (not doctrinal) to be
+used sidc by side with its elder compeers. and yet there has been
+something of a remoter hope. it can scarcely be doubted that some
+day the attempt will be renewed to produce a satisfactory english
+bible--one in some respects perhaps (but assuredly with great and
+important deviations) on the lines of the revision of 1881, or
+even altogether to supersede both the a.v. and the r.v.; and it
+may be that the translation here offered will contribute some
+materials that may be built into that far grander edifice.
+
+        10. the greek text here followed is that given in the
+translator's _resultant greek testament_.
+
+        11. of the various readings only those are here given
+which seem the most important, and which affect the rendering
+into english. they are in the footnotes, with v.l. (_varia
+lectio_) prefixed. as to the chief modern critical editions full
+details will be found in the _resultant greek testament_, while
+for the original authorities--mss., versions, patristic
+quotations--the reader must of necessity consult the great works
+of lachmann, tregelles, tischendorf, and others, or the numerous
+monographs on separate books. /3 in the margin of the r.v. a
+distinction is made between readings supported by "a few ancient
+authorities," "some ancient authorities," "many ancient
+authorities," and so on. such valuation is not attempted in this
+work.
+
+        12. considerable pains have been bestowed on the exact
+rendering of the tenses of the greek verb; for by inexactness in
+this detail the true sense cannot but be missed. that the greek
+tenses do not coincide, and cannot be expected to coincide with
+those of the english verb; that--except in narrative--the aorist
+as a rule is _more_ exactly represented in english by our perfect
+with "have" than by our simple past tense; and that in this
+particular the a.v. is in scores of instances more correct than
+the r.v.; the present translator has contended (with arguments
+which some of the best scholars in britain and in america hold to
+be "unanswerable" and "indisputable") in a pamphlet _on the
+rendering into english of the greek aorist and perfect_. even an
+outline of the argument cannot be given in a preface such as
+this.
+
+        13. but he who would make a truly _english_ translation
+of a foreign book must not only select the right nouns,
+adjectives, and verbs, insert the suitable prepositions and
+auxiliaries, and triumph (if he can) over the seductions and
+blandishments of idioms with which he has been familiar from his
+infancy, but which, though forcible or beautiful with other
+surroundings, are for all that part and parcel of that other
+language rather than of english: he has also to beware of
+_connecting his sentences_ in an un-english fashion.
+
+        now a careful examination of a number of authors
+(including scottish, irish, and american) yields some interesting
+results. taking at haphazard a passage from each of fifty-six
+authors, and counting on after some full stop till fifty finite
+verbs--i. e. verbs in the indicative, imperative, or subjunctive
+mood--have been reached (each finite verb, as every schoolboy
+knows, being the nucleus of one sentence or clause), it has been
+found that the connecting links of the fifty-six times fifty
+sentences are about one-third conjunctions, about one-third
+adverbs or relative and interrogative pronouns, while in the case
+of the remaining third there is what the grammarians call an
+_asyndeton_--no formal grammatical connexion at all. but in the
+writers of the n.t. nearly _two_-thirds of the connecting links
+are conjunctions. it follows that in order to make the style of a
+translation true idiomatic english many of these conjunctions
+must be omitted, and for others adverbs, &c., must be
+substituted.
+
+        the two conjunctions _for_ and _therefore_ are discussed
+at some length in two appendices to the above-mentioned pamphlet
+on the _aorist_, to which the reader is referred.
+
+        14. the notes, with but few exceptions, are not of the
+nature of a general commentary. some, as already intimated, refer
+to the readings here followed, but the great majority are in
+vindication or explanation of the renderings given. since the
+completion of this new version nearly two years ago, ill-health
+has incapacitated the translator from undertaking even the
+lightest work. he has therefore been obliged to entrust to other
+hands the labour of critically examining and revising the
+manuscript and of seeing it through the press. this arduous task
+has been undertaken by rev. ernest hampden-cook, m.a., st. john's
+college, cambridge, of sandhach, cheshire, with some co-operation
+from one of the translator's sons; and the translator is under
+deep obligations to these two gentlemen for their kindness in the
+matter. he has also most cordially to thank mr. hampden-cook for
+making the existence of the work known to various members of the
+old millhilians' club and other former pupils of the translator,
+who in a truly substantial manner have manifested a generous
+determination to enable the volume to see the light. very
+grateful does the translator feel to them for this signal mark of
+their friendship.
+
+        mr. hampden-cook is responsible for the headings of the
+paragraphs, and at my express desire has inserted some additional
+notes.
+
+        i have further to express my gratitude to rev. frank
+baliard, m.a., b.sc., lond., at present of sharrow, sheffield,
+for some very valuable assistance which he has most kindly given
+in connexion with the introductions to the several books.
+
+        i have also the pleasure of acknowledging the numerous
+valuable and suggestive criticisms with which i have been
+favoured on some parts of the work, by an old friend, rev. sydney
+thelwall, b.a., of leamington, a clergyman of the church of
+england, whom i have known for many years as a painstaking and
+accurate scholar, a well-read theologian. and a thoughtful and
+devout student of scripture.
+
+        i am very thankful to mr. h. l. gethin. mr. s. hales, mr.
+j. a. latham, and rev. t. a. seed, for the care with which they
+have read the proof sheets.
+
+        and now this translation is humbly and prayerfully
+commended to god's gracious blessing.
+
+r.f.w.
+
+/1. i am aware of what proffessor blackie has written on this
+subject (_aeschylus_, pref. p. viii) but the problem endeavoured
+to be solved in this translation is as above stated.
+
+/2. a flagrant instance is the "having in a readiness" of 2 cor.
+10.6, a.v. althoglgh in tyndale we find "and are redy to take
+vengeaunce," and even wiclif writes "and we han redi to venge."
+
+/3 such as mcclellan's four gospels; westcott on john's gospel,
+john's epistles, and _hebrews_; hackett on _acts_, lightfoot, and
+also ellicott, on various epistles: mayor on _james_; edwards on
+_i corinthians_ and _hebrews_; sanday and headlam on _romans_.
+add to these scrivener's very valuable _introduction to the
+criticism of the n.t._
+
+
+                   preface to the third edition
+
+        for the purposes of this edition the whole volume has
+been re-set in new type, and, in the hope of increasing the
+interest and attractiveness of the translation, all conversations
+have been spaced out in accordance with modern custom. a freer
+use than before has been made of capital letters, and by means of
+small, raised figures, prefixed to words in the text, an
+indication has been griven whenever there is a footnote.
+"capernaum" and "philadelphia" have been substituted for the less
+familiar but more literal "capharnahum" and "philadelpheia." many
+errata have been corrected, and a very considerable number of
+what seemed to be infelicities or slight inaccuracies in the
+english have been removed. a few additional footnotes have been
+inserted, and, for the most part, those for which the editor is
+responsible have now the letters ed. added to them.
+
+        sincere thanks are tendered to the many kind friends who
+have expressed their appreciation of this translation, or have
+helped to make it better known, and to the many correspondents
+who have sent criticisms of the previous editions, and made
+useful suggestions for the improvement of the volume.
+
+e.h.c.
+
+                 abbreviations used in the notes
+
+aorist. dr. weymouth's pamphlet on the rendering of the greek
+          aorist and perfect tenses into english.
+a.v. authorised english version, 1611.
+cp.  compare.
+ed.  notes for which the editor is responsible, wholly or in part.
+i.e. that is.
+lit. literally.
+lxx. the septuagint (greek) version of the old testament.
+n.   note.
+nn.  notes.
+n.t. new testament.
+o.t. old testament.
+r.v. revised english version, 1881-85.
+s.h. sanday and headlam's commentary on 'romans.'
+v.l. varia lectio. an alternative reading found in some
+     manuscripts of the new testament.
+v.v. verses.
+
+        in accordance with modern english custom, _italics_ are
+used to indicate emphasis. [in the etext, surounded by **]
+
+        old testament quotations are printed in small capitals.
+[in the etext, surrounded by <>]
+
+        during christ's earthly ministry even his disciples did not always
+recognize his super-human nature and dignity. accordingly, in
+the gospels of this translation, it is only when the evangelists
+themselves use of him the words "he," "him," "his," that these
+are spelt with capital initial letters.
+
+        the spelling of "me" and "my" with small initial letters, when
+used by christ himself in the gospels, is explained by the fact
+that, before his resurrection, he did not always emphasize his
+own super-human nature and dignity.
+
+               the good news as recorded by matthew
+
+        there are ample reasons for accepting the uniform
+tradition which from earliest times has ascribed this gospel to
+levi the son of alphaeus, who seems to have changed his name to
+'matthew' on becoming a disciple of jesus. our information as to
+his subsequent life is very scanty. after the feast which he made
+for his old friends (lu 5:29) his name only appears in the new
+testament in the list of the twelve apostles. early christian
+writers add little to our knowledge of him, but his life seems to
+have been quiet and somewhat ascetic. he is also generally
+represented as having died a natural death. where his gospel was
+written, or where he himself laboured, we cannot say.
+
+        not a little controversy has arisen as to the form in
+which this gospel first appeared, that is, as to whether we have
+in the greek mss. an original document or a translation from an
+earlier aramaic writing. modern scholarship inclines to the view
+that the book is not a translation, but was probably written in
+greek by matthew himself, upon the basis of a previously issued
+collection of "logia" or discourses, to the existence of which
+papias, irenaeus, pantaenus, origen, eusebius and jerome all
+testify.
+
+        the date of the gospel, as we know it, is somewhat
+uncertain, but the best critical estimates are included between
+70 and 90, a.d. perhaps, with harnack, we may adopt 75, a.d.
+
+        the book was evidently intended for jewish converts, and
+exhibits jesus as the god-appointed messiah and king, the
+fulfiller of the law and of the highest expectations of the
+jewish nation. this speciality of aim rather enhances than
+diminishes its general value. renan found reason for pronouncing
+it "the most important book of christendom-- the most important
+book which has ever been written." its aim is manifestly didactic
+rather than chronological.
+
+                the good news as recorded by mark
+
+        this gospel is at once the briefest and earliest of the
+four. modern research confirms the ancient tradition that the
+author was barnabas's cousin, "john, whose other name was mark,"
+who during paul's first missionary tour "departed from them" at
+pamphylia, "and returned to jerusalem" (see ac 12:12,25;
+15:37,39; co 4:1o; 2ti 4:11; phm 1:24; 1pe 5:13). his defection
+appeared to paul sufficiently serious to warrant an emphatic
+refusal to take him with him on a second tour, but in after years
+the breach was healed and we find mark with paul again when he
+writes to colossae, and he is also mentioned approvingly in the
+second letter to timothy.
+
+        scholars are now almost unanimous in fixing the date of
+this gospel between 63 and 70, a. d. there is no valid reason for
+questioning the usual view that it was written in rome. clement,
+eusebius, jerome and epiphanius, all assert that this was so.
+that the book was mainly intended for gentiles, and especially
+romans, seems probable from internal evidence. latin forms not
+occurring in other gospels, together with explanations of jewish
+terms and customs, and the omission of all reference to the
+jewish law, point in this direction. its vividness of narration
+and pictorial minuteness of observation bespeak the testimony of
+an eye-witness, and the assertion of papias, quoted by eusebius,
+that mark was "the interpreter of peter" is borne out by the
+gospel itself no less than by what we otherwise know of mark and
+peter.
+
+        in a real though not mechanical sense, this is "the
+gospel of peter," and its admitted priority to the gospels of
+matthew and luke affords substantial reason for the assumption
+that it is to some extent the source whence they derive their
+narratives, although papias distinctly affirms that mark made no
+attempt at giving a carefully arranged history such as that at
+which luke confessedly aimed.
+
+        in spite of the witness of most uncial mss. and the
+valiant pleading of dean burgon and others, modern scholars are
+well nigh unanimous in asserting that the last twelve verses of
+this gospel are an appendix. yet less cannot honestly be said
+than that they "must have been of very early date," and that they
+embody "a true apostolic tradition which may have been written by
+some companion or successor of the original author." in one
+armenian ms. they are attributed to aristion.
+
+                the good news as recorded by luke
+
+        modern research has abundantly confirmed the ancient
+tradition that the anonymous author of the third gospel is none
+other than "luke the beloved physician" and the narrator of the
+"acts of the apostles" (see. col 4:14; 2ti 4:11; phm 1:24). even
+renan acknowledges this, and the objections of a few extremists
+appear to have been sufficiently answered.
+
+        the date is not easy to settle. the main problem is
+whether the book was written before or after the destruction of
+jerusalem in 70, a.d. not a few scholars whose views merit great
+respect still think that it preceded that event, but the majority
+of critics believe otherwise. three principal dates have been
+suggested, 63, a.d., 80, a.d., 100, a.d. if we accept 80, a. d.,
+we shall be in substantial accord with harnack, mcgiffert, and
+plummer, who fairly represent the best consensus of scholarly
+opinion.
+
+        there is no evidence as to where this gospel was
+composed, although its general style suggests the influence of
+some hellenic centre. its special characteristics are plain. it
+is written in purer greek than the other gospels, and is
+manifestly the most historic and artistic. it has also the widest
+outlook, having obviously been compiled for gentiles, and,
+especially, for greeks. the author was evidently an educated man
+and probably a physician, and was also a close observer.
+
+        eighteen of the parables and six of the miracles found
+here are not recorded elsewhere. those "portions of the gospel
+narrative which luke alone has preserved for us, are among the
+most beautiful treasures which we possess, and we owe them in a
+great measure to his desire to make his collection as full as
+possible." luke's object was rather to write history than
+construct an "apology" and for this reason his order is generally
+chronological.
+
+        this gospel is often termed, and not without reason, "the
+gospel of paul." luke's close association with the great
+apostle--an association to which the record in the acts and also
+the pauline letters bear testimony--at once warrants and explains
+the ancient assumption that we have here a writing as truly
+coloured by the influence of paul as that of mark was by peter.
+this is especially the gospel of gratuitous and universal
+salvation. its integrity has recently been placed beyond dispute.
+marcion's edition of it in 140, a.d., was a mutilation of the
+original!
+
+                the good news as recorded by john
+
+        in spite of its rejection by marcion and the alogi, the
+fourth gospel was accepted by most christians at the end of the
+second century as having been written by the apostle john. in the
+present day the preponderating tendency among scholars favours
+the traditional authorship. on the other hand the most recent
+scrutiny asserts: "although many critics see no adequate reason
+for accepting the tradition which assigns the book to the apostle
+john, and there are several cogent reasons to the contrary, they
+would hardly deny that nevertheless the volume is johannine--in
+the sense that any historical element throughout its pages may be
+traced back directly or indirectly to that apostle and his
+school."
+
+        as regards the date, no more definite period can be
+indicated than that suggested by harnack--between 80, a.d., and
+110, a.d. but that it was written in ephesus is practically
+certain, and there is evidence that it was composed at the
+request of elders and believers belonging to the churches of
+roman asia.
+
+        the special characteristics which render the book unique
+in literature are unmistakable, but scarcely admit of brief
+expression. it is manifestly supplementary to the other gospels
+and assumes that they are known and are true. the differences
+between the fourth gospel and the other three may be easily
+exaggerated, but it must be acknowledged that they exist. they
+relate, (1) to the ministry of christ, and (2) to his person. as
+to the former it is impossible to correlate all the references to
+distinct events, for whilst the synoptics appear to contemplate
+little more than the life and work of a single year, from john's
+standpoint there can scarcely have been less than three years
+concerned. as to the person of christ, it must be owned that
+although the fourth gospel makes no assertion which contradicts
+the character of teacher and reformer attributed to him by the
+synoptics, it presents to us a personage so enwrapped in mystery
+and dignity as altogether to transcend ordinary human nature.
+this transcendent personality is indeed the avowed centre of the
+whole record, and his portrayal is its avowed purpose. yet whilst
+the writer never clearly reveals to us who he himself is, it is
+equally manifest that his own convictions constitute the matrix
+in which the discourses and events are imbedded, and that there
+is nothing in this matrix to render that which it contains unreal
+or untrustworthy.
+
+                     the acts of the apostles
+
+        the authorship of this book has been much discussed, but
+it may now be affirmed with certainty that the writer of our
+third gospel is also the author of "the acts," and that he speaks
+from the standpoint of an eye-witness in the four we sections
+(16:10-17; 20:5-15; 21:1-18; 27:1--28:16), and is known in paul's
+letters as "luke the beloved physician" (col 4:14; 2ti 4:11; phm
+1:24). the date necessarily depends upon that of the third
+gospel. if the latter was written before the destruction of
+jerusalem, then luke's second work may well have been issued
+between 66 and 70, a.d. but the tendency, in the present day, is
+to date the gospel somewhere between 75 and 85, a.d., after the
+destruction of the city. in that case "the acts" may be assigned
+to any period between 80 and 90, a.d. the latter conclusion,
+though by no means certain, is perhaps the more probable.
+
+        the familiar title of the book is somewhat unfortunate,
+for it is manifestly not the intention of the writer to describe
+the doings of the apostles generally, but rather just so much of
+the labours of peter and paul--and especially the latter--as will
+serve to illustrate the growth of the early church, and at the
+same time exhibit the emancipation of christianity from its
+primitive judaic origin and environment.
+
+        it is plain that the writer was contemporary with the
+events he describes, and although his perfect ingenuousness
+ceaselessly connects his narrative with history, in no case has
+he been proved to be in error. the intricacy of the connexions
+between this record and the pauline letters will be best
+estimated from a study of paley's _horae paulinae_. we know
+nothing definite as to the place where the acts was written, nor
+the sources whence the information for the earlier portion of the
+narrative was obtained. but it may be truthfully affirmed that
+from the modern critical ordeal the work emerges as a definite
+whole, and rather confirmed than weakened in regard to its
+general authenticity.
+
+                   paul's letter to the romans
+
+        the four books of the new testament known as the letters
+to the romans, corinthians, and galatians, are allowed by
+practically all critics, including some of the most
+"destructive," to be genuine productions of the apostle paul.
+opinions vary as to the order of their composition. the latest
+research tends to put 'galatians' first, and 'romans' last, in
+the period between 53 and 58 a. d. the date generally assigned to
+the roman letter is 58 a.d., but recently harnack, mcgiffert,
+clemen and others have shown cause for putting it some four years
+earlier. the chronology of the period is necessarily very
+complicated. it must suffice, therefore, to regard this letter as
+having been written, at either of these dates, from corinth,
+where paul was staying in the course of his third missionary
+tour. he was hoping to go to rome, by way of jerusalem, and then
+proceed to spain (15:24; ac 24:21).
+
+        the object of this letter was to prepare the christians
+in rome for his visit, and make a clear statement of the new
+doctrines which he taught. it is probable that the crisis in
+galatia, to which the letter sent thither bears witness, had
+driven the apostle's thoughts in the direction of the subject of
+justification, and he was apparently much troubled by the
+persistence of jewish unbelief. hence the present letter has been
+well termed "the gospel according to paul."
+
+        we know really nothing about the christians then in rome
+beyond what we find here. it is, however, fairly certain that
+reports concerning the saviour would be taken to that city by
+proselytes, both before and after the events described in acts 2,
+and we know that there was a large jewish population there
+amongst whom the seed would be sown. some critics have thought
+"that a note addressed to ephesus lies embedded in the 16th
+chapter," because, they say, it is "inconceivable that paul could
+have intimately known so many individuals in a church like that
+in rome to which he was personally a stranger." but this is by no
+means demonstrated, nor is there evidence that the church there
+was founded by any other apostle.
+
+              paul's first letter to the corinthians
+
+        the genuineness of the two letters to the corinthians has
+never been seriously disputed. the first was written by the
+apostle paul, probably in the early spring of 56 a.d., just
+before he left ephesus for troas in the course of his third
+missionary tour (ac 19). the church in corinth had been founded
+by him during his previous tour (ac 18). after some hesitation he
+had been induced to preach in corinth, and in spite of the
+opposition of the jews such great success attended his efforts
+that he remained there for more than eighteen months. the furious
+attack upon him which was frustrated by gallio gave impetus to
+the new cause, so that when the apostle left, there was a
+comparatively strong church there, consisting mostly of greeks,
+but including not a few jews also. the dangers, however, arising
+out of the temperament and circumstances of the corinthians soon
+manifested themselves. the city was the capital of roman greece,
+a wealthy commercial centre, and the home of a restless,
+superficial intellectualism. exuberant verbosity, selfish
+display, excesses at the lord's table, unseemly behaviour of
+women at meetings for worship, and also abuse of spiritual gifts,
+were complicated by heathen influences and the corrupting customs
+of idolatry. hence the apostle's pleas, rebukes, and
+exhortations. most noteworthy of all is his forceful treatment of
+the subject of the resurrection of christ; and this only a
+quarter of a century after the event. of the letter mentioned in
+5:9 we know nothing.
+
+             paul's second letter to the corinthians
+
+        the second letter to the corinthians was probably written
+in the autumn of 56 a.d., the first letter to them having been
+sent in the spring of that year. but there are other letters of
+which we have no clear account. one, lost to us, evidently
+preceded the first letter (1co 5:9). in our "second" letter we
+find mention (2:2,4) of a severe communication which could not
+but give pain. can this have been our "first" to the corinthians?
+some think not, in which case there must have been an
+"intermediate" letter. this some students find in 2co 10 1-8:1o.
+if so, there must have been four letters. some have thought that
+in 2co 6:14-7:1, and 8, 9, yet another is embedded, making
+possibly five in all. the reader must form his own conclusions,
+inasmuch as the evidence is almost entirely internal. on the
+whole it would seem that our first letter, conveyed by titus, had
+produced a good effect in the corinthian church, but that this
+wore off, and that titus returned to the apostle in ephesus with
+such disquieting news that a visit of paul just then to corinth
+would have been very embarrassing, alike for the church and the
+apostle. hence, instead of going, he writes a "painful" letter
+and sends it by the same messenger, proceeding himself to troas
+and thence to macedonia, where, in great tension of spirit, he
+awaits the return of titus. at last there comes a reassuring
+account, the relief derived from which is so great that our
+second letter is written, with the double purpose of comforting
+those who had been so sharply rebuked and of preventing the
+recurrence of the evils which had called forth the remonstrance.
+in this way both the tenderness and the severity of the present
+letter may be explained.
+
+                  paul's letter to the galatians
+
+        there is no question as to the genuineness of this
+pauline letter, but unlike most other writings of the apostle it
+was addressed to "churches" rather than to a single community.
+
+        formerly it was not easy to decide the precise meaning of
+the term "galatia." opinions differed on the subject. the "north
+galatian theory," contended for by some german scholars,
+maintained that the letter was addressed to the churches of
+ancyra, tavium, pessinus and possibly to those in other cities.
+the "south galatian theory," which now holds the field in
+english-speaking countries, is to the effect that the
+congregations intended were those of pisidian antioch, iconium,
+derbe and lystra; and this is strongly supported by the unique
+resemblance between this letter and paul's sermon in pisidian
+antioch (ac 13:14-41). in any case the population was very mixed,
+consisting of phrygians, greeks, romans, gauls and jews.
+
+        the date of the letter cannot be exactly fixed. the
+periods assigned by recent scholarship vary from 46 a.d. to 58
+a.d., but the medium estimate of 53 a.d., adopted by harnack and
+ramsay, satisfies all the requirements of the case.
+
+        the apostle certainly visited galatia during his second
+missionary tour, perhaps about 51 a. d., and, although suffering
+from illness, was received with enthusiasm. after a short stay he
+departed cherishing a joyful confidence as to his converts there.
+but when, less than three years afterwards, he came again, he
+found that the leaven of judaism had produced a definite
+apostasy, insomuch that both the freedom of individual believers
+and his own apostolic authority were in danger.
+
+        even his personal presence (ac 18:23) did not end the
+difficulty. hence, possibly during his journey between macedonia
+and achaia, he sent this letter. its rugged and incoherent style
+shows that it was dictated under great stress of feeling, and the
+doctrine of justification by faith is stated more emphatically
+than in any other of his writings. but his earnest insistence
+upon the "fruit borne by the spirit" proves that his ideal of
+practical holiness was rather strengthened than impaired by his
+plea for faith as the mainspring of christian life.
+
+                  paul's letter to the ephesians
+
+        this appears to have been a kind of circular letter to
+the churches in roman asia, and was not addressed exclusively to
+the church in ephesus.
+
+        ephesus was a well-known seaport and the principal city
+in roman asia. it was famous alike for its wonderful temple,
+containing the shrine of artemis, and for its vast theatre, which
+was capable of accommodating 50,000 persons.
+
+        paul was forbidden at first to preach in roman asia (ac
+16:6), but he afterwards visited ephesus in company with
+priscilla and aquila (ac 18:19). about three years later (ac
+19:1) he came again and remained for some time--probably from 54
+to 57 a. d.--preaching and arguing in the school of tyrannus,
+until driven away through the tumult raised by demetrius. he then
+went to jerusalem, by way of miletus, but was arrested in the
+uproar created by the jews and was taken first to caesarea (ac
+23:23), and thence to rome (ac 28:16). this was probably in the
+spring of 61 a.d.
+
+        late in 62 or early in 63 a.d., this letter was written,
+together with the companion letters to the colossians and
+philemon.
+
+                 paul's letter to the philippians
+
+        this letter was written shortly before that to the
+ephesians, probably late in 61 or early in 62 a.d. epaphroditus
+had been sent to rome to assure the apostle, in his imprisonment,
+of the tender and practical sympathy of the philippian disciples
+(php 2:25; 4:15,16). the messenger, however, fell ill upon his
+arrival, and only on his recovery could paul, as in this letter,
+express his appreciation of the thoughtful love of the
+philippians.
+
+        the apostle appears to have visited the city three times.
+in 52 a.d. it was the place of his first preaching in europe (ac
+16:12); but he came again in 57 and in 58 a.d. (ac 20:2,6), on
+the last occasion spending the passover season there.
+
+        two special traits in the macedonian character are
+recognized by the apostle in this letter; the position and
+influence of women, and the financial liberality of the
+philippians. it is remarkable that a church displaying such
+characteristics, and existing in a roman "colonia," should have
+lived, as this one did, "without a history, and have perished
+without a memorial."
+
+                 paul's letter to the colossians
+
+        this letter belongs to the same group as those to the
+ephesians and philemon, and was probably written from rome about
+63 a. d. colossae was a town in phrygia (roman asia), on the
+river lycus, and was destroyed by an earthquake in the seventh
+year of nero's reign. the church there was not founded by paul
+himself (col 2:1), but by epaphras (col 1:7; 4:12), and this
+letter arose out of a visit which epaphras paid to the apostle,
+for the purpose of discussing with him the development, at
+colossae, of certain strange doctrines which may possibly have
+been a kind of early gnosticism. paul here writes to support the
+authority and confirm the teaching of epaphras.
+
+             paul's first letter to the thessalonians
+
+        during his second missionary tour (ac 17), paul came to
+thessalonica and preached the good news there with no little
+success. the city--which had had its name given it by cassander,
+after his wife, the sister of alexander the great--was the most
+populous in macedonia, besides being a "free city" and the seat
+of the roman pro-consular administration. its modern name is
+saloniki.
+
+        very soon the unbelieving jews stirred up the mob against
+paul and silas, and dragged jason before the magistrates. hence
+the brethren sent the missionaries away by night to beroea, being
+alarmed for their safety. as the apostle was naturally anxious
+about the persecuted flock which he had been obliged to leave
+behind, he made two attempts to return to them, but these being
+frustrated (1th 2:18), he then sent timothy, from athens, to
+inquire after their welfare and encourage them.
+
+        the report brought back was on the whole satisfactory,
+but left occasion for the self-defence, the warnings and the
+exhortations of this letter, which was then sent from corinth,
+probably in 53 a.d.
+
+            paul's second letter to the thessalonians
+
+        this letter was written from corinth not long after the
+preceding one, and probably in the year 54 a.d. its occasion was
+the reception of tidings from thessalonica which showed that
+there had been a measure of misapprehension of the apostle's
+teaching in regard to the return of the lord jesus, and also that
+there was a definitely disorderly section in the church there,
+capable of doing great harm.
+
+        hence paul writes to correct the error into which his
+converts had fallen, and at the same time he uses strong language
+as to the treatment to be dealt out to those members of the
+church who were given to idleness and insubordination.
+
+                  paul's first letter to timothy
+
+        there has never been any real doubt among christian
+people as to the authorship of the three "pastoral" letters. but
+definite objections to their genuineness have been made in recent
+times upon the ground of such internal evidence as their style,
+the indications they present of advanced organization, their
+historic standpoint and their references to developed heresy.
+
+        says one scholar, "while there is probably nothing in
+them to which the apostle would have objected, they must be
+regarded on account of their style as the product of one who had
+been taught by paul and now desired to convey certain teachings
+under cover of his name. the date need not be later than 80 a.d."
+
+        yet a thorough examination of the matter does not support
+such objections. it is certain that the three letters stand or
+fall together, and there is no sufficient reason for dismissing
+the ancient conclusion that they are all the genuine work of
+paul, and belong to the last years of his life, 66-67 a.d.
+
+        this first letter was probably written from macedonia.
+
+                 paul's second letter to timothy
+
+        the marks of genuineness in this letter are very
+pronounced. for instance, the thanksgiving, the long list of
+proper names--twenty-three in number--the personal details and
+the manifest tone of sincerity and earnestness. hence it is
+accepted as paul's even by some who reject the former letter and
+that addressed to titus. but it is inseparable from the others,
+and was probably written from rome during the apostle's second
+imprisonment. it is his last letter known to us, and its apparent
+date is 67 a.d.
+
+                      paul's letter to titus
+
+        this letter was probably written from ephesus in 67 a.d.
+titus, who was a greek by birth, is mentioned in eleven other
+places in the pauline letters and always with marked approval
+(2co 2:13; 7:6,13,14; 8:6,16,23; 12:18; ga 2:1,3; 2ti 4:10). he
+was often a trusted messenger to the churches, his last errand
+being to dalmatia. tradition confirms the inference commonly
+drawn from this letter that he was long the bishop of the church
+in crete, and regards candia as having been his birthplace.
+
+                    paul's letter to philemon
+
+        this letter (63 a.d.) was written as the result of paul's
+deep interest in onesimus, a slave who had fled from colossae to
+rome to get free from philemon his master (col 4:9).
+
+        "a phrygian slave was one of the lowest known types to be
+found in the roman world, displaying all the worst features of
+character which the servile condition developed. onesimus had
+proved no exception. he ran away from his master, and, as paul
+thought probable (verses 18,19), not without helping himself to a
+share of his master's possessions. by the help of what he had
+stolen, and by the cleverness which afterwards made him so
+helpful to paul, he made his way to rome, naturally drawn to the
+great centre, and prompted both by a desire to hide himself and
+by a youthful yearning to see the utmost the world could show of
+glory and of vice.
+
+        "but whether feeling his loneliness, or wearied with a
+life of vice, or impoverished and reduced to want, or seized with
+a fear of detection, he made his way to paul, or unbosomed
+himself to some asiatic he saw on the street. and as he stepped
+out of the coarse debauchery and profanity of the crowded resorts
+of the metropolis into the room hallowed by the presence of paul,
+he saw the foulness of the one life and the beauty of the other,
+and was persuaded to accept the gospel he had so often heard in
+his master's house.
+
+        "how long he remained with paul does not appear, but it
+was long enough to impress on the apostle's mind that this slave
+was no common man. paul had devoted and active friends by him,
+but this slave, trained to watch his master's wants and to
+execute promptly all that was entrusted to him, became almost
+indispensable to the apostle. but to retain him, he feels, would
+be to steal him, or at any rate to deprive philemon of the
+pleasure of voluntarily sending him to minister to him (verse
+14). he therefore sends him back with this letter, so exquisitely
+worded that it cannot but have secured the forgiveness and
+cordial reception of onesimus" (marcus dods, d.d., _new testament
+introduction_).
+
+                    the letter to the hebrews
+
+        as regards the date of this letter, the only sure
+conclusion appears to be that it was before 70 a.d. the book
+itself claims to have been written at the end of the jewish age
+(1:2; 9:26), whilst the earthly temple was still in existence
+(9:8), and it is inconceivable that such an overwhelming comment
+upon the writer's whole position as that afforded by the
+destruction of jerusalem would have been overlooked, had it been
+available. hence 67-68 a.d. may with probability be alleged as
+the time of composition. the only fact clear as to the author is
+that he was not the apostle paul. the early fathers did not
+attribute the book to paul, nor was it until the seventh century
+that the tendency to do this, derived from jerome, swelled into
+an ecclesiastical practice. from the book itself we see that the
+author must have been a jew and a hellenist, familiar with philo
+as well as with the old testament, a friend of timothy and
+well-known to many of those whom he addressed, and not an apostle
+but decidedly acquainted with apostolic thoughts; and that he not
+only wrote before the destruction of jerusalem but apparently
+himself was never in palestine. the name of barnabas, and also
+that of priscilla, has been suggested, but in reality all these
+distinctive marks appear to be found only in apollos. so that
+with luther, and not a few modern scholars, we must either
+attribute it to him or give up the quest.
+
+        there has never been any question as to the canonicity of
+this letter, nor can there be any doubt as to its perennial value
+to the church of christ. where it was written cannot be decided.
+"the brethren from italy" (13:24) proves nothing. nor is it
+possible to decide to whom it was sent. "the hebrews," to whom it
+was addressed, may have been resident in jerusalem, alexandria,
+ephesus, or rome. the most remarkable feature of the letter is
+manifestly its references to the old covenant. here there is a
+mingling of reverence and iconoclasm. the unquestionably divine
+origin of the jewish dispensation is made use of for laying
+emphasis upon the infinitely superior glory of the christian
+order. thus an _a fortiori_ argument pervades the whole --if the
+shadow was divine, how much more must the substance be! "the
+language of the epistle, both in vocabulary and style, is purer
+and more vigorous than that of any other book of the new
+testament" (westcott).
+
+                          james's letter
+
+        four persons bearing the name of 'james' are mentioned in
+the new testament.
+
+(1) the apostle, the son of zabdi.
+(2) the apostle, the son of alphaeus.
+(3) the son of mary the wife of clopas.
+(4) the lord's brother, mentioned as such along with joses, simon
+and judah, and prominent in the acts (12:17; 15:13; 21:18).
+
+        the last-named was also known as 'james the just' and is
+represented by tradition as having led an ascetic life, which
+ended in martyrdom. he was undoubtedly bishop, or president, of
+the church in jerusalem and in all probability this letter was
+written by him from that city.
+
+        there has been some difference of opinion as to the date
+of the book. the majority of scholars insist that both the
+internal and external evidence point to its having been written
+between 44 and 50 a. d., before the earliest of paul's letters.
+but, on the other hand, the solemn emphasis which the author lays
+upon the immediateness of the lord's return (5:7,8,9) may be
+regarded as a moral proof of a date very much nearer the winding
+up of the mosaic dispensation in 70 a. d.
+
+        the letter may have been a jewish one, addressed to the
+christian converts from judaism who were scattered abroad, within
+or beyond the limits of the roman empire. luther deemed it "an
+epistle of straw," by reason of its insistence upon the vital
+importance of 'works.' but its practical ideal assumes the same
+basis of christian faith as is found in the letters of paul. the
+opening references to severe trial seem to show that the
+persecution begun by herod agrippa had already been repeated
+elsewhere. if the later date of the book be admitted, the
+persecution must then, of course, have been that under nero.
+
+                       peter's first letter
+
+        the state of things described in this letter answers to
+what we find in the first letter to timothy, and points to the
+same period. the "fiery trial" referred to is probably the
+persecution which, begun by nero, in 64 a.d., in order to divert
+attention from himself, was continued throughout the roman
+empire.
+
+        the letter seems to be primarily addressed to those who
+regarded peter as the apostle to the jews, although it is
+manifest that he did not think of these alone. the fact that it
+is "full of pauline thought and pauline language," is accounted
+for by the well-grounded supposition that peter arrived in rome
+shortly before paul was released. so that this letter, probably
+written about 65-66 a.d., was definitely intended to set before
+the churches of roman asia "the inspiring vision of the two
+apostles working and planning together in the capital."
+
+        this would be at once the clearest lesson the churches
+could have concerning their unity, and a great encouragement to
+those then undergoing tribulation and persecution on behalf of
+christ.
+
+                      peter's second letter
+
+        it is impossible to speak with any certainty as to either
+the date or the authorship of this letter. from the beginning
+there have been doubts as to its genuineness and canonicity, and
+these are represented to-day in the differing judgements of
+critics equally able and sincere.
+
+        it has, however, unquestionably had a place in the canon
+of the new testament since the council of laodicea in 372 a.d.,
+and there is certainly no such decisive evidence against it as to
+warrant our omitting it from the new testament.
+
+        it would appear that the writer, whoever he was, had seen
+the letter from jude, and bore it in mind in this his plea for
+such character and conduct on the part of believers as were
+worthy of their faith and would prepare them for the coming of
+the lord. the whole letter constitutes an earnest appeal for
+practical holiness.
+
+                       john's first letter
+
+        that this letter was the actual work of the apostle john,
+the son of zabdi, has been abundantly testified from the very
+earliest times.
+
+        some modern critics have doubted it, on the ground of
+internal evidence. but a calm survey of the whole case does not
+bear out their objections. dr. salmon well says that no
+explanation of the origin of the epistle fits the facts so well
+as the one which has always prevailed. it seems to have been
+addressed to the church at large, with perhaps special reference
+to the churches in roman asia.
+
+        the connexion between this letter and the fourth gospel
+is "intimate and organic. the gospel is objective and the epistle
+subjective. the gospel suggests principles of conduct which the
+epistle lays down explicitly. the epistle implies facts which the
+gospel states as historically true."
+
+        this letter appears to have been written from ephesus,
+and critics have usually assigned 95 a. d., or some other year
+equally late in the apostolic age, as the probable date of its
+composition. on the other hand the internal evidence points to a
+date immediately preceding the destruction of jerusalem in 70
+a.d. see 2:8 (last clause); 2:18; 4:3; and note the expectation
+of a speedy coming of christ (2:28; 3:2)--an expectation which
+seems almost to have ceased in the early church after that date.
+
+                       john's second letter
+
+        although we are unable to fix the exact date of this
+letter or the place at which it was written, there is sufficient
+evidence, both external and internal, to warrant our acceptance
+of it as a genuine work of the apostle john.
+
+        some have thought that the "lady" addressed stands for an
+unknown church, but upon careful consideration it appears more
+reasonable and natural to regard the letter as having been a
+private one. it is impossible to discover the name of the
+individual to whom it was sent, but both this and the following
+letter may be taken as "precious specimens of the private
+correspondence of the beloved apostle."
+
+                       john's third letter
+
+        there can be no doubt that this letter was addressed to
+an individual person. we cannot affix to it a definite date, or
+place, but the most natural supposition--which there is nothing
+to contradict--is that it came from the apostle in ephesus, about
+the same time as the preceding letter.
+
+        the special mention of diotrephes and his behaviour
+points indeed to a somewhat advanced development in the church to
+which galus belonged, but such characters are all too possible at
+any juncture to afford in this instance any guarantee of a later
+date.
+
+        in this, as in the preceding letters, the writer's great
+concern is that transcendental truth should be embodied in
+practical holiness.
+
+                          jude's letter
+
+        of the time and place of the composition of this letter
+we know nothing beyond what may be inferred from its contents.
+these seem to show that it was written in palestine, and the
+absence of any reference to so striking an event as the
+destruction of jerusalem points to a date earlier than 70 a. d.
+
+        it has, however, been thought that such a rebuke of error
+and licentiousness as that which this letter contains can only
+apply to the forms of gnosticism known to have existed in the
+first quarter of the second century. but there is no reason to
+doubt that the author was the man he asserts he was, the brother
+of james, the head of the church in jerusalem. he was, therefore,
+not an apostle but one of the lord's brothers.
+
+        the abiding value of the letter consists in its severe
+condemnation of merely professional christianity, and its
+remarkably beautiful doxology.
+
+                      the revelation of john
+
+        the apocalypse was written either in 67, or in 96, a.d.
+an oft-quoted statement of irenaeus that it, or its author--
+there is no word inserted to indicate which of the two he
+meant--"was seen" about the end of the reign of domitian, is
+regarded by many as a conclusive proof of the later date. on the
+other hand, the "internal evidence"--the evidence, that is,
+furnished by the contents of the book itself--appears to point
+even more unmistakably to the earlier date. e.g-., in 11:1,2,8,
+the holy city and the earthly temple are spoken of as being still
+in existence, and as about to be trodden under foot by the
+gentiles.
+
+        the language of the book has also a bearing upon the
+problem of its date. although other explanations have been
+suggested, the many hebrew idioms that it contains as compared
+with the much purer greek of the fourth gospel-- which was
+probably by the same author--seem to indicate that it was written
+long before that gospel, at a time when the apostle had as yet
+only an imperfect acquaintance with the greek language.
+
+        dr. stuart russell, in his work _the parousia_, has
+contended for the belief that the fall of jerusalem and judaism
+in 70 a.d. marked a stupendous epoch in the unseen world, a
+personal--although unrecorded--return of the saviour to the earth
+then taking place (cp. ac 7:55; 9:7; 1co 9:1), accompanied by a
+spiritual judgement of bygone generations, a resurrection from
+hades to heaven of the faithful of past ages, and an ingathering
+of saints then on earth into the father's house of many mansions
+(mt 24:31; joh 14:3; 1th 4:17; 2th 2:1).
+
+        if this belief ever obtains general acceptance the
+earlier date of the apocalypse will also be regarded as fully
+established. for it will then be seen that the book describes
+beforehand events which took place in 70 a.d. and the years
+immediately preceding, partly on earth and partly in the
+spiritual world, and is mainly concerned with the downfall of the
+earthly jerusalem and the setting up of christ's heavenly
+kingdom--the new jerusalem. and its many mysterious symbols will
+be seen to have been a cipher of which the first christians held
+the key, but which hid its meaning from their enemies.
+
+        many scholars, however, regard the book as a document of
+nero's time carefully incorporated in one written about 90 a.d.:
+"a jewish apocalypse in a christian framework;" both perhaps
+being by the same author.--editor.
+
+
+

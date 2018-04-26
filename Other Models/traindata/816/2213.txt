@@ -1,0 +1,2605 @@
+
+
+
+this ebook was produced by tapio riikonen
+and david widger, widger@cecomet.net
+
+
+
+
+
+lucretia
+
+by edward bulwer lytton
+
+
+
+
+preface to the edition of 1853.
+
+"lucretia; or, the children of night," was begun simultaneously with "the
+caxtons: a family picture."  the two fictions were intended as pendants;
+both serving, amongst other collateral aims and objects, to show the
+influence of home education, of early circumstance and example, upon
+after character and conduct.  "lucretia" was completed and published
+before "the caxtons."  the moral design of the first was misunderstood
+and assailed; that of the last was generally acknowledged and approved:
+the moral design in both was nevertheless precisely the same.  but in one
+it was sought through the darker side of human nature; in the other
+through the more sunny and cheerful: one shows the evil, the other the
+salutary influences, of early circumstance and training.  necessarily,
+therefore, the first resorts to the tragic elements of awe and distress,
+--the second to the comic elements of humour and agreeable emotion.  these
+differences serve to explain the different reception that awaited the
+two, and may teach us how little the real conception of an author is
+known, and how little it is cared for; we judge, not by the purpose he
+conceives, but according as the impressions he effects are pleasurable or
+painful.  but while i cannot acquiesce in much of the hostile criticism
+this fiction produced at its first appearance, i readily allow that as a
+mere question of art the story might have been improved in itself, and
+rendered more acceptable to the reader, by diminishing the gloom of the
+catastrophe.  in this edition i have endeavoured to do so; and the victim
+whose fate in the former cast of the work most revolted the reader, as a
+violation of the trite but amiable law of poetical justice, is saved from
+the hands of the children of night.  perhaps, whatever the faults of this
+work, it equals most of its companions in the sustainment of interest,
+and in that coincidence between the gradual development of motive or
+passion, and the sequences of external events constituting plot, which
+mainly distinguish the physical awe of tragedy from the coarse horrors of
+melodrama.  i trust at least that i shall now find few readers who will
+not readily acknowledge that the delineation of crime has only been
+employed for the grave and impressive purpose which brings it within the
+due province of the poet,--as an element of terror and a warning to the
+heart.
+
+london, december 7.
+
+
+preface to the first edition.
+
+it is somewhere about four years since i appeared before the public as
+the writer of a fiction, which i then intimated would probably be my
+last; but bad habits are stronger than good intentions.  when fabricio,
+in his hospital, resolved upon abjuring the vocation of the poet, he was,
+in truth, recommencing his desperate career by a farewell to the muses,--
+i need not apply the allusion.
+
+i must own, however, that there had long been a desire in my mind to
+trace, in some work or other, the strange and secret ways through which
+that arch-ruler of civilization, familiarly called "money," insinuates
+itself into our thoughts and motives, our hearts and actions; affecting
+those who undervalue as those who overestimate its importance; ruining
+virtues in the spendthrift no less than engendering vices in the miser.
+but when i half implied my farewell to the character of a novelist, i had
+imagined that this conception might be best worked out upon the stage.
+after some unpublished and imperfect attempts towards so realizing my
+design, i found either that the subject was too wide for the limits of
+the drama, or that i wanted that faculty of concentration which alone
+enables the dramatist to compress multiform varieties into a very limited
+compass.  with this design, i desired to unite some exhibition of what
+seems to me a principal vice in the hot and emulous chase for happiness
+or fame, fortune or knowledge, which is almost synonymous with the cant
+phrase of "the march of intellect," in that crisis of society to which we
+have arrived.  the vice i allude to is impatience.  that eager desire to
+press forward, not so much to conquer obstacles as to elude them; that
+gambling with the solemn destinies of life, seeking ever to set success
+upon the chance of a die; that hastening from the wish conceived to the
+end accomplished; that thirst after quick returns to ingenious toil, and
+breathless spurrings along short cuts to the goal, which we see
+everywhere around us, from the mechanics' institute to the stock market,-
+-beginning in education with the primers of infancy, deluging us with
+"philosophies for the million" and "sciences made easy;" characterizing
+the books of our writers, the speeches of our statesmen, no less than the
+dealings of our speculators,--seem, i confess, to me to constitute a very
+diseased and very general symptom of the times.  i hold that the greatest
+friend to man is labour; that knowledge without toil, if possible, were
+worthless; that toil in pursuit of knowledge is the best knowledge we can
+attain; that the continuous effort for fame is nobler than fame itself;
+that it is not wealth suddenly acquired which is deserving of homage, but
+the virtues which a man exercises in the slow pursuit of wealth,--the
+abilities so called forth, the self-denials so imposed; in a word, that
+labour and patience are the true schoolmasters on earth.  while occupied
+with these ideas and this belief, whether right or wrong, and slowly
+convinced that it was only in that species of composition with which i
+was most familiar that i could work out some portion of the plan that i
+began to contemplate, i became acquainted with the histories of two
+criminals existing in our own age,--so remarkable, whether from the
+extent and darkness of the guilt committed, whether from the glittering
+accomplishments and lively temper of the one, the profound knowledge and
+intellectual capacities of the other, that the examination and analysis
+of characters so perverted became a study full of intense, if gloomy,
+interest.
+
+in these persons there appear to have been as few redeemable points as
+can be found in human nature, so far as such points may be traced in the
+kindly instincts and generous passions which do sometimes accompany the
+perpetration of great crimes, and, without excusing the individual,
+vindicate the species.  yet, on the other hand, their sanguinary
+wickedness was not the dull ferocity of brutes; it was accompanied with
+instruction and culture,--nay, it seemed to me, on studying their lives
+and pondering over their own letters, that through their cultivation
+itself we could arrive at the secret of the ruthless and atrocious pre-
+eminence in evil these children of night had attained; that here the
+monster vanished into the mortal, and the phenomena that seemed
+aberrations from nature were explained.
+
+i could not resist the temptation of reducing to a tale the materials
+which had so engrossed my interest and tasked my inquiries.  and in this
+attempt, various incidental opportunities have occurred, if not of
+completely carrying out, still of incidentally illustrating, my earlier
+design,--of showing the influence of mammon upon our most secret selves,
+of reproving the impatience which is engendered by a civilization that,
+with much of the good, brings all the evils of competition, and of
+tracing throughout, all the influences of early household life upon our
+subsequent conduct and career.  in such incidental bearings the moral may
+doubtless be more obvious than in the delineation of the darker and rarer
+crime which forms the staple of my narrative.  for in extraordinary guilt
+we are slow to recognize ordinary warnings,--we say to the peaceful
+conscience, "this concerns thee not!" whereas at each instance of
+familiar fault and commonplace error we own a direct and sensible
+admonition.  yet in the portraiture of gigantic crime, poets have rightly
+found their sphere and fulfilled their destiny of teachers.  those
+terrible truths which appall us in the guilt of macbeth or the villany of
+iago, have their moral uses not less than the popular infirmities of tom
+jones, or the every-day hypocrisy of blifil.  incredible as it may seem,
+the crimes herein related took place within the last seventeen years.
+there has been no exaggeration as to their extent, no great departure
+from their details; the means employed, even that which seems most far-
+fetched,--the instrument of the poisoned ring,--have their foundation in
+literal facts.  nor have i much altered the social position of the
+criminals, nor in the least overrated their attainments and intelligence.
+in those more salient essentials which will most, perhaps, provoke the
+reader's incredulous wonder, i narrate a history, not invent a fiction
+[these criminals were not, however, in actual life, as in the novel,
+intimates and accomplices.  their crimes were of similar character,
+effected by similar agencies, and committed at dates which embrace their
+several careers of guilt within the same period; but i have no authority
+to suppose that the one was known to the other.].  all that romance which
+our own time affords is not more the romance than the philosophy of the
+time.  tragedy never quits the world,--it surrounds us everywhere.  we
+have but to look, wakeful and vigilant, abroad, and from the age of
+pelops to that of borgia, the same crimes, though under different garbs,
+will stalk on our paths.  each age comprehends in itself specimens of
+every virtue and every vice which has ever inspired our love or mowed our
+horror.
+
+london, november 1, 1846.
+
+
+contents
+
+ part the first
+
+  prologue to part the first
+
+  chapter
+      i  a family group
+     ii  lucretia
+    iii  conferences
+     iv  guy's oak
+      v  household treason
+     vi  the will
+    vii  the engagement
+   viii  the discovery
+     ix  a soul without hope
+      x  the reconciliation between father and son
+
+  epilogue to part the first
+
+ part the second
+
+  prologue to part the second
+
+      i  the coronation
+     ii  love at first sight
+    iii  early training for an upright gentleman
+     iv  john ardworth
+      v  the weavers and the woof
+     vi  the lawyer and the body-snatcher
+    vii  the rape of the mattress
+   viii  percival visits lucretia
+     ix  the rose beneath the upas
+      x  the rattle of the snake
+     xi  love and innocence
+    xii  sudden celebrity and patient hope
+   xiii  the loss of the crossing
+    xiv  news from grabman
+     xv  varieties
+    xvi  the invitation to laughton
+   xvii  the waking of the serpent
+  xviii  retrospect
+    xix  mr. grabman's adventures
+     xx  more of mrs. joplin
+    xxi  beck's discovery
+   xxii  the tapestry chamber
+  xxiii  the shades on the dial
+   xxiv  murder, towards his design, moves like a ghost
+    xxv  the messenger speeds
+   xxvi  the spy flies
+  xxvii  lucretia regains her son
+ xxviii  the lots vanish within the urn
+
+  epilogue to part the second
+
+
+
+lucretia; or, the children of night.
+
+
+
+
+part the first.
+
+
+prologue to part the first.
+
+in an apartment at paris, one morning during the reign of terror, a man,
+whose age might be somewhat under thirty, sat before a table covered with
+papers, arranged and labelled with the methodical precision of a mind
+fond of order and habituated to business.  behind him rose a tall
+bookcase surmounted with a bust of robespierre, and the shelves were
+filled chiefly with works of a scientific character, amongst which the
+greater number were on chemistry and medicine.  there were to be seen
+also many rare books on alchemy, the great italian historians, some
+english philosophical treatises, and a few manuscripts in arabic.  the
+absence from this collection of the stormy literature of the day seemed
+to denote that the owner was a quiet student, living apart from the
+strife and passions of the revolution.  this supposition was, however,
+disproved by certain papers on the table, which were formally and
+laconically labelled "reports on lyons," and by packets of letters in the
+handwritings of robespierre and couthon.  at one of the windows a young
+boy was earnestly engaged in some occupation which appeared to excite the
+curiosity of the person just described; for this last, after examining
+the child's movements for a few moments with a silent scrutiny that
+betrayed but little of the half-complacent, half-melancholy affection
+with which busy man is apt to regard childhood, rose noiselessly from his
+seat, approached the boy, and looked over his shoulder unobserved.  in a
+crevice of the wood by the window, a huge black spider had formed his
+web; the child had just discovered another spider, and placed it in the
+meshes: he was watching the result of his operations.  the intrusive
+spider stood motionless in the midst of the web, as if fascinated.  the
+rightful possessor was also quiescent; but a very fine ear might have
+caught a low, humming sound, which probably augured no hospitable
+intentions to the invader.  anon, the stranger insect seemed suddenly to
+awake from its amaze; it evinced alarm, and turned to fly; the huge
+spider darted forward; the boy uttered a chuckle of delight.  the man's
+pale lip curled into a sinister sneer, and he glided back to his seat.
+there, leaning his face on his hand, he continued to contemplate the
+child.  that child might have furnished to an artist a fitting subject
+for fair and blooming infancy.  his light hair, tinged deeply, it is
+true, with red, hung in sleek and glittering abundance down his neck and
+shoulders.  his features, seen in profile, were delicately and almost
+femininely proportioned; health glowed on his cheek, and his form, slight
+though it was, gave promise of singular activity and vigour.  his dress
+was fantastic, and betrayed the taste of some fondly foolish mother; but
+the fine linen, trimmed with lace, was rumpled and stained, the velvet
+jacket unbrushed, the shoes soiled with dust,--slight tokens these of
+neglect, but serving to show that the foolish fondness which had invented
+the dress had not of late presided over the toilet.
+
+"child," said the man, first in french; and observing that the boy heeded
+him not,--"child," he repeated in english, which he spoke well, though
+with a foreign accent, "child!"
+
+the boy turned quickly.
+
+"has the great spider devoured the small one?"
+
+"no, sir," said the boy, colouring; "the small one has had the best of
+it."
+
+the tone and heightened complexion of the child seemed to give meaning to
+his words,--at least, so the man thought, for a slight frown passed over
+his high, thoughtful brow.
+
+"spiders, then," he said, after a short pause, "are different from men;
+with us, the small do not get the better of the great.  hum! do you still
+miss your mother?"
+
+"oh, yes!" and the boy advanced eagerly to the table.
+
+"well, you will see her once again."
+
+"when?"
+
+the man looked towards a clock on the mantelpiece,--"before that clock
+strikes.  now, go back to your spiders."  the child looked irresolute and
+disinclined to obey; but a stern and terrible expression gathered slowly
+over the man's face, and the boy, growing pale as he remarked it, crept
+back to the window.
+
+the father--for such was the relation the owner of the room bore to the
+child--drew paper and ink towards him, and wrote for some minutes
+rapidly.  then starting up, he glanced at the clock, took his hat and
+cloak, which lay on a chair beside, drew up the collar of the mantle till
+it almost concealed his countenance, and said, "now, boy, come with me; i
+have promised to show you an execution: i am going to keep my promise.
+come!"
+
+the boy clapped his hands with joy; and you might see then, child as he
+was, that those fair features were capable of a cruel and ferocious
+expression.  the character of the whole face changed.  he caught up his
+gay cap and plume, and followed his father into the streets.
+
+silently the two took their way towards the barriere du trone.  at a
+distance they saw the crowd growing thick and dense as throng after
+throng hurried past them, and the dreadful guillotine rose high in the
+light blue air.  as they came into the skirts of the mob, the father, for
+the first time, took his child's hand.  "i must get you a good place for
+the show," he said, with a quiet smile.
+
+there was something in the grave, staid, courteous, yet haughty bearing
+of the man that made the crowd give way as he passed.  they got near the
+dismal scene, and obtained entrance into a wagon already crowded with
+eager spectators.
+
+and now they heard at a distance the harsh and lumbering roll of the
+tumbril that bore the victims, and the tramp of the horses which guarded
+the procession of death.  the boy's whole attention was absorbed in
+expectation of the spectacle, and his ear was perhaps less accustomed to
+french, though born and reared in france, than to the language of his
+mother's lips,--and she was english; thus he did not hear or heed certain
+observations of the bystanders, which made his father's pale cheek grow
+paler.
+
+"what is the batch to-day?" quoth a butcher in the wagon.  "scarce worth
+the baking,--only two; but one, they say, is an aristocrat,--a ci-devant
+marquis," answered a carpenter.  "ah, a marquis!  bon!  and the other?"
+
+"only a dancer, but a pretty one, it is true; i could pity her, but she
+is english."  and as he pronounced the last word, with a tone of
+inexpressible contempt, the butcher spat, as if in nausea.
+
+"mort diable! a spy of pitt's, no doubt.  what did they discover?"
+
+a man, better dressed than the rest, turned round with a smile, and
+answered: "nothing worse than a lover, i believe; but that lover was a
+proscrit.  the ci-devant marquis was caught disguised in her apartment.
+she betrayed for him a good, easy friend of the people who had long loved
+her, and revenge is sweet."
+
+the man whom we have accompanied, nervously twitched up the collar of his
+cloak, and his compressed lips told that he felt the anguish of the laugh
+that circled round him.
+
+"they are coming!  there they are!" cried the boy, in ecstatic
+excitement.
+
+"that's the way to bring up citizens," said the butcher, patting the
+child's shoulder, and opening a still better view for him at the edge of
+the wagon.
+
+the crowd now abruptly gave way.  the tumbril was in sight.  a man, young
+and handsome, standing erect and with folded arms in the fatal vehicle,
+looked along the mob with an eye of careless scorn.  though he wore the
+dress of a workman, the most unpractised glance could detect, in his mien
+and bearing, one of the hated noblesse, whose characteristics came out
+even more forcibly at the hour of death.  on the lip was that smile of
+gay and insolent levity, on the brow that gallant if reckless contempt of
+physical danger, which had signalized the hero-coxcombs of the old
+regime.  even the rude dress was worn with a certain air of foppery, and
+the bright hair was carefully adjusted, as if for the holiday of the
+headsman.  as the eyes of the young noble wandered over the fierce faces
+of that horrible assembly, while a roar of hideous triumph answered the
+look, in which for the last time the gentilhomme spoke his scorn of the
+canaille, the child's father lowered the collar of his cloak, and slowly
+raised his hat from his brow.  the eye of the marquis rested upon the
+countenance thus abruptly shown to him, and which suddenly became
+individualized amongst the crowd,--that eye instantly lost its calm
+contempt.  a shudder passed visibly over his frame, and his cheek grew
+blanched with terror.  the mob saw the change, but not the cause, and
+loud and louder rose their triumphant yell.  the sound recalled the pride
+of the young noble; he started, lifted his crest erect, and sought again
+to meet the look which had appalled him.  but he could no longer single
+it out among the crowd.  hat and cloak once more hid the face of the foe,
+and crowds of eager heads intercepted the view.  the young marquis's lips
+muttered; he bent down, and then the crowd caught sight of his companion,
+who was being lifted up from the bottom of the tumbril, where she had
+flung herself in horror and despair.  the crowd grew still in a moment as
+the pale face of one, familiar to most of them, turned wildly from place
+to place in the dreadful scene, vainly and madly through its silence
+imploring life and pity.  how often had the sight of that face, not then
+pale and haggard, but wreathed with rosy smiles, sufficed to draw down
+the applause of the crowded theatre; how, then, had those breasts, now
+fevered by the thirst of blood, held hearts spellbound by the airy
+movements of that exquisite form writhing now in no stage-mime agony!
+plaything of the city, minion to the light amusement of the hour, frail
+child of cytherea and the graces, what relentless fate has conducted thee
+to the shambles?  butterfly of the summer, why should a nation rise to
+break thee upon the wheel?  a sense of the mockery of such an execution,
+of the horrible burlesque that would sacrifice to the necessities of a
+mighty people so slight an offering, made itself felt among the crowd.
+there was a low murmur of shame and indignation.  the dangerous sympathy
+of the mob was perceived by the officer in attendance.  hastily he made
+the sign to the headsman, and as he did so, a child's cry was heard in
+the english tongue,--"mother!  mother!"  the father's hand grasped the
+child's arm with an iron pressure; the crowd swam before the boy's eyes;
+the air seemed to stifle him, and become blood-red; only through the hum
+and the tramp and the roll of the drums he heard a low voice hiss in his
+ear "learn how they perish who betray me!"
+
+as the father said these words, again his face was bare, and the woman,
+whose ear amidst the dull insanity of fear had caught the cry of her
+child's voice, saw that face, and fell back insensible in the arms of the
+headsman.
+
+
+
+
+chapter i.
+
+a family group.
+
+one july evening, at the commencement of the present century, several
+persons were somewhat picturesquely grouped along an old-fashioned
+terrace which skirted the garden-side of a manor-house that had
+considerable pretensions to baronial dignity.  the architecture was of
+the most enriched and elaborate style belonging to the reign of james the
+first: the porch, opening on the terrace, with its mullion window above,
+was encased with pilasters and reliefs at once ornamental and massive;
+and the large square tower in which it was placed was surmounted by a
+stone falcon, whose talons griped fiercely a scutcheon blazoned with the
+five-pointed stars which heralds recognize as the arms of st. john.  on
+either side this tower extended long wings, the dark brickwork of which
+was relieved with noble stone casements and carved pediments; the high
+roof was partially concealed by a balustrade perforated not inelegantly
+into arabesque designs; and what architects call "the sky line" was
+broken with imposing effect by tall chimney-shafts of various form and
+fashion.  these wings terminated in angular towers similar to the centre,
+though kept duly subordinate to it both in size and decoration, and
+crowned with stone cupolas.  a low balustrade, of later date than that
+which adorned the roof, relieved by vases and statues, bordered the
+terrace, from which a double flight of steps descended to a smooth lawn,
+intersected by broad gravel-walks, shadowed by vast and stately cedars,
+and gently and gradually mingling with the wilder scenery of the park,
+from which it was only divided by a ha-ha.
+
+upon the terrace, and under cover of a temporary awning, sat the owner,
+sir miles st. john of laughton, a comely old man, dressed with faithful
+precision to the costume which he had been taught to consider appropriate
+to his rank of gentleman, and which was not yet wholly obsolete and
+eccentric.  his hair, still thick and luxuriant, was carefully powdered,
+and collected into a club behind; his nether man attired in gray breeches
+and pearl-coloured silk stockings; his vest of silk, opening wide at the
+breast, and showing a profusion of frill, slightly sprinkled with the
+pulvilio of his favourite martinique; his three-cornered hat, placed on a
+stool at his side, with a gold-headed crutch-cane (hat made rather to be
+carried in the hand than worn on the head), the diamond in his shirt-
+breast, the diamond on his finger, the ruffles at his wrist,--all bespoke
+the gallant who had chatted with lord chesterfield and supped with mrs.
+clive.  on a table before him were placed two or three decanters of wine,
+the fruits of the season, an enamelled snuff-box in which was set the
+portrait of a female (perhaps the chloe or phyllis of his early love-
+ditties), a lighted taper, a small china jar containing tobacco, and
+three or four pipes of homely clay,--for cherry-sticks and meerschaums
+were not then in fashion, and sir miles st. john, once a gay and
+sparkling beau, now a popular country gentleman, great at county meetings
+and sheep-shearing festivals, had taken to smoking, as in harmony with
+his bucolic transformation.  an old setter lay dozing at his feet; a
+small spaniel--old, too--was sauntering lazily in the immediate
+neighbourhood, looking gravely out for such stray bits of biscuit as had
+been thrown forth to provoke him to exercise, and which hitherto had
+escaped his attention.  half seated, half reclined on the balustrade,
+apart from the baronet, but within reach of his conversation, lolled a
+man in the prime of life, with an air of unmistakable and sovereign
+elegance and distinction.  mr. vernon was a guest from london; and the
+london man,--the man of clubs and dinners and routs, of noon loungings
+through bond street, and nights spent with the prince of wales,--seemed
+stamped not more upon the careful carelessness of his dress, and upon the
+worn expression of his delicate features, than upon the listless ennui,
+which, characterizing both his face and attitude, appeared to take pity
+on himself for having been entrapped into the country.
+
+yet we should convey an erroneous impression of mr. vernon if we
+designed, by the words "listless ennui," to depict the slumberous
+insipidity of more modern affectation; it was not the ennui of a man to
+whom ennui is habitual, it was rather the indolent prostration that fills
+up the intervals of excitement.  at that day the word blast was unknown;
+men had not enough sentiment for satiety.  there was a kind of
+bacchanalian fury in the life led by those leaders of fashion, among whom
+mr. vernon was not the least distinguished; it was a day of deep
+drinking, of high play, of jovial, reckless dissipation, of strong
+appetite for fun and riot, of four-in-hand coachmanship, of prize-
+fighting, of a strange sort of barbarous manliness that strained every
+nerve of the constitution,--a race of life in which three fourths of the
+competitors died half-way in the hippodrome.  what is now the dandy was
+then the buck; and something of the buck, though subdued by a chaster
+taste than fell to the ordinary members of his class, was apparent in mr.
+vernon's costume as well as air.  intricate folds of muslin, arranged in
+prodigious bows and ends, formed the cravat, which brummell had not yet
+arisen to reform; his hat, of a very peculiar shape, low at the crown and
+broad at the brim, was worn with an air of devil-me-care defiance; his
+watch-chain, garnished with a profusion of rings and seals, hung low from
+his white waistcoat; and the adaptation of his nankeen inexpressibles to
+his well-shaped limbs was a masterpiece of art.  his whole dress and air
+was not what could properly be called foppish, it was rather what at that
+time was called "rakish."  few could so closely approach vulgarity
+without being vulgar: of that privileged few, mr. vernon was one of the
+elect.
+
+farther on, and near the steps descending into the garden, stood a man in
+an attitude of profound abstraction, his arms folded, his eyes bent on
+the ground, his brows slightly contracted; his dress was a plain black
+surtout, and pantaloons of the same colour.  something both in the
+fashion of the dress, and still more in the face of the man, bespoke the
+foreigner.
+
+sir miles st. john was an accomplished person for that time of day.  he
+had made the grand tour; he had bought pictures and statues; he spoke and
+wrote well in the modern languages; and being rich, hospitable, social,
+and not averse from the reputation of a patron, he had opened his house
+freely to the host of emigrants whom the french revolution had driven to
+our coasts.  olivier dalibard, a man of considerable learning and rare
+scientific attainments, had been tutor in the house of the marquis de
+g----, a french nobleman known many years before to the old baronet.  the
+marquis and his family had been among the first emigres at the outbreak
+of the revolution.  the tutor had remained behind; for at that time no
+danger appeared to threaten those who pretended to no other aristocracy
+than that of letters.  contrary, as he said, with repentant modesty, to
+his own inclinations, he had been compelled, not only for his own safety,
+but for that of his friends, to take some part in the subsequent events
+of the revolution,--a part far from sincere, though so well had he
+simulated the patriot that he had won the personal favour and protection
+of robespierre; nor till the fall of that virtuous exterminator had he
+withdrawn from the game of politics and effected in disguise his escape
+to england.  as, whether from kindly or other motives, he had employed
+the power of his position in the esteem of robespierre to save certain
+noble heads from the guillotine,--amongst others, the two brothers of the
+marquis de g----, he was received with grateful welcome by his former
+patrons, who readily pardoned his career of jacobinism from their belief
+in his excuses and their obligations to the services which that very
+career had enabled him to render to their kindred.  olivier dalibard had
+accompanied the marquis and his family in one of the frequent visits they
+paid to laughton; and when the marquis finally quitted england, and fixed
+his refuge at vienna, with some connections of his wife's, he felt a
+lively satisfaction at the thought of leaving his friend honourably, if
+unambitiously, provided for as secretary and librarian to sir miles st.
+john.  in fact, the scholar, who possessed considerable powers of
+fascination, had won no less favour with the english baronet than he had
+with the french dictator.  he played well both at chess and backgammon;
+he was an extraordinary accountant; he had a variety of information upon
+all points that rendered him more convenient than any cyclopaedia in sir
+miles's library; and as he spoke both english and italian with a
+correctness and fluency extremely rare in a frenchman, he was of
+considerable service in teaching languages to, as well as directing the
+general literary education of, sir miles's favourite niece, whom we shall
+take an early opportunity to describe at length.
+
+nevertheless, there had been one serious obstacle to dalibard's
+acceptance of the appointment offered to him by sir miles.  dalibard had
+under his charge a young orphan boy of some ten or twelve years old,--a
+boy whom sir miles was not long in suspecting to be the scholar's son.
+this child had come from france with dalibard, and while the marquis's
+family were in london, remained under the eye and care of his guardian or
+father, whichever was the true connection between the two.  but this
+superintendence became impossible if dalibard settled in hampshire with
+sir miles st. john, and the boy remained in london; nor, though the
+generous old gentleman offered to pay for the child's schooling, would
+dalibard consent to part with him.  at last the matter was arranged: the
+boy was invited to laughton on a visit, and was so lively, yet so well
+mannered, that he became a favourite, and was now fairly quartered in the
+house with his reputed father; and not to make an unnecessary mystery of
+this connection, such was in truth the relationship between olivier
+dalibard and honore gabriel varney,--a name significant of the double and
+illegitimate origin: a french father, an english mother.  dropping,
+however, the purely french appellation of honore, he went familiarly by
+that of gabriel.  half-way down the steps stood the lad, pencil and
+tablet in hand, sketching.  let us look over his shoulder: it is his
+father's likeness,--a countenance in itself not very remarkable at the
+first glance, for the features were small; but when examined, it was one
+that most persons, women especially, would have pronounced handsome, and
+to which none could deny the higher praise of thought and intellect.  a
+native of provence, with some italian blood in his veins,--for his
+grandfather, a merchant of marseilles, had married into a florentine
+family settled at leghorn,--the dark complexion common with those in the
+south had been subdued, probably by the habits of the student, into a
+bronze and steadfast paleness which seemed almost fair by the contrast of
+the dark hair which he wore unpowdered, and the still darker brows which
+hung thick and prominent over clear gray eyes.  compared with the
+features, the skull was disproportionally large, both behind and before;
+and a physiognomist would have drawn conclusions more favourable to the
+power than the tenderness of the provencal's character from the compact
+closeness of the lips and the breadth and massiveness of the iron jaw.
+but the son's sketch exaggerated every feature, and gave to the
+expression a malignant and terrible irony not now, at least, apparent in
+the quiet and meditative aspect.  gabriel himself, as be stood, would
+have been a more tempting study to many an artist. it is true that he was
+small for his years; but his frame had a vigour in its light proportions
+which came from a premature and almost adolescent symmetry of shape and
+muscular development.  the countenance, however, had much of effeminate
+beauty: the long hair reached the shoulders, but did not curl,--straight,
+fine, and glossy as a girl's, and in colour of the pale auburn, tinged
+with red, which rarely alters in hue as childhood matures to man; the
+complexion was dazzlingly clear and fair.  nevertheless, there was
+something so hard in the lip, so bold, though not open, in the brow, that
+the girlishness of complexion, and even of outline, could not leave, on
+the whole, an impression of effeminacy.  all the hereditary keenness and
+intelligence were stamped upon his face at that moment; but the
+expression had also a large share of the very irony and malice which he
+had conveyed to his caricature.  the drawing itself was wonderfully
+vigorous and distinct; showing great artistic promise, and done with the
+rapidity and ease which betrayed practice.  suddenly his father turned,
+and with as sudden a quickness the boy concealed his tablet in his vest;
+and the sinister expression of his face smoothed into a timorous smile as
+his eye encountered dalibard's.  the father beckoned to the boy, who
+approached with alacrity.  "gabriel," whispered the frenchman, in his own
+tongue, "where are they at this moment?"
+
+the boy pointed silently towards one of the cedars.  dalibard mused an
+instant, and then, slowly descending the steps, took his noiseless way
+over the smooth turf towards the tree.  its boughs drooped low and spread
+wide; and not till he was within a few paces of the spot could his eye
+perceive two forms seated on a bench under the dark green canopy.  he
+then paused and contemplated them.
+
+the one was a young man whose simple dress and subdued air strongly
+contrasted the artificial graces and the modish languor of mr. vernon;
+but though wholly without that nameless distinction which sometimes
+characterizes those conscious of pure race and habituated to the
+atmosphere of courts, he had at least nature's stamp of aristocracy in a
+form eminently noble, and features of manly, but surpassing beauty, which
+were not rendered less engaging by an expression of modest timidity.  he
+seemed to be listening with thoughtful respect to his companion, a young
+female by his side, who was speaking to him with an earnestness visible
+in her gestures and her animated countenance.  and though there was much
+to notice in the various persons scattered over the scene, not one,
+perhaps,--not the graceful vernon, not the thoughtful scholar, nor his
+fair-haired, hard-lipped son, not even the handsome listener she
+addressed,--no, not one there would so have arrested the eye, whether of
+a physiognomist or a casual observer, as that young girl, sir miles st.
+john's favourite niece and presumptive heiress.
+
+but as at that moment the expression of her face differed from that
+habitual to it, we defer its description.
+
+"do not," such were her words to her companion,--"do not alarm yourself
+by exaggerating the difficulties; do not even contemplate them: those be
+my care.  mainwaring, when i loved you; when, seeing that your diffidence
+or your pride forbade you to be the first to speak, i overstepped the
+modesty or the dissimulation of my sex; when i said, 'forget that i am
+the reputed heiress of laughton, see in me but the faults and merits of
+the human being, of the wild unregulated girl, see in me but lucretia
+clavering'" (here her cheeks blushed, and her voice sank into a lower and
+more tremulous whisper) "'and love her if you can!'--when i went thus
+far, do not think i had not measured all the difficulties in the way of
+our union, and felt that i could surmount them."
+
+"but," answered mainwaring, hesitatingly, "can you conceive it possible
+that your uncle ever will consent?  is not pride--the pride of family--
+almost the leading attribute of his character?  did he not discard your
+mother--his own sister--from his house and heart for no other offence but
+a second marriage which he deemed beneath her?  has he ever even
+consented to see, much less to receive, your half-sister, the child of
+that marriage?  is not his very affection for you interwoven with his
+pride in you, with his belief in your ambition?  has he not summoned your
+cousin, mr. vernon, for the obvious purpose of favouring a suit which he
+considers worthy of you, and which, if successful, will unite the two
+branches of his ancient house?  how is it possible that he can ever hear
+without a scorn and indignation which would be fatal to your fortunes
+that your heart has presumed to choose, in william mainwaring, a man
+without ancestry or career?"
+
+"not without career," interrupted lucretia, proudly.  "do you think if
+you were master of laughton that your career would not be more brilliant
+than that of yon indolent, luxurious coxcomb?  do you think that i could
+have been poor-hearted enough to love you if i had not recognized in you
+energies and talents that correspond with my own ambition?  for i am
+ambitious, as you know, and therefore my mind, as well as my heart, went
+with my love for you."
+
+"ah, lucretia, but can sir miles st. john see my future rise in my
+present obscurity?"
+
+"i do not say that he can, or will; but if you love me, we can wait.  do
+not fear the rivalry of mr. vernon.  i shall know how to free myself from
+so tame a peril.  we can wait,--my uncle is old; his habits preclude the
+chance of a much longer life; he has already had severe attacks.  we are
+young, dear mainwaring: what is a year or two to those who hope?"
+mainwaring's face fell, and a displeasing chill passed through his veins.
+could this young creature, her uncle's petted and trusted darling, she
+who should be the soother of his infirmities, the prop of his age, the
+sincerest mourner at his grave, weigh coldly thus the chances of his
+death, and point at once to the altar and the tomb?
+
+he was saved from the embarrassment of reply by dalibard's approach.
+
+"more than half an hour absent," said the scholar, in his own language,
+with a smile; and drawing out his watch, he placed it before their eyes.
+"do you not think that all will miss you?  do you suppose, miss
+clavering, that your uncle has not ere this asked for his fair niece?
+come, and forestall him."  he offered his arm to lucretia as he spoke.
+she hesitated a moment, and then, turning to mainwaring, held out her
+hand.  he pressed it, though scarcely with a lover's warmth; and as she
+walked back to the terrace with dalibard, the young man struck slowly
+into the opposite direction, and passing by a gate over a foot-bridge
+that led from the ha-ha into the park, bent his way towards a lake which
+gleamed below at some distance, half-concealed by groves of venerable
+trees rich with the prodigal boughs of summer.  meanwhile, as they passed
+towards the house, dalibard, still using his native tongue, thus accosted
+his pupil:--
+
+"you must pardon me if i think more of your interests than you do; and
+pardon me no less if i encroach on your secrets and alarm your pride.
+this young man,--can you be guilty of the folly of more than a passing
+caprice for his society, of more than the amusement of playing with his
+vanity?  even if that be all, beware of entangling yourself in your own
+meshes."
+
+"you do in truth offend me," said lucretia, with calm haughtiness, "and
+you have not the right thus to speak to me."
+
+"not the right," repeated the provencal, mournfully, "not the right!
+then, indeed, i am mistaken in my pupil.  do you consider that i would
+have lowered my pride to remain here as a dependent; that, conscious of
+attainments, and perhaps of abilities, that should win their way, even in
+exile, to distinction, i would have frittered away my life in these
+rustic shades,--if i had not formed in you a deep and absorbing interest?
+in that interest i ground my right to warn and counsel you.  i saw, or
+fancied i saw, in you a mind congenial to my own; a mind above the
+frivolities of your sex,--a mind, in short, with the grasp and energy of
+a man's.  you were then but a child, you are scarcely yet a woman; yet
+have i not given to your intellect the strong food on which the statesmen
+of florence fed their pupil-princes, or the noble jesuits the noble men
+who were destined to extend the secret empire of the imperishable
+loyola?"
+
+"you gave me the taste for a knowledge rare in my sex, i own," answered
+lucretia, with a slight tone of regret in her voice: "and in the
+knowledge you have communicated i felt a charm that at times seems to me
+to be only fatal.  you have confounded in my mind evil and good, or
+rather, you have left both good and evil as dead ashes, as the dust and
+cinder of a crucible.  you have made intellect the only conscience.  of
+late, i wish that my tutor had been a village priest!"
+
+"of late, since you have listened to the pastorals of that meek corydon!"
+
+"dare you despise him?  and for what?  that he is good and honest?"
+
+"i despise him, not because he is good and honest, but because he is of
+the common herd of men, without aim or character.  and it is for this
+youth that you will sacrifice your fortunes, your ambition, the station
+you were born to fill and have been reared to improve,--this youth in
+whom there is nothing but the lap-dog's merit, sleekness and beauty!  ay,
+frown,--the frown betrays you; you love him!"
+
+"and if i do?" said lucretia, raising her tall form to its utmost height,
+and haughtily facing her inquisitor,--"and, if i do, what then?  is he
+unworthy of me?  converse with him, and you will find that the noble form
+conceals as high a spirit.  he wants but wealth: i can give it to him.
+if his temper is gentle, i can prompt and guide it to fame and power.  he
+at least has education and eloquence and mind.  what has mr. vernon?"
+
+"mr. vernon?  i did not speak of him!"
+
+lucretia gazed hard upon the provencal's countenance,--gazed with that
+unpitying air of triumph with which a woman who detects a power over the
+heart she does not desire to conquer exults in defeating the reasons that
+heart appears to her to prompt.  "no," she said in a calm voice, to which
+the venom of secret irony gave stinging significance,--"no, you spoke not
+of mr. vernon; you thought that if i looked round, if i looked nearer, i
+might have a fairer choice."
+
+"you are cruel, you are unjust," said dalibard, falteringly.  if i once
+presumed for a moment, have i repeated my offence?  but," he added
+hurriedly, "in me,--much as you appear to despise me,--in me, at least,
+you would have risked none of the dangers that beset you if you seriously
+set your heart on mainwaring."
+
+"you think my uncle would be proud to give my hand to m. olivier
+dalibard?"
+
+"i think and i know," answered the provencal, gravely, and disregarding
+the taunt, "that if you had deigned to render me--poor exile that i am!--
+the most enviable of men, you had still been the heiress of laughton."
+
+"so you have said and urged," said lucretia, with evident curiosity in
+her voice; "yet how, and by what art,--wise and subtle as you are,--could
+you have won my uncle's consent?"
+
+"that is my secret," returned dalibard, gloomily; "and since the madness
+i indulged is forever over; since i have so schooled my heart that
+nothing, despite your sarcasm, save an affectionate interest which i may
+call paternal rests there,--let us pass from this painful subject.  oh,
+my dear pupil, be warned in time; know love for what it really is, in the
+dark and complicated history of actual life,--a brief enchantment, not to
+be disdained, but not to be considered the all-in all.  look round the
+world; contemplate all those who have married from passion: ten years
+afterwards, whither has the passion flown?  with a few, indeed, where
+there is community of object and character, new excitements, new aims and
+hopes, spring up; and having first taken root in passion, the passion
+continues to shoot out in their fresh stems and fibres.  but deceive
+yourself not; there is no such community between you and mainwaring.
+what you call his goodness, you will learn hereafter to despise as
+feeble; and what in reality is your mental power he soon, too soon, will
+shudder at as unwomanly and hateful."
+
+"hold!" cried lucretia, tremulously.  "hold! and if he does, i shall owe
+his hate to you,--to your lessons; to your deadly influence!"
+
+"lucretia, no; the seeds were in you.  can cultivation force from the
+soil that which it is against the nature of the soil to bear?"
+
+"i will pluck out the weeds!  i will transform myself!"
+
+"child, i defy you!" said the scholar, with a smile that gave to his face
+the expression his son had conveyed to it. "i have warned you, and my
+task is done."  with that he bowed, and leaving her, was soon by the side
+of sir miles st. john; and the baronet and his librarian, a few moments
+after, entered the house and sat down to chess.
+
+but during the dialogues we have sketched, we must not suppose that sir
+miles himself had been so wholly absorbed in the sensual gratification
+bestowed upon europe by the immortal raleigh as to neglect his guest and
+kinsman.
+
+"and so, charley vernon, it is not the fashion to smoke in lunnon."  thus
+sir miles pronounced the word, according to the euphuism of his youth,
+and which, even at that day, still lingered in courtly jargon.
+
+"no, sir.  however, to console us, we have most other vices in full
+force."
+
+"i don't doubt it; they say the prince's set exhaust life pretty
+quickly."
+
+"it certainly requires the fortune of an earl and the constitution of a
+prize-fighter to live with him."
+
+"yet methinks, master charley, you have neither the one nor the other."
+
+"and therefore i see before me, and at no very great distance, the bench
+and--a consumption!" answered vernon, suppressing a slight yawn.
+
+"'t is a pity, for you had a fine estate, properly managed; and in spite
+of your faults, you have the heart of a true gentleman.  come, come!" and
+the old man spoke with tenderness, "you are young enough yet to reform.
+a prudent marriage and a good wife will save both your health and your
+acres."
+
+"if you think so highly of marriage, my dear sir miles, it is a wonder
+you did not add to your precepts the value of your example."
+
+"jackanapes!  i had not your infirmities: i never was a spendthrift, and
+i have a constitution of iron!" there was a pause.  "charles," continued
+sir miles, musingly, "there is many an earl with a less fortune than the
+conjoined estates of vernon grange and laughton hall.  you must already
+have understood me: it is my intention to leave my estates to lucretia;
+it is my wish, nevertheless, to think you will not be the worse for my
+will.  frankly, if you can like my niece, win her; settle here while i
+live, put the grange to nurse, and recruit yourself by fresh air and
+field-sports.  zounds, charles, i love you, and that's the truth!  give
+me your hand!"
+
+"and a grateful heart with it, sir," said vernon, warmly, evidently
+affected, as he started from his indolent position and took the hand
+extended to him.  "believe me, i do not covet your wealth, nor do i envy
+my cousin anything so much as the first place in your regard."
+
+"prettily said, my boy, and i don't suspect you of insincerity.  what
+think you, then, of my plan?"
+
+mr. vernon seemed embarrassed; but recovering himself with his usual
+ease, he replied archly: "perhaps, sir, it will be of little use to know
+what i think of your plan; my fair cousin may have upset it already."
+
+"ha, sir! let me look at you.  so, so! you are not jesting.  what the
+deuce do you mean?  'gad, man, speak out!"
+
+"do you not think that mr. monderling--mandolin--what's his name, eh?--do
+you not think that he is a very handsome young fellow?" said mr. vernon,
+drawing out his snuffbox and offering it to his kinsman.
+
+"damn your snuff," quoth sir miles, in great choler, as he rejected the
+proffered courtesy with a vehemence that sent half the contents of the
+box upon the joint eyes and noses of the two canine favourites dozing at
+his feet.  the setter started up in an agony; the spaniel wheezed and
+sniffled and ran off, stopping every moment to take his head between his
+paws.  the old gentleman continued without heeding the sufferings of his
+dumb friends,--a symptom of rare discomposure on his part.
+
+"do you mean to insinuate, mr. vernon, that my niece--my elder niece,
+lucretia clavering--condescends to notice the looks, good or bad, of mr.
+mainwaring?  'sdeath, sir, he is the son of a land-agent!  sir, he is
+intended for trade!  sir, his highest ambition is to be partner in some
+fifth-rate mercantile house!"
+
+"my dear sir miles," replied mr. vernon, as he continued to brush away,
+with his scented handkerchief, such portions of the prince's mixture as
+his nankeen inexpressibles had diverted from the sensual organs of dash
+and ponto--"my dear sir miles, ca n'empeche pas le sentiment!"
+
+"empeche the fiddlestick!  you don't know lucretia.  there are many
+girls, indeed, who might not be trusted near any handsome flute-playing
+spark, with black eyes and white teeth; but lucretia is not one of those;
+she has spirit and ambition that would never stoop to a mesalliance; she
+has the mind and will of a queen,--old queen bess, i believe."
+
+"that is saying much for her talent, sir; but if so, heaven help her
+intended!  i am duly grateful for the blessings you propose me!"
+
+despite his anger, the old gentleman could not help smiling.
+
+"why, to confess the truth, she is hard to manage; but we men of the
+world know how to govern women, i hope,--much more how to break in a girl
+scarce out of her teens.  as for this fancy of yours, it is sheer folly:
+lucretia knows my mind.  she has seen her mother's fate; she has seen her
+sister an exile from my house.  why?  for no fault of hers, poor thing,
+but because she is the child of disgrace, and the mother's sin is visited
+on her daughter's head.  i am a good-natured man, i fancy, as men go; but
+i am old-fashioned enough to care for my race.  if lucretia demeaned
+herself to love, to encourage, that lad, why, i would strike her from my
+will, and put your name where i have placed hers."
+
+"sir," said vernon, gravely, and throwing aside all affectation of
+manner, "this becomes serious; and i have no right even to whisper a
+doubt by which it now seems i might benefit.  i think it imprudent, if
+you wish miss clavering to regard me impartially as a suitor to her hand,
+to throw her, at her age, in the way of a man far superior to myself, and
+to most men, in personal advantages,--a man more of her own years, well
+educated, well mannered, with no evidence of his inferior birth in his
+appearance or his breeding.  i have not the least ground for supposing
+that he has made the slightest impression on miss clavering, and if he
+has, it would be, perhaps, but a girl's innocent and thoughtless fancy,
+easily shaken off by time and worldly reflection; but pardon me if i say
+bluntly that should that be so, you would be wholly unjustified in
+punishing, even in blaming, her,--it is yourself you must blame for your
+own carelessness and that forgetful blindness to human nature and
+youthful emotions which, i must say, is the less pardonable in one who
+has known the world so intimately."
+
+"charles vernon," said the old baronet, "give me your hand again!  i was
+right, at least, when i said you had the heart of a true gentleman.  drop
+this subject for the present.  who has just left lucretia yonder?"
+
+"your protege, the frenchman."
+
+"ah, he, at least, is not blind; go and join lucretia!"
+
+vernon bowed, emptied the remains of the madeira into a tumbler, drank
+the contents at a draught, and sauntered towards lucretia; but she,
+perceiving his approach, crossed abruptly into one of the alleys that led
+to the other side of the house, and he was either too indifferent or too
+well-bred to force upon her the companionship which she so evidently
+shunned.  he threw himself at length upon one of the benches on the lawn,
+and leaning his head upon his hand, fell into reflections which, had he
+spoken, would have shaped themselves somewhat thus into words:--
+
+"if i must take that girl as the price of this fair heritage, shall i
+gain or lose?  i grant that she has the finest neck and shoulders i ever
+saw out of marble; but far from being in love with her, she gives me a
+feeling like fear and aversion.  add to this that she has evidently no
+kinder sentiment for me than i for her; and if she once had a heart, that
+young gentleman has long since coaxed it away.  pleasant auspices, these,
+for matrimony to a poor invalid who wishes at least to decline and to die
+in peace!  moreover, if i were rich enough to marry as i pleased; if i
+were what, perhaps, i ought to be, heir to laughton,--why, there is a
+certain sweet mary in the world, whose eyes are softer than lucretia
+clavering's.  but that is a dream!  on the other hand, if i do not win
+this girl, and my poor kinsman give her all, or nearly all, his
+possessions, vernon grange goes to the usurers, and the king will find a
+lodging for myself.  what does it matter?  i cannot live above two or
+three years at the most, and can only hope, therefore, that dear stout
+old sir miles may outlive me.  at thirty-three i have worn out fortune
+and life; little pleasure could laughton give me,--brief pain the bench.
+'fore gad, the philosophy of the thing is on the whole against sour looks
+and the noose!"  thus deciding in the progress of his revery, he smiled,
+and changed his position.  the sun had set, the twilight was over, the
+moon rose in splendour from amidst a thick copse of mingled beech and
+oak; the beams fell full on the face of the muser, and the face seemed
+yet paler and the exhaustion of premature decay yet more evident, by that
+still and melancholy light: all ruins gain dignity by the moon.  this was
+a ruin nobler than that which painters place on their canvas,--the ruin,
+not of stone and brick,  but of humanity and spirit; the wreck of man
+prematurely old, not stricken by great sorrow, not bowed by great toil,
+but fretted and mined away by small pleasures and poor excitements,--
+small and poor, but daily, hourly, momently at their gnome-like work.
+something of the gravity and the true lesson of the hour and scene,
+perhaps, forced itself upon a mind little given to sentiment, for vernon
+rose languidly and muttered,--
+
+"my poor mother hoped better things from me.  it is well, after all, that
+it is broken off with mary.  why should there be any one to weep for me?
+i can the better die smiling, as i have lived."
+
+meanwhile, as it is necessary we should follow each of the principal
+characters we have introduced through the course of an evening more or
+less eventful in the destiny of all, we return to mainwaring and
+accompany him to the lake at the bottom of the park, which he reached as
+its smooth surface glistened in the last beams of the sun.  he saw, as he
+neared the water, the fish sporting in the pellucid tide; the dragonfly
+darted and hovered in the air; the tedded grass beneath his feet gave
+forth the fragrance of crushed thyme and clover; the swan paused, as if
+slumbering on the wave; the linnet and finch sang still from the
+neighbouring copses; and the heavy bees were winging their way home with
+a drowsy murmur.  all around were images of that unspeakable peace which
+nature whispers to those attuned to her music; all fitted to lull, but
+not to deject, the spirit,--images dear to the holiday of the world-worn
+man, to the contemplation of serene and retired age, to the boyhood of
+poets, to the youth of lovers.  but mainwaring's step was heavy, and his
+brow clouded, and nature that evening was dumb to him.  at the margin of
+the lake stood a solitary angler who now, his evening's task done, was
+employed in leisurely disjointing his rod and whistling with much
+sweetness an air from one of izaak walton's songs.  mainwaring reached
+the angler and laid his hand on his shoulder.
+
+"what sport, ardworth?"
+
+"a few large roach with the fly, and one pike with a gudgeon,--a noble
+fellow!  look at him!  he was lying under the reeds yonder; i saw his
+green back, and teased him into biting.  a heavenly evening!  i wonder
+you did not follow my example, and escape from a set where neither you
+nor i can feel very much at home, to this green banquet of nature, in
+which at least no man sits below the salt-cellar.  the birds are an older
+family than the st. johns, but they don't throw their pedigree in our
+teeth, mainwaring."
+
+"nay, nay, my good friend, you wrong old sir miles; proud he is, no
+doubt, but neither you nor i have had to complain of his insolence."
+
+"of his insolence, certainly not; of his condescension, yes!  hang it,
+william, it is his very politeness that galls me.  don't you observe that
+with vernon, or lord a----, or lord b----, or mr. c----, he is easy and
+off-hand; calls them by their names, pats them on the shoulder, rates
+them, and swears at them if they vex him.  but with you and me and his
+french parasite, it is all stately decorum and punctilious courtesy: 'mr.
+mainwaring, i am delighted to see you;' 'mr. ardworth, as you are so
+near, dare i ask you to ring the bell?' 'monsieur dalibard, with the
+utmost deference, i venture to disagree with you.'  however, don't let my
+foolish susceptibility ruffle your pride.  and you, too, have a worthy
+object in view, which might well detain you from roach and jack-fish.
+have you stolen your interview with the superb lucretia?"
+
+"yes, stolen, as you say; and, like all thieves not thoroughly hardened,
+i am ashamed of my gains."
+
+"sit down, my boy,--this is a bank in ten thousand; there, that old root
+to lean your elbow on, this soft moss for your cushion: sit down and
+confess.  you have something on your mind that preys on you; we are old
+college friends,--out with it!"
+
+"there is no resisting you, ardworth," said mainwaring, smiling, and
+drawn from his reserve and his gloom by the frank good-humour of his
+companion.  "i should like, i own, to make a clean breast of it; and
+perhaps i may profit by your advice.  you know, in the first place, that
+after i left college, my father, seeing me indisposed for the church, to
+which he had always destined me in his own heart, and for which, indeed,
+he had gone out of his way to maintain me at the university, gave me the
+choice of his own business as a surveyor and land-agent, or of entering
+into the mercantile profession.  i chose the latter, and went to
+southampton, where we have a relation in business, to be initiated into
+the elementary mysteries.  there i became acquainted with a good
+clergyman and his wife, and in that house i passed a great part of my
+time."
+
+"with the hope, i trust, on better consideration, of gratifying your
+father's ambition and learning how to starve with gentility on a cure."
+
+"not much of that, i fear."
+
+"then the clergyman had a daughter?"
+
+"you are nearer the mark now," said mainwaring, colouring,--"though it
+was not his daughter.  a young lady lived in his family, not even related
+to him; she was placed there with a certain allowance by a rich relation.
+in a word, i admired, perhaps i loved, this young person; but she was
+without an independence, and i not yet provided even with the substitute
+of money,--a profession.  i fancied (do not laugh at my vanity) that my
+feelings might be returned.  i was in alarm for her as well as myself; i
+sounded the clergyman as to the chance of obtaining the consent of her
+rich relation, and was informed that he thought it hopeless.  i felt i
+had no right to invite her to poverty and ruin, and still less to
+entangle further (if i had chanced to touch at all) her affection.  i
+made an excuse to my father to leave the town, and returned home."
+
+"prudent and honourable enough, so far; unlike me,--i should have run off
+with the girl, if she loved me, and old plutus, the rascal, might have
+done his worst against cupid.  but i interrupt you."
+
+"i came back when the county was greatly agitated,--public meetings,
+speeches, mobs; a sharp election going on.  my father had always taken
+keen interest in politics; he was of the same party as sir miles, who,
+you know, is red-hot upon politics.  i was easily led--partly by
+ambition, partly by the effect of example, partly by the hope to give a
+new turn to my thoughts--to make an appearance in public."
+
+"and a devilish creditable one too!  why, man, your speeches have been
+quoted with rapture by the london papers.  horribly aristocratic and
+pittish, it is true,--i think differently; but every man to his taste.
+well--"
+
+"my attempts, such as they were, procured me the favour of sir miles.  he
+had long been acquainted with my father, who had helped him in his own
+elections years ago.  he seemed cordially delighted to patronize the son;
+he invited me to visit him at laughton, and hinted to my father that i
+was formed for something better than a counting-house: my poor father was
+intoxicated.  in a word, here i am; here, often for days, almost weeks,
+together, have i been a guest, always welcomed."
+
+"you pause.  this is the primordium,--now comes the confession, eh?"
+
+"why, one half the confession is over.  it was my most unmerited fortune
+to attract the notice of miss clavering.  do not fancy me so self-
+conceited as to imagine that i should ever have presumed so high, but
+for--"
+
+"but for encouragement,--i understand!  well, she is a magnificent
+creature, in her way, and i do not wonder that she drove the poor little
+girl at southampton out of your thoughts."
+
+"ah!  but there is the sore,--i am not sure that she has done so.
+ardworth, i may trust you?"
+
+"with everything but half-a-guinea.  i would not promise to be rock
+against so great a temptation!" and ardworth turned his empty pockets
+inside out.
+
+"tush! be serious, or i go."
+
+"serious!  with pockets like these, the devil's in it if i am not
+serious.  perge, precor."
+
+"ardworth, then," said mainwaring, with great emotion, "i confide to you
+the secret trouble of my heart.  this girl at southampton is lucretia's
+sister,--her half-sister; the rich relation on whose allowance she lives
+is sir miles st. john."
+
+"whew! my own poor dear little cousin, by the father's side!  mainwaring,
+i trust you have not deceived me; you have not amused yourself with
+breaking susan's heart?  for a heart, and an honest, simple, english
+girl's heart she has."
+
+"heaven forbid!  i tell you i have never even declared my love; and if
+love it were, i trust it is over.  but when sir miles was first kind to
+me, first invited me, i own i had the hope to win his esteem; and since
+he had always made so strong and cruel a distinction between lucretia and
+susan, i thought it not impossible that he might consent at last to my
+union with the niece he had refused to receive and acknowledge.  but even
+while the hope was in me, i was drawn on, i was entangled, i was spell-
+bound, i know not how or why; but, to close my confidence, while still
+doubtful whether my own heart is free from the remembrance of the one
+sister, i am pledged to the other."
+
+ardworth looked down gravely and remained silent.  he was a joyous,
+careless, reckless youth, with unsteady character and pursuits, and with
+something of vague poetry, much of unaccommodating pride about his
+nature,--one of those youths little likely to do what is called well in
+the world; not persevering enough for an independent career, too blunt
+and honest for a servile one.  but it was in the very disposition of such
+a person to judge somewhat harshly of mainwaring's disclosure, and not
+easily to comprehend what, after all, was very natural,--how a young man,
+new to life, timid by character, and of an extreme susceptibility to the
+fear of giving pain, had, in the surprise, the gratitude, the emotion, of
+an avowed attachment from a girl far above him in worldly position, been
+forced, by receiving, to seem, at least, to return her affection.  and,
+indeed, though not wholly insensible to the brilliant prospects opened to
+him in such a connection, yet, to do him justice, mainwaring would have
+been equally entangled by a similar avowal from a girl more his equal in
+the world.  it was rather from an amiability bordering upon weakness,
+than from any more degrading moral imperfections, that he had been
+betrayed into a position which neither contented his heart nor satisfied
+his conscience.
+
+with far less ability than his friend, ardworth had more force and
+steadiness in his nature, and was wholly free from that morbid delicacy
+of temperament to which susceptible and shy persons owe much of their
+errors and misfortunes.  he said, therefore, after a long pause: "my good
+fellow, to be plain with you, i cannot say that your confession has
+improved you in my estimation; but that is perhaps because of the
+bluntness of my understanding.  i could quite comprehend your forgetting
+susan (and, after all, i am left in doubt as to the extent of her
+conquest over you) for the very different charms of her sister.  on the
+other hand, i could still better understand that, having once fancied
+susan, you could not be commanded into love for lucretia.  but i do not
+comprehend your feeling love for one, and making love to the other,--
+which is the long and short of the business."
+
+"that is not exactly the true statement," answered mainwaring, with a
+powerful effort at composure.  "there are moments when, listening to
+lucretia, when, charmed by that softness which, contrasting the rest of
+her character, she exhibits to none but me, struck by her great mental
+powers, proud of an unsought triumph over such a being, i feel as if i
+could love none but her; then suddenly her mood changes,--she utters
+sentiments that chill and revolt me; the very beauty seems vanished from
+her face.  i recall with a sigh the simple sweetness of susan, and i feel
+as if i deceived both my mistress and myself.  perhaps, however, all the
+circumstances of this connection tend to increase my doubts.  it is
+humiliating to me to know that i woo clandestinely and upon sufferance;
+that i am stealing, as it were, into a fortune; that i am eating sir
+miles's bread, and yet counting upon his death; and this shame in myself
+may make me unconsciously unjust to lucretia.  but it is useless to
+reprove me for what is past; and though i at first imagined you could
+advise me for the future, i now see, too clearly, that no advice could
+avail."
+
+"i grant that too; for all you require is to make up your mind to be
+fairly off with the old love, or fairly on with the new.  however, now
+you have stated your case thus frankly, if you permit me, i will take
+advantage of the strange chance of finding myself here, and watch,
+ponder, and counsel, if i can.  this lucretia, i own it, puzzles and
+perplexes me; but though no oedipus, i will not take fright at the
+sphinx.  i suppose now it is time to return.  they expect some of the
+neighbours to drink tea, and i must doff my fishing-jacket.  come!"
+
+as they strolled towards the house, ardworth broke a silence which had
+lasted for some moments.
+
+"and how is that dear good fielden?  i ought to have guessed him at once,
+when you spoke of your clergyman and his young charge; but i did not know
+he was at southampton."
+
+"he has exchanged his living for a year, on account of his wife's health,
+and rather, i think also, with the wish to bring poor susan nearer to
+laughton, in the chance of her uncle seeing her.  but you are, then,
+acquainted with fielden?"
+
+"acquainted!--my best friend.  he was my tutor, and prepared me for caius
+college.  i owe him, not only the little learning i have, but the little
+good that is left in me.  i owe to him apparently, also, whatever chance
+of bettering my prospects may arise from my visit to laughton."
+
+"notwithstanding our intimacy, we have, like most young men not related,
+spoken so little of our family matters that i do not now understand how
+you are cousin to susan, nor what, to my surprise and delight, brought
+you hither three days ago."
+
+"faith, my story is easier to explain than your own, william.  here
+goes!"
+
+but as ardworth's recital partially involves references to family matters
+not yet sufficiently known to the reader, we must be pardoned if we
+assume to ourselves his task of narrator, and necessarily enlarge on his
+details.
+
+the branch of the illustrious family of st. john represented by sir
+miles, diverged from the parent stem of the lords of bletshoe.  with them
+it placed at the summit of its pedigree the name of william de st. john,
+the conqueror's favourite and trusted warrior, and oliva de filgiers.
+with them it blazoned the latter alliance, which gave to sir oliver st.
+john the lands of bletshoe by the hand of margaret beauchamp (by her
+second marriage with the duke of somerset), grandmother to henry vii.  in
+the following generation, the younger son of a younger son had founded,
+partly by offices of state, partly by marriage with a wealthy heiress, a
+house of his own; and in the reign of james the first, the st. johns of
+laughton ranked amongst the chief gentlemen of hampshire.  from that time
+till the accession of george iii the family, though it remained untitled,
+had added to its consequence by intermarriages of considerable dignity,--
+chosen, indeed, with a disregard for money uncommon amongst the english
+aristocracy; so that the estate was but little enlarged since the reign
+of james, though profiting, of course, by improved cultivation and the
+different value of money.  on the other hand, perhaps there were scarcely
+ten families in the country who could boast of a similar directness of
+descent on all sides from the proudest and noblest aristocracy of the
+soil; and sir miles st. john, by blood, was, almost at the distance of
+eight centuries, as pure a norman as his ancestral william.  his
+grandfather, nevertheless, had deviated from the usual disinterested
+practice of the family, and had married an heiress who brought the
+quarterings of vernon to the crowded escutcheon, and with these
+quarterings an estate of some 4,000 pounds a year popularly known by the
+name of vernon grange.  this rare occurrence did not add to the domestic
+happiness of the contracting parties, nor did it lead to the ultimate
+increase of the laughton possessions.  two sons were born.  to the elder
+was destined the father's inheritance,--to the younger the maternal
+property.  one house is not large enough for two heirs.  nothing could
+exceed the pride of the father as a st. john, except the pride of the
+mother as a vernon.  jealousies between the two sons began early and
+rankled deep; nor was there peace at laughton till the younger had
+carried away from its rental the lands of vernon grange; and the elder
+remained just where his predecessors stood in point of possessions,--sole
+lord of laughton sole.  the elder son, sir miles's father, had been,
+indeed, so chafed by the rivalry with his brother that in disgust he had
+run away and thrown himself, at the age of fourteen, into the navy.  by
+accident or by merit he rose high in that profession, acquired name and
+fame, and lost an eye and an arm,--for which he was gazetted, at the same
+time, an admiral and a baronet.
+
+thus mutilated and dignified, sir george st. john retired from the
+profession; and finding himself unmarried, and haunted by the
+apprehension that if he died childless, laughton would pass to his
+brother's heirs, he resolved upon consigning his remains to the nuptial
+couch, previous to the surer peace of the family vault.  at the age of
+fifty-nine, the grim veteran succeeded in finding a young lady of
+unblemished descent and much marked with the small-pox, who consented to
+accept the only hand which sir george had to offer.  from this marriage
+sprang a numerous family; but all died in early childhood, frightened to
+death, said the neighbours, by their tender parents (considered the
+ugliest couple in the county), except one boy (the present sir miles) and
+one daughter, many years younger, destined to become lucretia's mother.
+sir miles came early into his property; and although the softening
+advance of civilization, with the liberal effects of travel and a long
+residence in cities, took from him that provincial austerity of pride
+which is only seen in stanch perfection amongst the lords of a village,
+he was yet little less susceptible to the duties of maintaining his
+lineage pure as its representation had descended to him than the most
+superb of his predecessors.  but owing, it was said, to an early
+disappointment, he led, during youth and manhood, a roving and desultory
+life, and so put off from year to year the grand experiment matrimonial,
+until he arrived at old age, with the philosophical determination to
+select from the other branches of his house the successor to the heritage
+of st. john.  in thus arrogating to himself a right to neglect his proper
+duties as head of a family, he found his excuse in adopting his niece
+lucretia.  his sister had chosen for her first husband a friend and
+neighbour of his own, a younger son, of unexceptionable birth and of very
+agreeable manners in society.  but this gentleman contrived to render her
+life so miserable that, though he died fifteen months after their
+marriage, his widow could scarcely be expected to mourn long for him.  a
+year after mr. clavering's death, mrs. clavering married again, under the
+mistaken notion that she had the right to choose for herself.  she
+married dr. mivers, the provincial physician who had attended her husband
+in his last illness,--a gentleman by education, manners, and profession,
+but unhappily the son of a silk-mercer.  sir miles never forgave this
+connection.  by her first marriage, sir miles's sister had one daughter,
+lucretia; by her second marriage, another daughter, named susan.  she
+survived somewhat more than a year the birth of the latter.  on her
+death, sir miles formally (through his agent) applied to dr. mivers for
+his eldest niece, lucretia clavering, and the physician did not think
+himself justified in withholding from her the probable advantages of a
+transfer from his own roof to that of her wealthy uncle.  he himself had
+been no worldly gainer by his connection; his practice had suffered
+materially from the sympathy which was felt by the county families for
+the supposed wrongs of sir miles st. john, who was personally not only
+popular, but esteemed, nor less so on account of his pride,--too
+dignified to refer even to his domestic annoyances, except to his most
+familiar associates; to them, indeed, sir miles had said, briefly, that
+he considered a physician who abused his entrance into a noble family by
+stealing into its alliance was a character in whose punishment all
+society had an interest. the words were repeated; they were thought just.
+those who ventured to suggest that mrs. clavering, as a widow, was a free
+agent, were regarded with suspicion.  it was the time when french
+principles were just beginning to be held in horror, especially in the
+provinces, and when everything that encroached upon the rights and
+prejudices of the high born was called "a french principle."  dr. mivers
+was as much scouted as if he had been a sans-culotte.  obliged to quit
+the county, he settled at a distance; but he had a career to commence
+again; his wife's death enfeebled his spirits and damped his exertions.
+he did little more than earn a bare subsistence, and died at last, when
+his only daughter was fourteen, poor and embarrassed  on his death-bed he
+wrote a letter to sir miles reminding him that, after all, susan was his
+sister's child, gently vindicating himself from the unmerited charge of
+treachery, which had blasted his fortunes and left his orphan penniless,
+and closing with a touching yet a manly appeal to the sole relative left
+to befriend her.  the clergyman who had attended him in his dying moments
+took charge of this letter; he brought it in person to laughton, and
+delivered it to sir miles.  whatever his errors, the old baronet was no
+common man.  he was not vindictive, though he could not be called
+forgiving.  he had considered his conduct to his sister a duty owed to
+his name and ancestors; she had placed herself and her youngest child out
+of the pale of his family.  he would not receive as his niece the grand-
+daughter of a silk-mercer.  the relationship was extinct, as, in certain
+countries, nobility is forfeited by a union with an inferior class.  but,
+niece or not, here was a claim to humanity and benevolence, and never yet
+had appeal been made by suffering to his heart and purse in vain.
+
+he bowed his head over the letter as his eye came to the last line, and
+remained silent so long that the clergyman at last, moved and hopeful,
+approached and took his hand.  it was the impulse of a good man and a
+good priest. sir miles looked up in surprise; but the calm, pitying face
+bent on him repelled all return of pride.
+
+"sir," he said tremulously, and he pressed the hand that grasped his own,
+"i thank you.  i am not fit at this moment to decide what to do; to-
+morrow you shall know.  and the man died poor,--not in want, not in
+want?"
+
+"comfort yourself, worthy sir; he had at the last all that sickness and
+death require, except one assurance, which i ventured to whisper to him,-
+-i trust not too rashly,--that his daughter would not be left
+unprotected.  and i pray you to reflect, my dear sir, that--"
+
+sir miles did not wait for the conclusion of the sentence; he rose
+abruptly, and left the room.  mr. fielden (so the good priest was named)
+felt confident of the success of his mission; but to win it the more
+support, he sought lucretia.  she was then seventeen: it is an age when
+the heart is peculiarly open to the household ties,--to the memory of a
+mother, to the sweet name of sister.  he sought this girl, he told his
+tale, and pleaded the sister's cause.  lucretia heard in silence: neither
+eye nor lip betrayed emotion; but her colour went and came.  this was the
+only sign that she was moved: moved, but how?  fielden's experience in
+the human heart could not guess.  when he had done, she went quietly to
+her desk (it was in her own room that the conference took place), she
+unlocked it with a deliberate hand, she took from it a pocketbook and a
+case of jewels which sir miles had given her on her last birthday.  "let
+my sister have these; while i live she shall not want!"
+
+"my dear young lady, it is not these things that she asks from you,--it
+is your affection, your sisterly heart, your intercession with her
+natural protector; these, in her name, i ask for,--'non gemmis, neque
+purpura venale, nec auro!'"
+
+lucretia then, still without apparent emotion, raised to the good man's
+face deep, penetrating, but unrevealing eyes, and said slowly,--
+
+"is my sister like my mother, who, they say, was handsome?"
+
+much startled by this question, fielden answered:  "i never saw your
+mother, my dear; but your sister gives promise of more than common
+comeliness."
+
+lucretia's brows grew slightly compressed.  "and her education has been,
+of course, neglected?"
+
+"certainly, in some points,--mathematics, for instance, and theology; but
+she knows what ladies generally know,--french and italian, and such like.
+dr. mivers was not unlearned in the polite letters.  oh, trust me, my
+dear young lady, she will not disgrace your family; she will justify your
+uncle's favour.  plead for her!" and the good man clasped his hands.
+
+lucretia's eyes fell musingly on the ground; but she resumed, after a
+short pause,--
+
+"what does my uncle himself say?"
+
+"only that he will decide to-morrow."
+
+"i will see him;" and lucretia left the room as for that object.  but
+when she had gained the stairs, she paused at the large embayed casement,
+which formed a niche in the landing-place, and gazed over the broad
+domains beyond; a stern smile settled, then, upon her lips,--the smile
+seemed to say, "in this inheritance i will have no rival."
+
+lucretia's influence with sir miles was great, but here it was not
+needed.  before she saw him he had decided on his course.  her precocious
+and apparently intuitive knowledge of character detected at a glance the
+safety with which she might intercede.  she did so, and was chid into
+silence.
+
+the next morning, sir miles took the priest's arm and walked with him
+into the gardens.
+
+"mr. fielden," he said, with the air of a man who has chosen his course,
+and deprecates all attempt to make him swerve from it, "if i followed my
+own selfish wishes, i should take home this poor child.  stay, sir, and
+hear me,--i am no hypocrite, and i speak honestly.  i like young faces; i
+have no family of my own.  i love lucretia, and i am proud of her; but a
+girl brought up in adversity might be a better nurse and a more docile
+companion,--let that pass.  i have reflected, and i feel that i cannot
+set to lucretia--set to children unborn--the example of indifference to a
+name degraded and a race adulterated; you may call this pride or
+prejudice,--i view it differently.  there are duties due from an
+individual, duties due from a nation, duties due from a family; as my
+ancestors thought, so think i.  they left me the charge of their name, as
+the fief-rent by which i hold their lands.  'sdeath, sir!--pardon me the
+expletive;  i was about to say that if i am now a childless old man, it
+is because i have myself known temptation and resisted.  i loved, and
+denied myself what i believed my best chance of happiness, because the
+object of my attachment was not my equal.  that was a bitter struggle,--i
+triumphed, and i rejoice at it, though the result was to leave all
+thoughts of wedlock elsewhere odious and repugnant.  these principles of
+action have made a part of my creed as gentleman, if not as christian.
+now to the point.  i beseech you to find a fitting and reputable home for
+miss--miss mivers," the lip slightly curled as the name was said; "i
+shall provide suitably for her maintenance.  when she marries, i will
+dower her, provided only and always that her choice fall upon one who
+will not still further degrade her lineage on her mother's side,--in a
+word, if she select a gentleman.  mr. fielden, on this subject i have no
+more to say."
+
+in vain the good clergyman, whose very conscience, as well as reason, was
+shocked by the deliberate and argumentative manner with which the baronet
+had treated the abandonment of his sister's child as an absolutely moral,
+almost religious, duty,--in vain he exerted himself to repel such
+sophisms and put the matter in its true light.  it was easy for him to
+move sir miles's heart,--that was ever gentle; that was moved already:
+but the crotchet in his head was impregnable.  the more touchingly he
+painted poor susan's unfriended youth, her sweet character, and promising
+virtues, the more sir miles st. john considered himself a martyr to his
+principles, and the more obstinate in the martyrdom he became.  "poor
+thing!  poor child!" he said often, and brushed a tear from his eyes;
+"a thousand pities!  well, well, i hope she will be happy!  mind, money
+shall never stand in the way if she have a suitable offer!"
+
+this was all the worthy clergyman, after an hour's eloquence, could
+extract from him.  out of breath and out of patience, he gave in at last;
+and the baronet, still holding his reluctant arm, led him back towards
+the house.  after a prolonged pause, sir miles said abruptly: "i have
+been thinking that i may have unwittingly injured this man,--this
+mivers,--while i deemed only that he injured me.  as to reparation to his
+daughter, that is settled; and after all, though i do not publicly
+acknowledge her, she is half my own niece."
+
+"half?"
+
+"half,--the father's side doesn't count, of course; and, rigidly
+speaking, the relationship is perhaps forfeited on the other.  however,
+that half of it i grant.  zooks, sir, i say i grant it!  i beg you ten
+thousand pardons for my vehemence.  to return,--perhaps i can show at
+least that i bear no malice to this poor doctor.  he has relations of his
+own,--silk mercers; trade has reverses.  how are they off?"
+
+perfectly perplexed by this very contradictory and paradoxical, yet, to
+one better acquainted with sir miles, very characteristic, benevolence,
+fielden was some time before he answered.  "those members of dr. mivers's
+family who are in trade are sufficiently prosperous; they have paid his
+debts,--they, sir miles, will receive his daughter."
+
+"by no means!" cried sir miles, quickly; then, recovering himself, he
+added, "or, if you think that advisable, of course all interference on my
+part is withdrawn."
+
+"festina lente!--not so quick, sir miles.  i do not yet say that it is
+advisable,--not because they are silk-mercers, the which, i humbly
+conceive, is no sin to exclude them from gratitude for their proffered
+kindness, but because susan, poor child, having been brought up in
+different habits, may feel a little strange, at least at first, with--"
+
+"strange, yes; i should hope so!" interrupted sir miles, taking snuff
+with much energy.  "and, by the way, i am thinking that it would be well
+if you and mrs. fielden--you are married, sir?  that is right; clergymen
+all marry!--if you and mrs. fielden would take charge of her yourselves,
+it would be a great comfort to me to think her so well placed.  we
+differ, sir, but i respect you.  think of this.  well, then, the doctor
+has left no relations that i can aid in any way?"
+
+"strange man!" muttered fielden.  "yes; i must not let one poor youth
+lose the opportunity offered by your--your--"
+
+"never mind what; proceed.  one poor youth,--in the shop, of course?"
+
+"no; and by his father's side (since you so esteem such vanities) of an
+ancient family,--a sister of dr. mivers married captain ardworth."
+
+"ardworth,--a goodish name; ardworth of yorkshire?"
+
+"yes, of that family.  it was, of course, an imprudent marriage,
+contracted while he was only an ensign.  his family did not reject him,
+sir miles."
+
+"sir, ardworth is a good squire's family, but the name is saxon; there is
+no difference in race between the head of the ardworths, if he were a
+duke, and my gardener, john hodge,--saxon and saxon, both.  his family
+did not reject him; go on."
+
+"but he was a younger son in a large family; both himself and his wife
+have known all the distresses common, they tell me, to the poverty of a
+soldier who has no resource but his pay.  they have a son.  dr. mivers,
+though so poor himself, took this boy, for he loved his sister dearly,
+and meant to bring him up to his own profession.  death frustrated this
+intention.  the boy is high-spirited and deserving."
+
+"let his education be completed; send him to the university; and i will
+see that he is put into some career of which his father's family would
+approve.  you need not mention to any one my intentions in this respect,
+not even to the lad.  and now, mr. fielden, i have done my duty,--at
+least, i think so.  the longer you honour my house, the more i shall be
+pleased and grateful; but this topic, allow me most respectfully to say,
+needs and bears no further comment.  have you seen the last news from the
+army?"
+
+"the army!  oh, fie, sir miles, i must speak one word more.  may not my
+poor susan have at least the comfort to embrace her sister?"
+
+sir miles paused a moment, and struck his crutch-stick thrice firmly on
+the ground.
+
+"i see no great objection to that; but by the address of this letter,
+the poor girl is too far from laughton to send lucretia to her."
+
+"i can obviate that objection, sir miles.  it is my wish to continue to
+susan her present home amongst my own children.  my wife loves her
+dearly; and had you consented to give her the shelter of your own roof,
+i am sure i should not have seen a smile in the house for a month after.
+if you permit this plan, as indeed you honoured me by suggesting it, i
+can pass through southampton on my way to my own living in devonshire,
+and miss clavering can visit her sister there."
+
+"let it be so," said sir miles, briefly; and so the conversation closed.
+
+some weeks afterwards, lucretia went in her uncle's carriage, with four
+post-horses, with her maid and her footman,--went in the state and pomp
+of heiress to laughton,--to the small lodging-house in which the kind
+pastor crowded his children and his young guest. she stayed there some
+days.  she did not weep when she embraced susan, she did not weep when
+she took leave of her; but she showed no want of actual kindness, though
+the kindness was formal and stately.  on her return, sir miles forbore to
+question; but he looked as if he expected, and would willingly permit,
+her to speak on what might naturally be uppermost at her heart.
+lucretia, however, remained silent, till at last the baronet, colouring,
+as if ashamed of his curiosity, said,--
+
+"is your sister like your mother?"
+
+"you forget, sir, i can have no recollection of my mother."
+
+"your mother had a strong family likeness to myself."
+
+"she is not like you; they say she is like dr. mivers."
+
+"oh!" said the baronet, and he asked no more.
+
+the sisters did not meet again; a few letters passed between them, but
+the correspondence gradually ceased.
+
+young ardworth went to college, prepared by mr. fielden, who was no
+ordinary scholar, and an accurate and profound mathematician,--a more
+important requisite than classical learning in a tutor for cambridge.
+but ardworth was idle, and perhaps even dissipated.  he took a common
+degree, and made some debts, which were paid by sir miles without a
+murmur.  a few letters then passed between the baronet and the clergyman
+as to ardworth's future destiny; the latter owned that his pupil was not
+persevering enough for the bar, nor steady enough for the church.  these
+were no great faults in sir miles's eyes.  he resolved, after an effort,
+to judge himself of the capacities of the young man, and so came the
+invitation to laughton.  ardworth was greatly surprised when fielden
+communicated to him this invitation, for hitherto he had not conceived
+the slightest suspicion of his benefactor; he had rather, and naturally,
+supposed that some relation of his father's had paid for his maintenance
+at the university, and he knew enough of the family history to look upon
+sir miles as the proudest of men.  how was it, then, that he, who would
+not receive the daughter of dr. mivers, his own niece, would invite the
+nephew of dr. mivers, who was no relation to him?  however, his curiosity
+was excited, and fielden was urgent that he should go; to laughton,
+therefore, had he gone.
+
+we have now brought down to the opening of our narrative the general
+records of the family it concerns; we have reserved our account of the
+rearing and the character of the personage most important, perhaps, in
+the development of its events,--lucretia clavering,--in order to place
+singly before the reader the portrait of her dark, misguided, and ill-
+boding youth.
+
+
+
+
+chapter ii.
+
+lucretia.
+
+when lucretia first came to the house of sir miles st. john she was an
+infant about four years old.  the baronet then lived principally in
+london, with occasional visits rather to the continent or a watering-
+place than to his own family mansion.  he did not pay any minute
+attention to his little ward, satisfied that her nurse was sedulous, and
+her nursery airy and commodious.  when, at the age of seven, she began to
+interest him, and he himself, approaching old age, began seriously to
+consider whether he should select her as his heiress, for hitherto he had
+not formed any decided or definite notions on the matter, he was startled
+by a temper so vehement, so self-willed and sternly imperious, so
+obstinately bent upon attaining its object, so indifferently contemptuous
+of warning, reproof, coaxing, or punishment, that her governess honestly
+came to him in despair.
+
+the management of this unmanageable child interested sir miles.  it
+caused him to think of lucretia seriously; it caused him to have her much
+in his society, and always in his thoughts.  the result was, that by
+amusing and occupying him, she forced a stronger hold on his affections
+than she might have done had she been more like the ordinary run of
+commonplace children.  of all dogs, there is no dog that so attaches a
+master as a dog that snarls at everybody else,--that no other hand can
+venture to pat with impunity; of all horses, there is none which so
+flatters the rider, from alexander downwards, as a horse that nobody else
+can ride.  extend this principle to the human species, and you may
+understand why lucretia became so dear to sir miles st. john,--she got at
+his heart through his vanity.  for though, at times, her brow darkened
+and her eye flashed even at his remonstrance, she was yet no sooner in
+his society than she made a marked distinction between him and the
+subordinates who had hitherto sought to control her.  was this affection?
+he thought so.  alas! what parent can trace the workings of a child's
+mind,--springs moved by an idle word from a nurse; a whispered conference
+between hirelings.  was it possible that lucretia had not often been
+menaced, as the direst evil that could befall her, with her uncle's
+displeasure; that long before she could be sensible of mere worldly loss
+or profit, she was not impressed with a vague sense of sir miles's power
+over her fate,--nay, when trampling, in childish wrath and scorn, upon
+some menial's irritable feelings, was it possible that she had not been
+told that, but for sir miles, she would be little better than a servant
+herself?  be this as it may, all weakness is prone to dissimulate; and
+rare and happy is the child whose feelings are as pure and transparent as
+the fond parent deems them.  there is something in children, too, which
+seems like an instinctive deference to the aristocratic appearances which
+sway the world.  sir miles's stately person, his imposing dress, the
+respect with which he was surrounded, all tended to beget notions of
+superiority and power, to which it was no shame to succumb, as it was to
+miss black, the governess, whom the maids answered pertly, or martha, the
+nurse, whom miss black snubbed if lucretia tore her frock.
+
+sir miles's affection once won, his penetration not, perhaps, blinded to
+her more evident faults, but his self-love soothed towards regarding them
+leniently, there was much in lucretia's external gifts which justified
+the predilection of the haughty man.  as a child she was beautiful, and,
+perhaps from her very imperfections of temper, her beauty had that air of
+distinction which the love of command is apt to confer.  if sir miles was
+with his friends when lucretia swept into the room, he was pleased to
+hear them call her their little "princess," and was pleased yet more at a
+certain dignified tranquillity with which she received their caresses or
+their toys, and which he regarded as the sign of a superior mind; nor was
+it long, indeed, before what we call "a superior mind" developed itself
+in the young lucretia.  all children are quick till they are set
+methodically to study; but lucretia's quickness defied even that numbing
+ordeal, by which half of us are rendered dunces.  rapidity and precision
+in all the tasks set to her, in the comprehension of all the explanations
+given to her questions, evinced singular powers of readiness and
+reasoning.
+
+as she grew older, she became more reserved and thoughtful.  seeing but
+few children of her own age, and mixing intimately with none, her mind
+was debarred from the usual objects which distract the vivacity, the
+restless and wondrous observation, of childhood.  she came in and out of
+sir miles's library of a morning, or his drawing-room of an evening, till
+her hour for rest, with unquestioned and sometimes unnoticed freedom; she
+listened to the conversation around her, and formed her own conclusions
+unchecked.  it has a great influence upon a child, whether for good or
+for evil, to mix early and habitually with those grown up,--for good to
+the mere intellect always; the evil depends upon the character and
+discretion of those the child sees and hears.  "reverence the greatest is
+due to the children," exclaims the wisest of the romans [cicero. the
+sentiment is borrowed by juvenal.],--that is to say, that we must revere
+the candour and inexperience and innocence of their minds.
+
+now, sir miles's habitual associates were persons of the world,--well-
+bred and decorous, indeed, before children, as the best of the old school
+were, avoiding all anecdotes; all allusions, for which the prudent matron
+would send her girls out of the room; but with that reserve speaking of
+the world as the world goes: if talking of young a----, calculating
+carelessly what he would have when old a----, his father, died; naturally
+giving to wealth and station and ability their fixed importance in life;
+not over-apt to single out for eulogium some quiet goodness; rather
+inclined to speak with irony of pretensions to virtue; rarely speaking
+but with respect of the worldly seemings which rule mankind.  all these
+had their inevitable effect upon that keen, quick, yet moody and
+reflective intellect.
+
+sir miles removed at last to laughton.  he gave up london,--why, he
+acknowledged not to himself; but it was because he had outlived his age.
+most of his old set were gone; new hours, new habits, had stolen in.  he
+had ceased to be of importance as a marrying man, as a personage of
+fashion; his health was impaired; he shrank from the fatigues of a
+contested election; he resigned his seat in parliament for his native
+county; and once settled at laughton, the life there soothed and
+flattered him,--there all his former claims to distinction were still
+fresh.  he amused himself by collecting, in his old halls and chambers,
+his statues and pictures, and felt that, without fatigue or trouble, he
+was a greater man at laughton in his old age than he had been in london
+during his youth.
+
+lucretia was then thirteen.  three years afterwards, olivier dalibard was
+established in the house; and from that time a great change became
+noticeable in her.  the irregular vehemence of her temper gradually
+subsided, and was replaced by an habitual self-command which rendered the
+rare deviations from it more effective and imposing.  her pride changed
+its character wholly and permanently; no word, no look of scorn to the
+low-born and the poor escaped her.  the masculine studies which her
+erudite tutor opened to a grasping and inquisitive mind, elevated her
+very errors above the petty distinctions of class.  she imbibed earnestly
+what dalibard assumed or felt,--the more dangerous pride of the fallen
+angel,--and set up the intellect as a deity.  all belonging to the mere
+study of mind charmed and enchained her; but active and practical in her
+very reveries, if she brooded, it was to scheme, to plot, to weave, web,
+and mesh, and to smile in haughty triumph at her own ingenuity and
+daring.  the first lesson of mere worldly wisdom teaches us to command
+temper; it was worldly wisdom that made the once impetuous girl calm,
+tranquil, and serene.  sir miles was pleased by a change that removed
+from lucretia's outward character its chief blot,--perhaps, as his frame
+declined, he sighed sometimes to think that with so much majesty there
+appeared but little tenderness; he took, however, the merits with the
+faults, and was content upon the whole.
+
+if the provencal had taken more than common pains with his young pupil,
+the pains were not solely disinterested.  in plunging her mind amidst
+that profound corruption which belongs only to intellect cultivated in
+scorn of good and in suppression of heart, he had his own views to serve.
+he watched the age when the passions ripen, and he grasped at the fruit
+which his training sought to mature.  in the human heart ill regulated
+there is a dark desire for the forbidden.  this lucretia felt; this her
+studies cherished, and her thoughts brooded over.  she detected, with the
+quickness of her sex, the preceptor's stealthy aim.  she started not at
+the danger.  proud of her mastery over herself, she rather triumphed in
+luring on into weakness this master-intelligence which had lighted up her
+own,--to see her slave in her teacher; to despise or to pity him whom she
+had first contemplated with awe.  and with this mere pride of the
+understanding might be connected that of the sex; she had attained the
+years when woman is curious to know and to sound her power.  to inflame
+dalibard's cupidity or ambition was easy; but to touch his heart,--that
+marble heart!--this had its dignity and its charm.  strange to say, she
+succeeded; the passion, as well as interests, of this dangerous and able
+man became enlisted in his hopes.  and now the game played between them
+had a terror in its suspense; for if dalibard penetrated not into the
+recesses of his pupil's complicated nature, she was far from having yet
+sounded the hell that lay, black and devouring, beneath his own.  not
+through her affections,--those he scarce hoped for,--but through her
+inexperience, her vanity, her passions, he contemplated the path to his
+victory over her soul and her fate.  and so resolute, so wily, so
+unscrupulous was this person, who had played upon all the subtlest keys
+and chords in the scale of turbulent life, that, despite the lofty smile
+with which lucretia at length heard and repelled his suit, he had no fear
+of the ultimate issue, when all his projects were traversed, all his
+mines and stratagems abruptly brought to a close, by an event which he
+had wholly unforeseen,--the appearance of a rival; the ardent and almost
+purifying love, which, escaping a while from all the demons he had
+evoked, she had, with a girl's frank heart and impulse, conceived for
+mainwaring.  and here, indeed, was the great crisis in lucretia's life
+and destiny.  so interwoven with her nature had become the hard
+calculations of the understanding; so habitual to her now was the zest
+for scheming, which revels in the play and vivacity of intrigue and plot,
+and which shakspeare has perhaps intended chiefly to depict in the
+villany of iago,--that it is probable lucretia could never become a
+character thoroughly amiable and honest. but with a happy and well-placed
+love, her ambition might have had legitimate vents; her restless
+energies, the woman's natural field in sympathies for another.  the
+heart, once opened, softens by use; gradually and unconsciously the
+interchange of affection, the companionship with an upright and ingenuous
+mind (for virtue is not only beautiful, it is contagious), might have had
+their redeeming and hallowing influence.  happier, indeed, had it been,
+if her choice had fallen upon a more commanding and lofty nature!  but
+perhaps it was the very meekness and susceptibility of mainwaring's
+temper, relieved from feebleness by his talents, which, once in play,
+were undeniably great, that pleased her by contrast with her own hardness
+of spirit and despotism of will.
+
+that sir miles should have been blind to the position of the lovers is
+less disparaging to his penetration than it may appear; for the very
+imprudence with which lucretia abandoned herself to the society of
+mainwaring during his visits at laughton took a resemblance to candour.
+sir miles knew his niece to be more than commonly clever and well
+informed; that she, like him, should feel that the conversation of a
+superior young man was a relief to the ordinary babble of their country
+neighbours, was natural enough; and if now and then a doubt, a fear, had
+crossed his mind and rendered him more touched than he liked to own by
+vernon's remarks, it had vanished upon perceiving that lucretia never
+seemed a shade more pensive in mainwaring's absence.  the listlessness
+and the melancholy which are apt to accompany love, especially where
+unpropitiously placed, were not visible on the surface of this strong
+nature.  in truth, once assured that mainwaring returned her affection,
+lucretia reposed on the future with a calm and resolute confidence; and
+her customary dissimulation closed like an unruffled sea over all the
+undercurrents that met and played below.  still, sir miles's attention
+once, however slightly, aroused to the recollection that lucretia was at
+the age when woman naturally meditates upon love and marriage, had
+suggested, afresh and more vividly, a project which had before been
+indistinctly conceived,--namely, the union of the divided branches of his
+house, by the marriage of the last male of the vernons with the heiress
+of the st. johns.  sir miles had seen much of vernon himself at various
+intervals; he had been present at his christening, though he had refused
+to be his godfather, for fear of raising undue expectations; he had
+visited and munificently "tipped" him at eton; he had accompanied him to
+his quarters when he joined the prince's regiment; he had come often in
+contact with him when, at the death of his father, vernon retired from
+the army and blazed in the front ranks of metropolitan fashion; he had
+given him counsel and had even lent him money.  vernon's spendthrift
+habits and dissipated if not dissolute life had certainly confirmed the
+old baronet in his intentions to trust the lands of laughton to the
+lesser risk which property incurs in the hands of a female, if tightly
+settled on her, than in the more colossal and multiform luxuries of an
+expensive man; and to do him justice, during the flush of vernon's
+riotous career he had shrunk from the thought of confiding the happiness
+of his niece to so unstable a partner.  but of late, whether from his
+impaired health or his broken fortunes, vernon's follies had been less
+glaring.  he had now arrived at the mature age of thirty-three, when wild
+oats may reasonably be sown.  the composed and steadfast character of
+lucretia might serve to guide and direct him; and sir miles was one of
+those who hold the doctrine that a reformed rake makes the best husband.
+add to this, there was nothing in vernon's reputation--once allowing that
+his thirst for pleasure was slaked--which could excite serious
+apprehensions.  through all his difficulties, he had maintained his
+honour unblemished; a thousand traits of amiability and kindness of heart
+made him popular and beloved.  he was nobody's enemy but his own.  his
+very distresses--the prospect of his ruin, if left unassisted by sir
+miles's testamentary dispositions--were arguments in his favour.  and,
+after all, though lucretia was a nearer relation, vernon was in truth the
+direct male heir, and according to the usual prejudices of family,
+therefore, the fitter representative of the ancient line.  with these
+feelings and views, he had invited vernon to his house, and we have seen
+already that his favourable impressions had been confirmed by the visit.
+
+and here we must say that vernon himself had been brought up in boyhood
+and youth to regard himself the presumptive inheritor of laughton.  it
+had been, from time immemorial, the custom of the st. johns to pass by
+the claims of females in the settlement of the entails; from male to male
+the estate had gone, furnishing warriors to the army, and senators to the
+state.  and if when lucretia first came to sir miles's house the bright
+prospect seemed somewhat obscure, still the mesalliance of the mother,
+and sir miles's obstinate resentment thereat, seemed to warrant the
+supposition that he would probably only leave to the orphan the usual
+portion of a daughter of the house, and that the lands would go in their
+ordinary destination.  this belief, adopted passively, and as a thing of
+course, had had a very prejudicial effect upon vernon's career.  what
+mattered that he overenjoyed his youth, that the subordinate property of
+the vernons, a paltry four or five thousand pounds a year, went a little
+too fast,--the splendid estates of laughton would recover all.  from this
+dream he had only been awakened, two or three years before, by an
+attachment he had formed to the portionless daughter of an earl; and the
+grange being too far encumbered to allow him the proper settlements which
+the lady's family required, it became a matter of importance to ascertain
+sir miles's intentions.  too delicate himself to sound them, he had
+prevailed upon the earl, who was well acquainted with sir miles, to take
+laughton in his way to his own seat in dorsetshire, and, without
+betraying the grounds of his interest in the question, learn carelessly,
+as it were, the views of the wealthy man.  the result had been a severe
+and terrible disappointment.  sir miles had then fully determined upon
+constituting lucretia his heiress; and with the usual openness of his
+character, he had plainly said so upon the very first covert and polished
+allusion to the subject which the earl slyly made.  this discovery, in
+breaking off all hopes of a union with lady mary stanville, had crushed
+more than mercenary expectations.  it affected, through his heart,
+vernon's health and spirits; it rankled deep, and was resented at first
+as a fatal injury.  but vernon's native nobility of disposition gradually
+softened an indignation which his reason convinced him was groundless and
+unjust. sir miles had never encouraged the expectations which vernon's
+family and himself had unthinkingly formed.  the baronet was master of
+his own fortune, and after all, was it not more natural that he should
+prefer the child he had brought up and reared, to a distant relation,
+little more than an acquaintance, simply because man succeeded to man in
+the mouldy pedigree of the st. johns?  and, mary fairly lost to him, his
+constitutional indifference to money, a certain french levity of temper,
+a persuasion that his life was nearing its wasted close, had left him
+without regret, as without resentment, at his kinsman's decision.  his
+boyish affection for the hearty, generous old gentleman returned, and
+though he abhorred the country, he had, without a single interested
+thought or calculation, cordially accepted the baronet's hospitable
+overtures, and deserted, for the wilds of hampshire, "the sweet shady
+side of pall-mall."
+
+we may now enter the drawing-room at laughton, in which were already
+assembled several of the families residing in the more immediate
+neighbourhood, and who sociably dropped in to chat around the national
+tea-table, play a rubber at whist, or make up, by the help of two or
+three children and two or three grandpapas, a merry country-dance; for in
+that happy day people were much more sociable than they are now in the
+houses of our rural thanes.  our country seats became bustling and
+animated after the birthday; many even of the more important families
+resided, indeed, all the year round on their estates.  the continent was
+closed to us; the fastidious exclusiveness which comes from habitual
+residence in cities had not made that demarcation, in castes and in talk,
+between neighbour and neighbour, which exists now.  our squires were less
+educated, less refined, but more hospitable and unassuming.  in a word,
+there was what does not exist now, except in some districts remote from
+london,--a rural society for those who sought it.
+
+the party, as we enter, is grouped somewhat thus.  but first we must cast
+a glance at the room itself, which rarely failed to be the first object
+to attract a stranger's notice.  it was a long, and not particularly
+well-proportioned apartment,--according, at least, to modern notions,--
+for it had rather the appearance of two rooms thrown into one.  at the
+distance of about thirty-five feet, the walls, before somewhat narrow,
+were met by an arch, supported by carved pilasters, which opened into a
+space nearly double the width of the previous part of the room, with a
+domed ceiling and an embayed window of such depth that the recess almost
+formed a chamber in itself.  but both these divisions of the apartment
+corresponded exactly in point of decoration,--they had the same small
+panelling, painted a very light green, which seemed almost white by
+candlelight, each compartment wrought with an arabesque; the same
+enriched frieze and cornice; they had the same high mantelpieces,
+ascending to the ceiling, with the arms of st. john in bold relief.  they
+had, too, the same old-fashioned and venerable furniture, draperies of
+thick figured velvet, with immense chairs and sofas to correspond,--
+interspersed, it is true, with more modern and commodious inventions of
+the upholsterer's art, in grave stuffed leather or lively chintz.  two
+windows, nearly as deep as that in the farther division, broke the
+outline of the former one, and helped to give that irregular and nooky
+appearance to the apartment which took all discomfort from its extent,
+and furnished all convenience for solitary study or detached flirtation.
+with little respect for the carved work of the panels, the walls were
+covered with pictures brought by sir miles from italy; here and there
+marble busts and statues gave lightness to the character of the room, and
+harmonized well with that half-italian mode of decoration which belongs
+to the period of james the first. the shape of the chamber, in its
+divisions, lent itself admirably to that friendly and sociable
+intermixture of amusements which reconciles the tastes of young and old.
+in the first division, near the fireplace, sir miles, seated in his easy-
+chair, and sheltered from the opening door by a seven-fold tapestry
+screen, was still at chess with his librarian.  at a little distance a
+middle-aged gentleman and three turbaned matrons were cutting in at
+whist, shilling points, with a half-crown bet optional, and not much
+ventured on.  on tables, drawn into the recesses of the windows, were the
+day's newspapers, gilray's caricatures, the last new publications, and
+such other ingenious suggestions to chit-chat.  and round these tables
+grouped those who had not yet found elsewhere their evening's amusement,-
+-two or three shy young clergymen, the parish doctor, four or five
+squires who felt great interest in politics, but never dreamed of the
+extravagance of taking in a daily paper, and who now, monopolizing all
+the journals they could find, began fairly with the heroic resolution to
+skip nothing, from the first advertisement to the printer's name.  amidst
+one of these groups mainwaring had bashfully ensconced himself.  in the
+farther division, the chandelier, suspended from the domed ceiling, threw
+its cheerful light over a large circular table below, on which gleamed
+the ponderous tea-urn of massive silver, with its usual accompaniments.
+nor were wanting there, in addition to those airy nothings, sliced
+infinitesimally, from a french roll, the more substantial and now exiled
+cheer of cakes,--plum and seed, yorkshire and saffron,--attesting the
+light hand of the housekeeper and the strong digestion of the guests.
+round this table were seated, in full gossip, the maids and the matrons,
+with a slight sprinkling of the bolder young gentlemen who had been
+taught to please the fair.  the warmth of the evening allowed the upper
+casement to be opened and the curtains drawn aside, and the july
+moonlight feebly struggled against the blaze of the lights within.  at
+this table it was miss clavering's obvious duty to preside; but that was
+a complaisance to which she rarely condescended.  nevertheless, she had
+her own way of doing the honour of her uncle's house, which was not
+without courtesy and grace; to glide from one to the other, exchange a
+few friendly words, see that each set had its well-known amusements, and,
+finally, sit quietly down to converse with some who, from gravity or age,
+appeared most to neglect or be neglected by the rest, was her ordinary,
+and not unpopular mode of welcoming the guests at laughton,--not
+unpopular; for she thus avoided all interference with the flirtations and
+conquests of humbler damsels, whom her station and her endowments might
+otherwise have crossed or humbled, while she insured the good word of the
+old, to whom the young are seldom so attentive.  but if a stranger of
+more than provincial repute chanced to be present; if some stray member
+of parliament, or barrister on the circuit, or wandering artist,
+accompanied any of the neighbours,--to him lucretia gave more earnest and
+undivided attention.  him she sought to draw into a conversation deeper
+than the usual babble, and with her calm, searching eyes, bent on him
+while he spoke, seemed to fathom the intellect she set in play.  but as
+yet, this evening, she had not made her appearance,--a sin against
+etiquette very unusual in her.  perhaps her recent conversation with
+dalibard had absorbed her thoughts to forgetfulness of the less important
+demands on her attention.  her absence had not interfered with the gayety
+at the tea-table, which was frank even to noisiness as it centred round
+the laughing face of ardworth, who, though unknown to most or all of the
+ladies present, beyond a brief introduction to one or two of the first
+comers from sir miles (as the host had risen from his chess to bid them
+welcome), had already contrived to make himself perfectly at home and
+outrageously popular.  niched between two bouncing lasses, he had
+commenced acquaintance with them in a strain of familiar drollery and
+fun, which had soon broadened its circle, and now embraced the whole
+group in the happy contagion of good-humour and young animal spirits.
+gabriel, allowed to sit up later than his usual hour, had not, as might
+have been expected, attached himself to this circle, nor indeed to any;
+he might be seen moving quietly about,--now contemplating the pictures on
+the wall with a curious eye; now pausing at the whist-table, and noting
+the game with the interest of an embryo gamester; now throwing himself on
+an ottoman, and trying to coax towards him dash or ponto,--trying in
+vain, for both the dogs abhorred him; yet still, through all this general
+movement, had any one taken the pains to observe him closely, it might
+have been sufficiently apparent that his keen, bright, restless eye, from
+the corner of its long, sly lids, roved chiefly towards the three persons
+whom he approached the least,--his father, mainwaring, and mr. vernon.
+this last had ensconced himself apart from all, in the angle formed by
+one of the pilasters of the arch that divided the room, so that he was in
+command, as it were, of both sections.  reclined, with the careless grace
+that seemed inseparable from every attitude and motion of his person, in
+one of the great velvet chairs, with a book in his hand, which, to say
+truth, was turned upside down, but in the lecture of which he seemed
+absorbed, he heard at one hand the mirthful laughter that circled round
+young ardworth, or, in its pauses, caught, on the other side, muttered
+exclamations from the grave whist-players: "if you had but trumped that
+diamond, ma'am!"  "bless me, sir, it was the best heart!"  and somehow or
+other, both the laughter and the exclamations affected him alike with
+what then was called "the spleen,"--for the one reminded him of his own
+young days of joyless, careless mirth, of which his mechanical gayety now
+was but a mocking ghost; and the other seemed a satire, a parody, on the
+fierce but noiseless rapture of gaming, through which his passions had
+passed, when thousands had slipped away with a bland smile, provoking not
+one of those natural ebullitions of emotion which there accompanied the
+loss of a shilling point.  and besides this, vernon had been so
+accustomed to the success of the drawing-room, to be a somebody and a
+something in the company of wits and princes, that he felt, for the first
+time, a sense of insignificance in this provincial circle.  those fat
+squires had heard nothing of mr. vernon, except that he would not have
+laughton,--he had no acres, no vote in their county; he was a nobody to
+them.  those ruddy maidens, though now and then, indeed, one or two might
+steal an admiring glance at a figure of elegance so unusual, regarded him
+not with the female interest he had been accustomed to inspire.  they
+felt instinctively that he could be nothing to them, nor they to him,
+--a mere london fop, and not half so handsome as squires bluff and chuff.
+
+rousing himself from this little vexation to his vanity with a conscious
+smile at his own weakness, vernon turned his looks towards the door,
+waiting for lucretia's entrance, and since her uncle's address to him,
+feeling that new and indescribable interest in her appearance which is
+apt to steal into every breast when what was before but an indifferent
+acquaintance, is suddenly enhaloed with the light of a possible wife.
+at length the door opened, and lucretia entered.  mr. vernon lowered his
+book, and gazed with an earnestness that partook both of doubt and
+admiration.
+
+lucretia clavering was tall,--tall beyond what is admitted to be tall in
+woman; but in her height there was nothing either awkward or masculine,--
+a figure more perfect never served for model to a sculptor.  the dress at
+that day, unbecoming as we now deem it, was not to her--at least, on the
+whole disadvantageous.  the short waist gave greater sweep to her
+majestic length of limb, while the classic thinness of the drapery
+betrayed the exact proportion and the exquisite contour.  the arms then
+were worn bare almost to the shoulder, and lucretia's arms were not more
+faultless in shape than dazzling in their snowy colour; the stately neck,
+the falling shoulders, the firm, slight, yet rounded bust,--all would
+have charmed equally the artist and the sensualist. fortunately, the sole
+defect of her form was not apparent at a distance: that defect was in the
+hand; it had not the usual faults of female youthfulness,--the
+superfluity of flesh, the too rosy healthfulness of colour,--on the
+contrary, it was small and thin; but it was, nevertheless, more the hand
+of a man than a woman: the shape had a man's nervous distinctness, the
+veins swelled like sinews, the joints of the fingers were marked and
+prominent.  in that hand it almost seemed as if the iron force of the
+character betrayed itself.  but, as we have said, this slight defect,
+which few, if seen, would hypercritically notice, could not, of course,
+be perceptible as she moved slowly up the room; and vernon's eye,
+glancing over the noble figure, rested upon the face.  was it handsome?
+was it repelling?  strange that in feature it had pretensions to the
+highest order of beauty, and yet even that experienced connoisseur in
+female charms was almost as puzzled what sentence to pronounce.  the
+hair, as was the fashion of the day, clustered in profuse curls over the
+forehead, but could not conceal a slight line or wrinkle between the
+brows; and this line, rare in women at any age, rare even in men at hers,
+gave an expression at once of thought and sternness to the whole face.
+the eyebrows themselves were straight, and not strongly marked, a shade
+or two perhaps too light,--a fault still more apparent in the lashes; the
+eyes were large, full, and though bright, astonishingly calm and deep,--
+at least in ordinary moments; yet withal they wanted the charm of that
+steadfast and open look which goes at once to the heart and invites its
+trust,--their expression was rather vague and abstracted.  she usually
+looked aslant while she spoke, and this, which with some appears but
+shyness, in one so self-collected had an air of falsehood.  but when, at
+times, if earnest, and bent rather on examining those she addressed than
+guarding herself from penetration, she fixed those eyes upon you with
+sudden and direct scrutiny, the gaze impressed you powerfully, and
+haunted you with a strange spell.  the eye itself was of a peculiar and
+displeasing colour,--not blue, nor gray, nor black, nor hazel, but rather
+of that cat-like green which is drowsy in the light, and vivid in the
+shade.  the profile was purely greek, and so seen, lucretia's beauty
+seemed incontestable; but in front face, and still more when inclined
+between the two, all the features took a sharpness that, however regular,
+had something chilling and severe: the mouth was small, but the lips were
+thin and pale, and had an expression of effort and contraction which
+added to the distrust that her sidelong glance was calculated to inspire.
+the teeth were dazzlingly white, but sharp and thin, and the eye-teeth
+were much longer than the rest. the complexion was pale, but without much
+delicacy,--the paleness seemed not natural to it, but rather that hue
+which study and late vigils give to men; so that she wanted the freshness
+and bloom of youth, and looked older than she was,--an effect confirmed
+by an absence of roundness in the cheek not noticeable in the profile,
+but rendering the front face somewhat harsh as well as sharp.  in a word,
+the face and the figure were not in harmony: the figure prevented you
+from pronouncing her to be masculine; the face took from the figure the
+charm of feminacy.  it was the head of the young augustus upon the form
+of agrippina.  one touch more, and we close a description which already
+perhaps the reader may consider frivolously minute.  if you had placed
+before the mouth and lower part of the face a mask or bandage, the whole
+character of the upper face would have changed at once,--the eye lost its
+glittering falseness, the brow its sinister contraction; you would have
+pronounced the face not only beautiful, but sweet and womanly.  take that
+bandage suddenly away and the change would have startled you, and
+startled you the more because you could detect no sufficient defect or
+disproportion in the lower part of the countenance to explain it.  it was
+as if the mouth was the key to the whole: the key nothing without the
+text, the text uncomprehended without the key.
+
+such, then, was lucretia clavering in outward appearance at the age of
+twenty,--striking to the most careless eye; interesting and perplexing
+the student in that dark language never yet deciphered,--the human
+countenance.  the reader must have observed that the effect every face
+that he remarks for the first time produces is different from the
+impression it leaves upon him when habitually seen.  perhaps no two
+persons differ more from each other than does the same countenance in our
+earliest recollection of it from the countenance regarded in the
+familiarity of repeated intercourse.  and this was especially the case
+with lucretia clavering's: the first impulse of nearly all who beheld it
+was distrust that partook of fear; it almost inspired you with a sense of
+danger.  the judgment rose up against it; the heart set itself on its
+guard.  but this uneasy sentiment soon died away, with most observers, in
+admiration at the chiselled outline, which, like the grecian sculpture,
+gained the more the more it was examined, in respect for the intellectual
+power of the expression, and in fascinated pleasure at the charm of a
+smile, rarely employed, it is true, but the more attractive both for that
+reason and for its sudden effect in giving brightness and persuasion to
+an aspect that needed them so much.  it was literally like the abrupt
+breaking out of a sunbeam; and the repellent impression of the face thus
+familiarized away, the matchless form took its natural influence; so that
+while one who but saw lucretia for a moment might have pronounced her
+almost plain, and certainly not prepossessing in appearance, those with
+whom she lived, those whom she sought to please, those who saw her daily,
+united in acknowledgment of her beauty; and if they still felt awe,
+attributed it only to the force of her understanding.
+
+as she now came midway up the room, gabriel started from his seat and ran
+to her caressingly.  lucretia bent down, and placed her hand upon his
+fair locks.  as she did so, he whispered,--
+
+"mr. vernon has been watching for you."
+
+"hush!  where is your father?"
+
+"behind the screen, at chess with sir miles."
+
+"with sir miles!" and lucretia's eye fell, with the direct gaze we have
+before referred to, upon the boy's face.
+
+"i have been looking over them pretty often," said he, meaningly: "they
+have talked of nothing but the game."  lucretia lifted her head, and
+glanced round with her furtive eye; the boy divined the search, and with
+a scarce perceptible gesture pointed her attention to mainwaring's
+retreat.  her vivid smile passed over her lips as she bowed slightly to
+her lover, and then, withdrawing the hand which gabriel had taken in his
+own, she moved on, passed vernon with a commonplace word or two, and was
+soon exchanging greetings with the gay merry-makers in the farther part
+of the room.  a few minutes afterwards, the servants entered, the tea-
+table was removed, chairs were thrust back, a single lady of a certain
+age volunteered her services at the piano, and dancing began within the
+ample space which the arch fenced off from the whist-players.  vernon had
+watched his opportunity, and at the first sound of the piano had gained
+lucretia's side, and with grave politeness pre-engaged her hand for the
+opening dance.
+
+at that day, though it is not so very long ago, gentlemen were not
+ashamed to dance, and to dance well; it was no languid saunter through a
+quadrille; it was fair, deliberate, skilful dancing amongst the courtly,
+--free, bounding movement amongst the gay.
+
+vernon, as might be expected, was the most admired performer of the
+evening; but he was thinking very little of the notice he at last
+excited, he was employing such ingenuity as his experience of life
+supplied to the deficiencies of a very imperfect education, limited to
+the little flogged into him at eton, in deciphering the character and
+getting at the heart of his fair partner.
+
+"i wonder you do not make sir miles take you to london, my cousin, if you
+will allow me to call you so.  you ought to have been presented."
+
+"i have no wish to go to london yet."
+
+"yet!" said mr. vernon, with the somewhat fade gallantry of his day;
+"beauty even like yours has little time to spare."
+
+"hands across, hands across!" cried mr. ardworth.
+
+"and," continued mr. vernon, as soon as a pause was permitted to him,
+"there is a song which the prince sings, written by some sensible old-
+fashioned fellow, which says,--
+
+    "'gather your rosebuds while you may,       for time is still a
+flying."'
+
+"you have obeyed the moral of the song yourself, i believe, mr.  vernon."
+
+"call me cousin, or charles,--charley, if you like, as most of my friends
+do; nobody ever calls me mr. vernon,--i don't know myself by that name."
+
+"down the middle; we are all waiting for you," shouted ardworth.
+
+and down the middle, with wondrous grace, glided the exquisite nankeens
+of charley vernon.
+
+the dance now, thanks to ardworth, became too animated and riotous to
+allow more than a few broken monosyllables till vernon and his partner
+gained the end of the set, and then, flirting his partner's fan, he
+recommenced,--
+
+"seriously, my cousin, you must sometimes feel very much moped here."
+
+"never!" answered lucretia.  not once yet had her eye rested on mr.
+vernon.  she felt that she was sounded.
+
+"yet i am sure you have a taste for the pomps and vanities.  aha! there
+is ambition under those careless curls," said mr. vernon, with his easy,
+adorable impertinence.
+
+lucretia winced.
+
+"but if i were ambitious, what field for ambition could i find in
+london?"
+
+"the same as alexander,--empire, my cousin."
+
+"you forget that i am not a man.  man, indeed, may hope for an empire.
+it is something to be a pitt, or even a warren hastings."
+
+mr. vernon stared.  was this stupidity, or what?
+
+"a woman has an empire more undisputed than mr. pitt's, and more pitiless
+than that of governor hastings."
+
+"oh, pardon me, mr. vernon--"
+
+"charles, if you please."
+
+lucretia's brow darkened.
+
+"pardon me," she repeated; "but these compliments, if such they are meant
+to be, meet a very ungrateful return.  a woman's empire over gauzes and
+ribbons, over tea-tables and drums, over fops and coquettes, is not worth
+a journey from laughton to london."
+
+"you think you can despise admiration?"
+
+"what you mean by admiration,--yes."
+
+"and love too?" said vernon, in a whisper.
+
+now lucretia at once and abruptly raised her eyes to her partner.  was he
+aiming at her secret?  was he hinting at intentions of his own?  the look
+chilled vernon, and he turned away his head.
+
+suddenly, then, in pursuance of a new train of ideas, lucretia altered
+her manner to him.  she had detected what before she had surmised.  this
+sudden familiarity on his part arose from notions her uncle had
+instilled,--the visitor had been incited to become the suitor.  her
+penetration into character, which from childhood had been her passionate
+study, told her that on that light, polished, fearless nature scorn would
+have slight effect; to meet the familiarity would be the best means to
+secure a friend, to disarm a wooer.  she changed then her manner; she
+summoned up her extraordinary craft; she accepted the intimacy held out
+to her, not to unguard herself, but to lay open her opponent.  it became
+necessary to her to know this man, to have such power as the knowledge
+might give her.  insensibly and gradually she led her companion away from
+his design of approaching her own secrets or character, into frank talk
+about himself.  all unconsciously he began to lay bare to his listener
+the infirmities of his erring, open heart.  silently she looked down, and
+plumbed them all,--the frivolity, the recklessness, the half gay, half
+mournful sense of waste and ruin.  there, blooming amongst the wrecks,
+she saw the fairest flowers of noble manhood profuse and fragrant still,
+--generosity and courage and disregard for self.  spendthrift and gambler
+on one side the medal; gentleman and soldier on the other.  beside this
+maimed and imperfect nature she measured her own prepared and profound
+intellect, and as she listened, her smile became more bland and frequent.
+she could afford to be gracious; she felt superiority, scorn, and safety.
+
+as this seeming intimacy had matured, vernon and his partner had quitted
+the dance, and were conversing apart in the recess of one of the windows,
+which the newspaper readers had deserted, in the part of the room where
+sir miles and dalibard, still seated, were about to commence their third
+game at chess.  the baronet's hand ceased from the task of arranging his
+pawns; his eye was upon the pair; and then, after a long and complacent
+gaze, it looked round without discovering the object it sought.
+
+"i am about to task your kindness most improperly, monsieur dalibard,"
+said sir miles, with that politeness so displeasing to ardworth, "but
+will you do me the favour to move aside that fold of the screen?  i wish
+for a better view of our young people.  thank you very much."
+
+sir miles now discovered mainwaring, and observed that, far from
+regarding with self-betraying jealousy the apparent flirtation going on
+between lucretia and her kinsman, he was engaged in animated conversation
+with the chairman of the quarter sessions.  sir miles was satisfied, and
+ranged his pawns.  all this time, and indeed ever since they had sat down
+to play, the provencal had been waiting, with the patience that belonged
+to his character, for some observation from sir miles on the subject
+which, his sagacity perceived, was engrossing his thoughts.  there had
+been about the old gentleman a fidgety restlessness which showed that
+something was on his mind.  his eyes had been frequently turned towards
+his niece since her entrance; once or twice he had cleared his throat and
+hemmed,--his usual prelude to some more important communication; and
+dalibard had heard him muttering to himself, and fancied he caught the
+name of "mainwaring."  and indeed the baronet had been repeatedly on the
+verge of sounding his secretary, and as often had been checked both by
+pride in himself and pride for lucretia.  it seemed to him beneath his
+own dignity and hers even to hint to an inferior a fear, a doubt, of the
+heiress of laughton.  olivier dalibard could easily have led on his
+patron, he could easily, if he pleased it, have dropped words to instil
+suspicion and prompt question; but that was not his object,--he rather
+shunned than courted any reference to himself upon the matter; for he
+knew that lucretia, if she could suppose that he, however indirectly, had
+betrayed her to her uncle, would at once declare his own suit to her, and
+so procure his immediate dismissal; while, aware of her powers of
+dissimulation and her influence over her uncle, he feared that a single
+word from her would suffice to remove all suspicion in sir miles, however
+ingeniously implanted, and however truthfully grounded.  but all the
+while, under his apparent calm, his mind was busy and his passions
+burning.
+
+"pshaw! your old play,--the bishop again," said sir miles, laughing, as
+he moved a knight to frustrate his adversary's supposed plan; and then,
+turning back, he once more contemplated the growing familiarity between
+vernon and his niece.  this time he could not contain his pleasure.
+"dalibard, my dear sir," he said, rubbing his hands, "look yonder: they
+would make a handsome couple!"
+
+"who, sir?" said the provencal, looking another way, with dogged
+stupidity.
+
+"who?  damn it, man!  nay, pray forgive my ill manners, but i felt glad,
+sir, and proud, sir.  who?  charley vernon and lucretia clavering."
+
+"assuredly, yes.  do you think that there is a chance of so happy an
+event?"
+
+"why, it depends only on lucretia; i shall never force her."  here sir
+miles stopped, for gabriel, unperceived before, picked up his patron's
+pocket-handkerchief.
+
+olivier dalibard's gray eyes rested coldly on his son.  "you are not
+dancing to-night, my boy.  go; i like to see you amused."
+
+the boy obeyed at once, as he always did, the paternal commands.  he
+found a partner, and joined a dance just begun; and in the midst of the
+dance, honore gabriel varney seemed a new being,--not ardworth himself so
+thoroughly entered into the enjoyment of the exercise, the lights, the
+music.  with brilliant eyes and dilated nostrils, he seemed prematurely
+to feel all that is exciting and voluptuous in that exhilaration which to
+childhood is usually so innocent.  his glances followed the fairest form;
+his clasp lingered in the softest hand; his voice trembled as the warm
+breath of his partner came on his cheeks.
+
+meanwhile the conversation between the chess-players continued.
+
+"yes," said the baronet, "it depends only on lucretia.  and she seems
+pleased with vernon: who would not be?"
+
+"your penetration rarely deceives you, sir.  i own i think with you.
+does mr. vernon know that you would permit the alliance?"
+
+"yes; but--" the baronet stopped short.
+
+"you were saying, but--  but what, sir miles?"
+
+"why, the dog affected diffidence; he had some fear lest he should not
+win her affections.  but luckily, at least, they are disengaged."
+
+dalibard looked grave, and his eye, as if involuntarily, glanced towards
+mainwaring.  as ill-luck would have it, the young man had then ceased his
+conversation with the chairman of the quarter sessions, and with arms
+folded, brow contracted, and looks, earnest, anxious, and intent, was
+contemplating the whispered conference between lucretia and vernon.
+
+sir miles's eye had followed his secretary's, and his face changed.  his
+hand fell on the chess board and upset half the men; he uttered a very
+audible "zounds!"
+
+"i think, sir miles," said the provencal, rising, as if conscious that
+sir miles wished to play no more,--"i think that if you spoke soon to
+miss clavering as to your views with regard to mr. vernon, it might ripen
+matters; for i have heard it said by french mothers--and our frenchwomen
+understand the female heart, sir--that a girl having no other affection
+is often prepossessed at once in favour of a man whom she knows
+beforehand is prepared to woo and to win her, whereas without that
+knowledge he would have seemed but an ordinary acquaintance."
+
+"it is shrewdly said, my dear monsieur dalibard; and for more reasons
+than one, the sooner i speak to her the better.  lend me your arm.  it is
+time for supper; i see the dance is over."
+
+passing by the place where mainwaring still leaned, the baronet looked at
+him fixedly.  the young man did not notice the gaze.  sir miles touched
+him gently.  he started as from a revery.
+
+"you have not danced, mr. mainwaring."
+
+"i dance so seldom, sir miles," said mainwaring, colouring.
+
+"ah! you employ your head more than your heels, young gentleman,--very
+right; i must speak to you to-morrow.  well, ladies, i hope you have
+enjoyed yourselves?  my dear mrs. vesey, you and i are old friends, you
+know; many a minuet we have danced together, eh?  we can't dance now, but
+we can walk arm-in-arm together still.  honour me.  and your little
+grandson--vaccinated, eh?  wonderful invention!  to supper, ladies, to
+supper!"
+
+the company were gone.  the lights were out,--all save the lights of
+heaven; and they came bright and still through the casements.  moonbeam
+and starbeam, they seemed now to have the old house to themselves.  in
+came the rays, brighter and longer and bolder, like fairies that march,
+rank upon rank, into their kingdom of solitude.  down the oak stairs,
+from the casements, blazoned with heraldry, moved the rays, creepingly,
+fearfully.  on the armour in the hall clustered the rays boldly and
+brightly, till the steel shone out like a mirror.  in the library, long
+and low, they just entered, stopped short: it was no place for their
+play.  in the drawing-room, now deserted, they were more curious and
+adventurous.  through the large window, still open, they came in freely
+and archly, as if to spy what had caused such disorder; the stiff chairs
+out of place, the smooth floor despoiled of its carpet, that flower
+dropped on the ground, that scarf forgotten on the table,--the rays
+lingered upon them all.  up and down through the house, from the base to
+the roof, roved the children of the air, and found but two spirits awake
+amidst the slumber of the rest.
+
+in that tower to the east, in the tapestry chamber with the large gilded
+bed in the recess, came the rays, tamed and wan, as if scared by the
+grosser light on the table.  by that table sat a girl, her brow leaning
+on one hand; in the other she held a rose,--it is a love-token: exchanged
+with its sister rose, by stealth, in mute sign of reproach for doubt
+excited,--an assurance and a reconciliation.  a love-token!--shrink not,
+ye rays; there is something akin to you in love.  but see,--the hand
+closes convulsively on the flower; it hides it not in the breast; it
+lifts it not to the lip: it throws it passionately aside.  "how long!"
+muttered the girl, impetuously,--"how long!  and to think that will here
+cannot shorten an hour!"  then she rose, and walked to and fro, and each
+time she gained a certain niche in the chamber she paused, and then
+irresolutely passed on again.  what is in that niche?  only books.  what
+can books teach thee, pale girl?  the step treads firmer; this time it
+halts more resolved.  the hand that clasped the flower takes down a
+volume.  the girl sits again before the light.  see, o rays! what is the
+volume?  moon and starbeam, ye love what lovers read by the lamp in the
+loneliness.  no love-ditty this; no yet holier lesson to patience, and
+moral to hope.  what hast thou, young girl, strong in health and rich in
+years, with the lore of the leech,--with prognostics and symptoms and
+diseases?  she is tracing with hard eyes the signs that precede the grim
+enemy in his most sudden approach,--the habits that invite him, the
+warnings that he gives.  he whose wealth shall make her free has twice
+had the visiting shock; he starves not, he lives frae!  she closes the
+volume, and, musing, metes him out the hours and days he has to live.
+shrink back, ye rays!  the love is disenhallowed; while the hand was on
+the rose, the thought was on the charnel.
+
+yonder, in the opposite tower, in the small casement near the roof, came
+the rays.  childhood is asleep.  moon and starbeam, ye love the slumbers
+of the child!  the door opens, a dark figure steals noiselessly in.  the
+father comes to look on the sleep of his son.  holy tenderness, if this
+be all!  "gabriel, wake!" said a low, stern voice, and a rough hand shook
+the sleeper.
+
+the sharpest test of those nerves upon which depends the mere animal
+courage is to be roused suddenly, in the depth of night, by a violent
+hand.  the impulse of gabriel, thus startled, was neither of timidity nor
+surprise.  it was that of some spartan boy not new to danger; with a
+slight cry and a fierce spring, the son's hand clutched at the father's
+throat.  dalibard shook him off with an effort, and a smile, half in
+approval, half in irony, played by the moonlight over his lips.
+
+"blood will out, young tiger," said he.  "hush, and hear me!"
+
+"is it you, father?" said gabriel.  "i thought, i dreamed--"
+
+"no matter; think, dream always that man should be prepared for defence
+from peril!"
+
+"gabriel," and the pale scholar seated himself on the bed, "turn your
+face to mine,--nearer; let the moon fall on it; lift your eyes; look at
+me--so!  are you not playing false to me?  are you not lucretia's spy,
+while you are pretending to be mine?  it is so; your eye betrays you.
+now, heed me; you have a mind beyond your years.  do you love best the
+miserable garret in london, the hard fare and squalid dress, or your
+lodgment here, the sense of luxury, the sight of splendour, the
+atmosphere of wealth?  you have the choice before you."
+
+"i choose, as you would have me, then," said the boy, "the last."
+
+"i believe you.  attend!  you do not love me,--that is natural; you are
+the son of clara varney!  you have supposed that in loving lucretia
+clavering you might vex or thwart me, you scarce knew how; and lucretia
+clavering has gold and gifts and soft words and promises to bribe withal.
+i now tell you openly my plan with regard to this girl: it is my aim to
+marry her; to be master of this house and these lands.  if i succeed, you
+share them with me.  by betraying me, word or look, to lucretia, you
+frustrate this aim; you plot against our rise and to our ruin.  deem not
+that you could escape my fall; if i am driven hence,--as you might drive
+me,--you share my fate; and mark me, you are delivered up to my revenge!
+you cease to be my son,--you are my foe.  child! you know me."
+
+the boy, bold as he was, shuddered; but after a pause so brief that a
+breath scarce passed between his silence and his words, he replied with
+emphasis,--
+
+"father, you have read my heart.  i have been persuaded by lucretia (for
+she bewitches me) to watch you,--at least, when you are with sir miles.
+i knew that this was mixed up with mr. mainwaring.  now that you have
+made me understand your own views, i will be true to you,--true without
+threats."
+
+the father looked hard on him, and seemed satisfied with the gaze.
+"remember, at least, that your future rests upon your truth; that is no
+threat,--that is a thought of hope. now sleep or muse on it."  he dropped
+the curtain which his hand had drawn aside, and stole from the room as
+noiselessly as he had entered.  the boy slept no more.  deceit and
+cupidity and corrupt ambition were at work in his brain.  shrink back,
+moon and starbeam!  on that child's brow play the demons who had followed
+the father's step to his bed of sleep.
+
+back to his own room, close at hand, crept olivier dalibard.  the walls
+were lined with books,--many in language and deep in lore.  moon and
+starbeam, ye love the midnight solitude of the scholar!  the provencal
+stole to the casement, and looked forth.  all was serene,--breathless
+trees and gleaming sculpture and whitened sward, girdled by the mass of
+shadow.  of what thought the man?  not of the present loveliness which
+the scene gave to his eye, nor of the future mysteries which the stars
+should whisper to the soul.  gloomily over a stormy and a hideous past
+roved the memory, stored with fraud and foul with crime,--plan upon plan,
+schemed with ruthless wisdom, followed up by remorseless daring, and yet
+all now a ruin and a blank; an intellect at war with good, and the good
+had conquered!  but the conviction neither touched the conscience nor
+enlightened the reason; he felt, it is true, a moody sense of impotence,
+but it brought rage, not despondency.  it was not that he submitted to
+good as too powerful to oppose, but that he deemed he had not yet gained
+all the mastery over the arsenal of evil.  and evil he called it not.
+good and evil to him were but subordinate genii at the command of mind;
+they were the slaves of the lamp.  but had he got at the true secret of
+the lamp itself?  "how is it," he thought, as he turned impatiently from
+the casement, "that i am baffled here where my fortunes seemed most
+assured?  here the mind has been of my own training, and prepared by
+nature to my hand; here all opportunity has smiled.  and suddenly the
+merest commonplace in the vulgar lives of mortals,--an unlooked-for
+rival; rival, too, of the mould i had taught her to despise; one of the
+stock gallants of a comedy, no character but youth and fair looks,--yea,
+the lover of the stage starts up, and the fabric of years is overthrown."
+as he thus mused, he placed his hand upon a small box on one of the
+tables.  "yet within this," resumed his soliloquy, and he struck the lid,
+that gave back a dull sound,--"within this i hold the keys of life and
+death!  fool! the power does not reach to the heart, except to still it.
+verily and indeed were the old heathens mistaken?  are there no philters
+to change the current of desire?  but touch one chord in a girl's
+affection, and all the rest is mine, all, all, lands, station, power, all
+the rest are in the opening of this lid!"
+
+hide in the cloud, o moon! shrink back, ye stars! send not your holy,
+pure, and trouble-lulling light to the countenance blanched and livid
+with the thoughts of murder.
+
+
+
+
