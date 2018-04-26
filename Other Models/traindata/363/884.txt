@@ -1,0 +1,5033 @@
+
+the want of a short and easy introduction to the study of
+icelandic has been felt for a long time--in fact, from the very
+beginning of that study in england.  the _icelandic reader_,
+edited by messrs.  vigfusson and powell, in the clarendon press
+series, is a most valuable book, which ought to be in the hands
+of every student; but it still leaves room for an elementary
+primer.  as the engagements of the editors of the reader would
+have made it impossible for them to undertake such a work for
+some years to come, they raised no objections to my proposal to
+undertake it myself.  meanwhile, i found the task was a more
+formidable one than i had anticipated, and accordingly, before
+definitely committing myself to it, i made one final attempt to
+induce messrs.  vigfusson and powell to take it off my hands; but
+they very kindly encouraged me to proceed with it; and as i
+myself thought that an icelandic primer, on the lines of my
+anglo-saxon one, might perhaps be the means of inducing some
+students of old english to take up icelandic as well, i
+determined to go on.
+
+in the spelling i have not thought it necessary to adhere
+strictly to that adopted in the reader, for the editors have
+themselves deviated from it in their _corpus poeticum boreale_,
+in the way of separating __ from __, etc.  my own principle has
+been to deviate as little as possible from the traditional
+spelling followed in normalized texts.  there is, indeed, no
+practical gain for the beginner in writing _tme_ for _tmi_,
+discarding __, etc., although these changes certainly bring us
+nearer the oldest mss., and cannot be dispensed with in
+scientific works.  the essential thing for the beginner is to
+have _regular_ forms presented to him, to the exclusion, as far
+as possible, of isolated archaisms, and to have the defective
+distinctions of the mss. supplemented by diacritics.  i have not
+hesitated to substitute () for () as the mark of length; the
+latter ought in my opinion to be used exclusively--in icelandic
+as well as in old english and old irish--to represent the actual
+accents of the mss.
+
+in the grammar i have to acknowledge my great obligations to
+noreen's _altislndische grammatik_, which is by far the best
+icelandic grammar that has yet appeared--at least from that
+narrow point of view which ignores syntax, and concentrates
+itself on phonology and inflections.
+
+the texts are intended to be as easy, interesting, and
+representative as possible.  with such a language, and such a
+master of it as snorri to choose from, this combination is not
+difficult to realise.  the beginner is indeed to be envied who
+makes his first acquaintance with the splendid mythological tales
+of the north, told in an absolutely perfect style.  as the death
+of olaf tryggvason is given in the reader only from the longer
+recension of the heimskringla, i have been able to give the
+shorter text, which is admirably suited for the purposes of this
+book.  the story of auun is not only a beautiful one in itself,
+but, together with the preceding piece, gives a vivid idea of the
+norse ideal of the kingly character, which was the foundation of
+their whole political system.  as the reader does not include
+poetry (except incidentally), i have added one of the finest of
+the eddaic poems, which is at the same time freest from obscurity
+and corruption--the song of thor's quest of his hammer.
+
+in the glossary i have ventured to deviate from the very
+inconvenient scandinavian arrangement, which puts __, __, __,
+right at the end of the alphabet.
+
+i have to acknowledge the great help i have had in preparing the
+texts and the glossary from wimmer's _oldnordisk lsebog_, which
+i consider to be, on the whole, the best reading-book that exists
+in any language.  so excellent is wimmer's selection of texts,
+that it was impossible for me to do otherwise than follow him in
+nearly every case.
+
+in conclusion, it is almost superfluous to say that this book
+makes no pretension to originality of any kind.  if it
+contributes towards restoring to englishmen that precious
+heritage--the old language and literature of iceland--which our
+miserably narrow scheme of education has hitherto defrauded them
+of, it will have fulfilled its purpose.
+
+henry sweet
+london,
+february, 1886
+
+
+
+grammar
+
+1. this book deals with old icelandic in its classical period,
+between 1200 and 1350.
+
+
+pronunciation
+
+2. the icelandic alphabet was founded on the latin, with the
+addition of __ and __, and of the modified letters __, __,
+__, which last is in this book written __, __.
+
+vowels
+
+3. the vowel-letters had nearly the same values as in old
+english.  long vowels were often marked by ().  in this book
+long vowels are regularly marked by ()[1].  the following are
+the elementary vowels and diphthongs, with examples, and
+key-words from english, french (f.), and german (g.):--
+
+[footnote 1: note that the longs of __, __ are written __,
+__, respectively.]
+
+            a  _as in_  mann (g.)   halda (_hold_)
+                 "     father      r (_advice_)
+            e     "     t (f.)    gekk (_went_)
+            [2]        . . .       lt (let _pret._)
+                 "     men         mnn (_men_)
+
+[footnote 2: where no keyword is given for a long vowel, its
+sound is that of the corresponding short vowel lengthened.]
+
+              _as in_  there       sr (_sea_)
+            i     "     fini (f.)   mikill (_great_)
+                       . . .       ltill (_little_)
+            o     "     beau (f.)   or (_word_)
+                       . . .       tk (_look_)
+                 "     not         hnd (_hand_)
+                 "     peu (f.)    kmr (_comes_)
+                       . . .       fra (_bring_)
+                 "     peur (f.)   gra (_make_)
+            u     "     sou (f.)    upp (_up_)
+                       . . .       hs (_house_)
+            y     "     tu (f.)     systir (_sister_)
+                       . . .       lsa (_shine_)
+            au    "     haus (g.)   lauss (_loose_)
+            ei    =      + i       bein (_bone_)
+            ey    =      + y       leysa (_loosen_)
+
+4. the unaccented _i_ in _systir_, etc. (which is generally
+written _e_ in the mss.) probably had the sound of _y_ in _pity_,
+which is really between _i_ and _e_.  the unacc. _u_ in _fru_
+(they went), etc. (which is generally written _o_ in the mss.)
+probably had the sound of _oo_ in _good_.
+
+note that several of the vowels go in pairs of _close_ and
+_open_, thus:
+
+                    close : e  o   
+                    open  :    -  -
+
+consonants
+
+5. double consonants followed by a vowel must be pronounced
+really double, as in italian.  thus the _kk_ in _drekka_ (to
+drink) must be pronounced like the _kc_ in _bookcase_, while the
+_k_ in _drki_ (dragon) is single, as in _booking_.  when final
+(or followed by another cons.) double conss. are pronounced long,
+as in _munn_ (mouth _acc._), _hamarr_ (hammer _nom._), _steinn_
+(stone _nom._), distinguished from _mun_ (will _vb._), and the
+accusatives _hamar_, _stein_.
+
+6. _k_ and _g_ had a more front (palatal) sound before the front
+vowels _e_, __, _i_, __, __, _y_, and their longs, as also
+before _j_, as in _knna_ (known), _keyra_ (drive), _gra_
+(make), _liggja_ (lie).
+
+7. _kkj_, _ggj_ were probably pronounced simply as double front
+_kk_, _gg_, the _j_ not being pronounced separately.
+
+8. *f* had initially the sound of our _f_, medially and finally
+that of _v_, as in _gefa_ (give), _gaf_ (gave), except of course
+in such combinations as _ft_, where it had the sound of _f_.
+
+9. *g* was a stopped (back or front--guttural or palatal) cons.
+initially and in the combination _ng_, the two _g_'s in _ganga_
+(go) being pronounced as in _go_.  it had the open sound of g.
+_g_ in _sagen_ medially before the back vowels _a_, _o_, __,
+_u_, and all conss. except _j_, and finally:--_saga_ (tale),
+_dgum_ (with days); _sagi_ (he said); _lag_ (he lay).  before
+the front vowels and _j_ it had the sound of g. _g_ in _liegen_,
+or nearly that of _j_ (our _y_), as in _sgir_ (says), _sgja_
+(to say).
+
+10. before voiceless conss. (_t_, _s_) _g_ seems to have been
+pronounced _k_, as in _sagt_ (said), _dags_ (day's).
+
+11. the _g_ was always sounded in the combination _ng_,
+as in _single_, not as in _singer_.
+
+12. *h* was sounded before _j_ in such words as _hjarta_ (heart)
+much as in e. _hue_ (= hj).  _hl_, _hn_, _hr_, _hv_ probably
+represented voiceless _l_, _n_, _r_, _w_ respectively, _hv_
+being identical with e. _wh_: _hlaupa_ (leap), _hnga_ (bend),
+_hringr_ (ring), _hvat_ (what).
+
+13. *j* is not distinguished from _i_ in the mss.  it had the
+sound of e. _y_ in _young_: _jr_ (earth), _stja_ (to set).
+
+14. *p* in _pt_ probably had the sound of _f_: _lopt_ (air).
+
+15. *r* was always a strong point trill, as in scotch.
+
+16. *s* was always sharp.
+
+17. *v* (which was sometimes written _u_ and _w_) had the sound
+of e. _w_: _vel_ (well), _hggva_ (hew).
+
+18. *z* had the sound of _ts_: _bztr_ (best).
+
+19. ** and ** were used promiscuously in the older ms., the
+very oldest using __ almost exclusively.  in modern icelandic
+__ is written initially to express the sound of e. hard _th_,
+__ medially and finally to express that of soft _th_; as there
+can be no doubt that this usage corresponds with the old
+pronunciation, it is retained in this book: _ing_ (parliament),
+_fair_ (father), _vi_ (against). in such combinations as _p_
+the __ must of course be pronounced __.
+
+stress
+
+20. the stress (accent) is always on the first syllable.
+
+
+phonology
+
+vowels
+
+21. the vowels are related to one another in different ways, the
+most important of which are _mutation_ (umlaut), _fracture_
+(brechung), and _gradation_ (ablaut).
+
+mutation
+
+22. the following changes are *i*-mutations (caused by an older
+_i_ or _j_ following, which has generally been dropped)[3]:
+
+[footnote 3: many of the _i_'s which appear in derivative and
+inflectional syllables are late weakenings of _a_ and other
+vowels, as in _bani_ (death) = old english _bana_; these do not
+cause mutation.]
+
+*a* (**) ... ** :-- _mann_ (man _acc._), _mnn_ (men); _hnd_
+(hand), _hndr_ (hands).
+
+** ... ** :-- _ml_ (speech), _mla_ (speak).
+
+*e* (*ja*, *j*) ... *i* :-- _verr_ (worth), _vira_ (estimate).
+
+*u* (*o*) ... *y* :-- _fullr_ (full), _fylla_ (to fill); _lopt_
+(air), _lypta_ (lift).
+
+** ... ** :-- _brn_ (eyebrow), pl. _brnn_.
+
+*o* ... ** :-- _koma_ (to come), _kmr_ (comes).
+
+** ... ** :-- _fr_ (went), _fra_ (bring).
+
+*au* ... *ey* :-- _lauss_ (loose), _leysa_ (loosen).
+
+*j* (*j*) ... ** :-- _sjkr_ (sick), _ski_ (sickness);
+_ljsta_ (strike), _lstr_ (strikes).
+
+23. the change of _a_ into __ is sometimes the result of a
+following _k_, _g_, or _ng_, as in _dgi_ dat. sg. of _dagr_
+(day), _tkinn_ (taken), _gnginn_ (gone), inf. _taka_, _ganga_.
+_i_ appears instead of _e_, and _u_ instead of _o_ before a nasal
+followed by another cons.: cp. _binda_ (to bind), _bundinn_
+(bound) with _bresta_ (burst) ptc. prt. _brostinn_.
+
+24. there is also a *u*-mutation, caused by a following _u_,
+which has often been dropped:
+
+*a* ... ** :-- _dagr_ (day) dat. pl. _dgum_; _land_ (land) pl.
+_lnd_.
+
+25. unaccented __ becomes _u_, as in _sumur_ pl. of _sumar_
+(summer), _klluu_ (they called), infin. _kalla_.
+
+fracture
+
+26. the only vowel that is affected by fracture is _e_: when
+followed by original _a_ it becomes _ja_, when followed by
+original _u_ it becomes _j_, as in _jarar_ gen. of _jr_
+(earth)[4].  when followed by original _i_, the _e_ is, of
+course, mutated to _i_, as in _skildir_ plur. nom. of _skjldr_
+(shield), gen. _skjaldar_.
+
+[footnote 4: cp. german _erde_.]
+
+gradation
+
+27. by gradation the vowels are related as follows:--
+
+*a* ... ** :-- _fara_ (go) pret. _fr_, whence by mut. _fra_
+(bring).
+
+*e* (i, ja) ... *a* ... *u* (o) :-- _bresta_ (burst), prt.
+_brast_, prt. pl. _brustu_, ptc. prt. _brostinn_; _finna_ (find),
+_fundinn_ (found _ptc._), _fundr_ (meeting).
+
+*e* ... *a* ... ** ... *o* :-- _stela_ (steal), prt. _stal_,
+prt. pl. _stlu_, ptc. prt. _stolinn_.
+
+*e* ... *a* ... ** ... *e* :-- _gefa_ (give), _gaf_ (he gave),
+_gfu_ (they gave), _gefinn_ (given), _gjf_ (gift), _u_-fracture
+of _gef-_, _gfa_ (luck) mut. of _gf-_.
+
+** ... *ei* ... *i* :-- _skna_ (shine), _skein_ (he shone),
+_skinu_ (they shone).  _sl-skin_ (sunshine).
+
+*j* (j) ... *au* ... *u* ... *o* :-- _ljga_ (tell a lie), prt.
+_laug_, prt. pl. _lugu_, ptc. prt. _loginn_.  _lygi_ (lie _sbst._)
+mut. of _lug-_.  _skjta_ (shoot), _skjtr_ (swift), _skotinn_
+(shot _ptc._), _skot_ (shot _subst._).
+
+other changes
+
+28. all final vowels are long in accented syllables: __ (then),
+_n_ (now).
+
+29. inflectional and derivative vowels are often dropt after long
+accented vowels: cp. _ganga_ (to go) with _f_ (to get), the dat.
+plurals _knjm_ (knees) with _hsum_ (houses).
+
+30. vowels are often lengthened before _l_ + cons.: _hlfr_ (half
+_adj._), _flk_ (people); cp. _flginn_ (hidden) with _brostinn_
+(burst _ptc._).
+
+consonants
+
+31. _v_ is dropped before _o_ and _u_: _vaxa_ (to grow), prt.
+_x_, _vinna_ (to win), _unninn_ (won _ptc._), _svelta_ (to
+starve), _soltinn_ (starved, hungry).
+
+final _r_ is often assimilated to a preceding cons.
+
+32. _*-lr_, _*-nr_, _*-sr_ always become _-ll_, _-nn_, _-ss_
+after a long vowel or diphthong, as in _stll_ (chair _nom._),
+acc. _stl_, _steinn_ (stone _nom._), acc. _stein_, _vss_ (wise
+_masc. nom. sg._), _vs_ fem. nom. sg., and in unacc. syllables,
+as in the masc. sg. nominatives _mikill_ (great), fem. _mikil_,
+_borinn_ (carried), fem.  _borin_, _miss_ (various) fem. _mis_.
+
+33. words in which _l_, _n_, _r_, _s_ are preceded by a cons.
+drop the _r_ entirely, as in the masc. nominatives _jarl_ (earl),
+_hrafn_ (raven), _vitr_ (wise), _urs_ (giant), _lax_ (salmon).
+
+34. if _l_ and _n_ are preceded by a short accented vowel, the
+_r_ is generally kept, as in _stelr_ (steals), _vinr_, (friend),
+_sr_ becoming _ss_, as elsewhere.
+
+35. _r_ is kept after _ll_, and generally after _nn_, as in the
+masc. nom. _allr_ (all), and in _brnnr_ (burns).
+
+36. _z_ often stands for _s_ as well as _ts_, as in _r
+ykkizk_ (ye seem) = _*ykki-sk_, _vest-firzkr_ (belonging to
+the west firths) = _-*firskr_ (_frr_, firth).
+
+37. inflectional _t_ is generally doubled after a long accented
+vowel: _fr_ (few) neut. _ftt_ (cp. _allr_ 'all,' neut. _allt_),
+_s_ (i saw), _stt_ 'thou sawest.'
+
+
+inflections
+
+nouns
+
+38. *gender*.  there are three genders in icelandic--masculine,
+feminine, and neuter.  the gender is partly natural, partly
+grammatical, generally agreeing with the gender in old english.
+compound words follow the gender of their last element.
+
+39. *strong and weak*.  all weak nouns end in a vowel in the nom.
+sg. and in most of the other cases as well.  most strong nouns
+end in a cons. in the nom. sg.
+
+40. *cases*.  there are four cases--nominative, accusative,
+dative, genitive.  all nouns (except a few contractions) have the
+gen. pl. in _-a_ (_fiska_, of fishes), and the dat. pl. in _-um_
+(_fiskum_).  all strong masculines (_fiskr_) and some strong
+feminines (_brr_, bride) take _r_[5] in the nom. sg.  most strong
+feminines show the bare root in the nom. sg. with _u_-mutation,
+if possible (_st_, favour, _fr_, journey).  the nom. pl. of all
+strong masc. and fem. nouns ends in _r_ (_fiskar_, _stir_).  the
+acc. pl. of fem. nouns is the same as the nom. pl. (_stir_).
+the acc. pl. of masc. strong nouns always ends in a vowel
+(_fiska_).  the plur. nom. and acc. of neuters is the same as the
+sing. nom. and acc., except that in the plur. nom. and acc. they
+take _u_-mutation, if possible (_hs_, houses, _lnd_, lands).
+
+[footnote 5: subject, of course, to the assimilations described
+above.]
+
+41. the declensions are most conveniently distinguished by the
+acc. plur.
+
+                     strong masculines
+
+                       (1) a-plurals
+
+              singular                 plural
+
+      _nom._  fisk-r (_fish_)          fisk-ar
+      _acc._  fisk                     fisk-a
+      _dat._  fisk-i                   fisk-um
+      _gen._  fisk-s                   fisk-a
+
+42. so also _heimr_ (home, world); _konungr_ (king); _rr_
+(thor), acc. _r_, gen. _rs_; _steinn_ (stone), acc. _stein_,
+gen. _steins_, pl. nom. _steinar_; _hrafn_ (raven), acc.
+_hrafn_, pl. nom. _hrafnar_; _urs_ (giant), acc. gen. _urs_,
+pl. nom. _ursar_.
+
+43. dissyllables in _-r_, _-l_, _-n_ generally throw out the
+preceding vowel before a vowel-inflection: _hamarr_ (hammer),
+dat. _hamri_; _jtunn_ (giant), pl. nom. _jtnar_.  _ktill_
+(kettle) and _lykill_ (key) show unmutated vowels in the
+contracted forms, as in the acc. plur. _katla_, _lukla_.
+
+44. some nouns of this decl. take _-ar_ in the gen. sing.,
+especially proper names, such as _hkon_, gen. _hkonar_.
+
+45. some nouns add _v_ before vowels: _sr_ (sea), gen.
+_svar_.
+
+46. the dat. sometimes drops the _i_: _s_ (sea), _r_.  _dagr_
+(day) mutates its vowel in the dat. _dgi_.
+
+47. nouns in _-ir_ keep the _i_ in the sing., and drop it in the
+plur.:
+
+              singular                 plural
+
+      _nom._  hlli-r (_cave_)         hll-ar
+      _acc._  hlli                    hll-a
+      _dat._  hlli                    hll-um
+      _gen._  hlli-s                  hll-a
+
+48. so also a number of proper names, such as _skrmir_, _rir_.
+
+                        (2) i-plurals
+
+              singular                 plural
+
+      _nom._  sta-r (_place_)         sta-ir
+      _acc._  sta                     sta-i
+      _dat._  sta                     st-um
+      _gen._  sta-ar                  sta-a
+
+49. so also _gripr_ (precious thing), _salr_ (hall).
+
+50. _gstr_ (guest) takes _-i_ in the dat. sg., and _-s_ in the
+gen. sg.
+
+51. those ending in _g_ or _k_ (together with some others) insert
+_j_ before _a_ and _u_: _bkkr_ (bench), _bkk_, _bkk_,
+_bkkjar_; _bkkir_, _bkki_, _bkkjum_, _bkkja_.  so also
+_mrgr_ (marrow), _strngr_ (string).
+
+                        (3) u-plurals
+
+              singular                 plural
+
+      _nom._  skjld-r (_shield_)      skild-ir
+      _acc._  skjld                   skjld-u
+      _dat._  skild-i                  skjld-um
+      _gen._  skjald-ar                skjald-a
+
+52. so also _vndr_ (twig), _vllr_ (plain), _vir_ (wood).
+_ss_ (god) has plur. nom. _sir_, acc. _su_.  _sonr_ (son) has
+dat. sg. _syni_, plur. nom. _synir_.  it regularly drops its _r_
+of the nom. in such compounds as _tryggva-son_ (son of tryggvi).
+
+                        (4) r-plurals
+
+              singular                 plural
+
+      _nom._  ft-r (_foot_)           ft-r
+      _acc._  ft                      ft-r
+      _dat._  ft-i                    ft-um
+      _gen._  ft-ar                   ft-a
+
+53. so also _fingr_ (finger), gen. _fingrar_, pl. _fingr_; _vetr_
+(winter), pl. _vetr_.  _mar_ (man) is irregular: _mar_, _mann_,
+_manni_, _manns_; _mnn_, _mnn_, _mnnum_, _manna_.
+
+              singular                 plural
+
+      _nom._  fair (_father_)         fr
+      _acc._  fur                    fr
+      _dat._  fur                    frum
+      _gen._  fur                    fra
+
+54. so also _brir_ (brother), pl. _brr_.
+
+55. pres. participles used as nouns follow this decl. in the pl.,
+following the weak class in the sg.:
+
+              singular                 plural
+
+      _nom._  bndi (_yeoman_)         bndr
+      _acc._  bnda                    bndr
+      _dat._  bnda                    bndum
+      _gen._  bnda                    bnda
+
+56. so also _frndi_ (kinsman), pl. _frndr_.
+
+                       strong neuters
+
+              singular                 plural
+
+      _nom._  skip (_ship_)            skip
+      _acc._  skip                     skip
+      _dat._  skip-i                   skip-um
+      _gen._  skip-s                   skip-a
+
+57. so also _or_ (word), _land_ (land) pl. _lnd_, _sumar_
+(summer) pl. _sumur_ ( 25).
+
+58. _mn_ (necklace), _kyn_ (race), _grey_ (dog) insert _j_
+before _a_ and _u_: _greyjum_.  _hgg_ (stroke) inserts _v_
+before a vowel: _hggvi_.  _kn_ (knee), _kn_, _kn_, _kns_;
+_kn_, _kn_, _kjm_, _knj_.  so also _tr_ (tree).
+
+59. _f_ (money) is contracted: gen. _fjr_, dat. _f_.
+
+              singular                 plural
+
+      _nom._  kvi (_poem_)           kvi
+      _acc._  kvi                    kvi
+      _dat._  kvi                    kvum
+      _gen._  kvi-s                  kva
+
+60. so also _kli_ (cloth).  those in _k_ insert _j_ before _a_
+and _u_: _mrki_ (mark), _mrkjum_, _mrkja_.  so also _rki_
+(sovereignty).
+
+                      strong feminines
+
+                       (1) ar-plurals
+
+              singular                 plural
+
+      _nom._  gjf (_gift_)            gjaf-ar
+      _acc._  gjf                     gjaf-ar
+      _dat._  gjf                     gjf-um
+      _gen._  gjaf-ar                  gjaf-a
+
+61. so also _mn_ (mane), _gjr_ (girdle), _r_ (oar).
+
+62. __ (river) contracts: __, __, __, _r_; _r_, _r_, _m_,
+__.
+
+63. many take _-u_ in the dat. sg.: _krling_ (old woman),
+_krling_, _krlingu_, _krlingar_; _krlingar_, _krlingar_,
+_krlingum_, _krlinga_.  so also _laug_ (bath).
+
+64. those with a mutated root-vowel (or _i_) insert _j_ in
+inflection: _ey_ (island), _ey_, _eyju_, _eyjar_; _eyjar_,
+_eyjar_, _eyjum_, _eyja_.  so also _frigg_, _hl_.  _mr_ (maid),
+_mey_, _meyju_, _meyjar_; _meyjar_, _meyjar_, _meyjum_, _meyja_.
+
+65.
+
+              singular                 plural
+
+      _nom._  hei-r (_heath_)         hei-ar
+      _acc._  hei-i                   hei-ar
+      _dat._  hei-i                   hei-um
+      _gen._  hei-ar                  hei-a
+
+                       (2) ir-plurals
+
+              singular                 plural
+
+      _nom._  t                      t-ir
+      _acc._  t                      t-ir
+      _dat._  t                      t-um
+      _gen._  t-ar                   t-a
+
+66. so also _sorg_ (sorrow), _skipun_ (arrangement), _hfn_
+(harbour) pl. _hafnir_, and the majority of strong feminines.
+
+67. many have _-u_ in the dat. sg.: _sl_ (sun), _sl_, _slu_,
+_slar_; _slir_, _slir_, _slum_, _sla_.  so also _jr_
+(earth), _stund_ (period of time).
+
+68. one noun has _r_ in the nom. sg., following _heir_ in the
+sg.: _brr_ (bride), _bri_, _bri_, _brar_; _brir_,
+_brir_, _brum_, _bra_.
+
+                       (3) r-plurals
+
+              singular                 plural
+
+      _nom._  bk (_book_)             bk-r
+      _acc._  bk                      bk-r
+      _dat._  bk                      bk-um
+      _gen._  bk-ar                   bk-a
+
+69. so also _ntt_ (night) pl. _ntr_, _bt_ (compensation) pl.
+_btr_, _tnn_ (tooth) gen. _tannar_ pl. _tnnr_.
+
+70. _hnd_ (hand) pl. _hndr_ has dat. sg. _hndi_.
+
+71. _kr_ (cow) has acc. _k_, pl. _kr_.
+
+72. _brn_ (eyebrow) assimilates the _r_ of the pl.: _brnn_.
+
+              singular                 plural
+
+      _nom._  mir (_mother_)         mr
+      _acc._  mur                    mr
+      _dat._  mur                    mrum
+      _gen._  mur                    mra
+
+73. so also _dttir_ (daughter) pl. _dtr_; _systir_ (sister) pl.
+_systr_.
+
+                      weak masculines
+
+              singular                 plural
+
+      _nom._  bog-i (_bow_)            bog-ar
+      _acc._  bog-a                    bog-a
+      _dat._  bog-a                    bog-um
+      _gen._  bog-a                    bog-a
+
+74. so also _mni_ (moon), _flagi_ (companion).
+
+75. _hfingi_ (chief) and some others insert _j_ in inflection:
+_hfingja_, _hfingjar_, _hfingjum_.
+
+76. _l_ (scythe) is contracted; its gen. sg. is _lj_.
+
+77. _oxi_ (ox) has pl. _xn_.
+
+78. _herra_ (lord) is indeclinable in the sg.
+
+                        weak neuters
+
+              singular                 plural
+
+      _nom._  hjart-a (_heart_)        hjrt-u
+      _acc._  hjart-a                  hjrt-u
+      _dat._  hjart-a                  hjrt-um
+      _gen._  hjart-a                  hjart-na
+
+79. so also _auga_ (eye).
+
+                       weak feminines
+
+              singular                 plural
+
+      _nom._  tung-a (_tongue_)        tung-ur
+      _acc._  tung-u                   tung-ur
+      _dat._  tung-u                   tung-um
+      _gen._  tung-u                   tung-na
+
+80. so also _stjarna_ (star) pl. _stjrnur_, _kirkja_ (church),
+gen. plurals _stjarna_, _kirkna_.
+
+                    _sg. nom._   lli (_old age_)
+                        _acc._   lli
+                        _dat._   lli
+                        _gen._   lli
+
+81. so also _gli_ (joy) and many abstract nouns.
+
+82. _lygi_ (falsehood) has pl. _lygar_; so also _grsimi_
+(precious thing).
+
+adjectives
+
+83. adjectives have three genders, and the same cases as nouns,
+though with partly different endings, together with strong and
+weak forms.
+
+                     strong adjectives
+
+                 masc.             neut.        fem.
+
+   _sg. nom._    ung-r (_young_)   ung-t        ung
+       _acc._    ung-an            ung-t        ung-a
+       _dat._    ung-um            ung-u        ung-ri
+       _gen._    ung-s             ung-s        ung-rar
+
+   _pl. nom._    ung-ir            ung          ung-ar
+       _acc._    ung-a             ung          ung-ar
+       _dat._    ung-um            ung-um       ung-um
+       _gen._    ung-ra            ung-ra       ung-ra
+
+84. so also _fagr_ (fair), fem. _fgr_, neut. _fagrt_.
+
+85. some insert _j_ before _a_ and _u_: _nr_ (new), _njum_,
+_njan_.
+
+86. some insert _v_ before a vowel: _hr_ (high), _hvan_,
+_dkkr_ (dark), _dkkvir_, _kykr_ (alive), _kykvir_.
+
+87. the _t_ of the neut. is doubled after a long vowel: _ntt_,
+_htt_.  monosyllables in __, _dd_, _tt_ form their neut. in
+_-tt_: _breir_ (broad), _breitt_; _leiddr_ (led), _leitt_.
+_gr_ (good) has neut. _gott_.  _sannr_ (true) has neut. _satt_.
+in unaccented syllables or if a cons. precedes, _tt_ is shortened
+to _t_: _kallar_ (called), _kallat_; _blindr_ (blind), _blint_,
+_harr_ (hard), _hart_, _fastr_ (firm), _fast_.
+
+88. _l_ and _n_ assimilate a following _r_: _gamall_ (old), fem.
+_gmul_, fem. acc. _gamla_, dat. _gamalli_. _vnn_ (beautiful),
+gen.  pl. _vnna_.
+
+                 masc.             neut.        fem.
+
+   _sg. nom._    mikill (_great_)  mikit        mikil
+       _acc._    mikinn            mikit        mikla
+       _dat._    miklum            miklu        mikilli
+       _gen._    mikils            mikils       mikillar
+
+   _pl. nom._    miklir            mikil        miklar
+       _acc._    mikla             mikil        miklar
+       _dat._    miklum            miklum       miklum
+       _gen._    mikilla           mikilla      mikilla
+
+89. so also _ltill_ (little).
+
+90. dissyllables in _-inn_ have _-it_ in the neut., and _-inn_ in
+the masc. sg. acc.: _tginn_ (distinguished), _tgit_, _tginn_,
+pl. _tgnr_.  so also _kominn_ (come).
+
+91.
+
+                 masc.             neut.        fem.
+
+   _sg. nom._    annarr (_other_)  annat        nnur
+       _acc._    annan             annat        ara
+       _dat._    rum             ru         annarri
+       _gen._    annars            annars       annarrar
+
+   _pl. nom._    arir             nnur        arar
+       _acc._    ara              nnur        arar
+       _dat._    rum             rum        rum
+       _gen._    annarra           annarra      annarra
+
+                       weak adjectives
+
+                 masc.             neut.        fem.
+
+   _sg. nom._    ung-i             ung-a        ung-a
+       _acc._    ung-a             ung-a        ung-u
+       _dat._    ung-a             ung-a        ung-u
+       _gen._    ung-a             ung-a        ung-u
+
+   _pl. nom._    ung-u             ung-u        ung-u
+       _acc._    ung-u             ung-u        ung-u
+       _dat._    ung-u             ung-u        ung-u
+       _gen._    ung-u             ung-u        ung-u
+
+92. so also _fagri_, _hvi_, _mikli_, etc.
+
+   _sg. nom._    yngri (_younger_) yngra        yngri
+       _acc._    yngra             yngra        yngri
+       _dat._    yngra             yngra        yngri
+       _gen._    yngra             yngra        yngri
+
+   _pl. nom._    yngri             yngri        yngri
+       _acc._    yngri             yngri        yngri
+       _dat._    yngrum            yngrum       yngrum
+       _gen._    yngri             yngri        yngri
+
+93. so also all comparatives, such as _meiri_ (greater), and
+pres. partic. when used as adjectives, such as _gefandi_
+(giving), dat. pl. _gefndum_.
+
+comparison
+
+94. (1) with _-ari_, _-astr_: _rkr_ (powerful), _rkari_,
+_rkastr_; _gfugr_ (distinguished), _gfgari_, _gfgastr_.
+
+95. (2) with _-ri_, _-str_ and mutation: _langr_ (long),
+_lngri_, _lngstr_; _strr_ (big), _strri_, _strstr_; _ungr_
+(young), _yngri_, _yngstr_.
+
+96. the following are irregular:
+
+        gamall (_old_)        llri           lztr
+        gr (_good_)         btri           bztr
+        illr (_bad_)          vrri           vrstr
+        ltill (_little_)     minni           minstr
+        margr (_many_)        fleiri          flestr
+        mikill (_great_)      meiri           mestr
+
+numerals
+
+97.
+
+           cardinal                  ordinal
+
+        1. einn (_one_)              fyrstr (_first_)
+        2. tveir                     annarr
+        3. rr                      rii
+        4. fjrir                    fjri
+        5. fimm                      fimmti
+        6. sex                       stti
+        7. sjau                      sjaundi
+        8. tta                      tti
+        9. nu                       nundi
+       10. tu                       tundi
+       11. ellifu                    ellifti
+       12. tlf                      tlfti
+       13. rettn                   rettndi
+       14. fjrtn
+       15. fimmtn
+       16. sextn
+       17. sjautn
+       18. tjn
+       19. ntjn
+       20. tuttugu
+       21. einn ok tuttugu, etc.
+       30. rr tigir, etc.
+      100. tu tigir
+      110. ellifu tigir
+      120. hundra
+     1200. sund
+
+_einn_ is declined like other adjectives:--
+
+98.
+
+                 masc.          neut.        fem.
+
+      _nom._     einn           eitt         ein
+      _acc._     einn           eitt         eina
+      _dat._     einum          einu         einni
+      _gen._     eins           eins         einnar
+
+it also has a pl. _einir_, _einar_, _ein_; gen. _einna_, etc. in
+the sense of 'some.'
+
+the next three show various irregularities.
+
+99.
+
+                 masc.          neut.        fem.
+
+      _nom._     tveir          tvau         tvr
+      _acc._     tv            tvau         tvr
+      _dat._     tveim          tveim        tveim
+      _gen._     tvggja        tvggja      tvggja
+
+similarly _bir_ (both):
+
+100.
+
+                 masc.          neut.        fem.
+
+      _nom._     bir          bi         bar
+      _acc._     ba           bi         bar
+      _dat._     bum          bum        bum
+      _gen._     bggja         bggja       bggja
+
+101.
+
+                 masc.          neut.        fem.
+
+      _nom._     rr           rj         rjr
+      _acc._     rj           rj         rjr
+      _dat._     rim           rim         rim
+      _gen._     riggja        riggja      riggja
+
+102.
+
+                 masc.          neut.        fem.
+
+      _nom._     fjrir         fjogur       fjrar
+      _acc._     fjra          fjogur       fjrar
+      _dat._     fjrum         fjrum       fjrum
+      _gen._     fjogurra       fjogurra     fjogurra
+
+103. the others are indeclinable up to _rr tigir_, etc.; the
+_tigir_ being declined regularly as a plural strong _u_-masculine
+_tigir_, _tigu_, _tigum_, _tiga_.
+
+104. _hundra_ is a strong neut.: _tvau hundru_ (240), _tveim
+hundruum_, etc.  it governs the gen. (as also does _sund_):
+_fimm hundru glfa_, 'five (six) hundred chambers.'
+
+105. _sund_ is a strong _ir_-feminine: _tvr sundir_ (2400).
+
+106. _hundra_ and _sund_ are rarely = 100 and 1000.
+
+107. of the ordinals _fyrstr_ and _annarr_ ( 91) are strong, the
+others weak adjectives.  _rii_ inserts a _j_: _rija_, etc.
+
+pronouns
+
+108.
+
+                           personal
+
+    _sg. nom._   ek (_i_)        (_thou_)     --
+        _acc._   mik            ik             sik (_oneself_)
+        _dat._   mr            r             sr
+        _gen._   mn            n             sn
+
+   _dual nom._   vit            it              --
+        _acc._   okkr           ykkr            sik
+        _dat._   okkr           ykkr            sr
+        _gen._   okkar          ykkar           sn
+
+    _pl. nom._   vr (_we_)     r (_ye_)      --
+        _acc._   oss            yr             sik (_oneselves_)
+        _dat._   oss            yr             sr
+        _gen._   vr            yar            sn
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   hann (_he_)    at (_it_)      hon (_she_)
+        _acc._   hann           at             hana
+        _dat._   honum          v             hnni
+        _gen._   hans           ess            hnnar
+
+    _pl. nom._   eir (_they_)  au             r
+        _acc._                au             r
+        _dat._   eim           eim            eim
+        _gen._   eira          eira           eira
+
+109. _ek_ was often suffixed to its verb, especially in poetry,
+being sometimes added twice over: _mtta-k_ (i might), _s-k-a-k_
+(i saw not; _a_='not').  so also __: _er-tu_ (art thou),
+_skalt-u_ (shalt thou) = _*skalt-tu_.
+
+                           possessive
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   minn (_my_)    mitt            mn
+        _acc._   minn           mitt            mna
+        _dat._   mnum          mnu            minni
+        _gen._   mns           mns            minnar
+
+    _pl. nom._   mnir          mn             mnar
+        _acc._   mna           mn             mnar
+        _dat._   mnum          mnum           mnum
+        _gen._   minna          minna           minna
+
+110. so also _inn_ (thy), _sinn_ (his, etc., reflexive).
+
+111. _vrr_, _vrt_, _vr_ (our) is regular: acc. masc. _vrn_,
+masc. plur. _vrir_, _vra_, _vrum_, _vrra_, etc.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   yarr (_your_) yart           yur
+        _acc._   yarn          yart           yra
+        _dat._   yrum          yru            yarri
+        _gen._   yars          yars           yarrar
+
+    _pl. nom._   yrir          yur            yrar
+        _acc._   yra           yur            yrar
+        _dat._   yrum          yrum           yrum
+        _gen._   yarra         yarra          yarra
+
+112. so also _okkarr_ (our two) and _ykkarr_ (your two).
+
+113. _hans_ (his), _ess_ (its), _hnnar_ (her), and _eira_
+(their) are indeclinable.
+
+                       demonstrative
+
+114.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   s (_that_)    at             s
+        _acc._   ann           at             
+        _dat._   eim           v             eiri
+        _gen._   ess           ess            eirar
+
+    _pl. nom._   eir           au             r
+        _acc._                au             r
+        _dat._   eim           eim            eim
+        _gen._   eira          eira           eira
+
+115. _hinn_, _hitt_, _hin_ (that) is inflected like _minn_
+(except that its vowel is short throughout): acc. masc. _hinn_,
+plur. masc.  _hinir_, _hina_, _hinum_, _hinna_.
+
+116.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   essi (_this_) etta           essi
+        _acc._   enna          etta           essa
+        _dat._   essum         essu           essi
+        _gen._   essa          essa           essar
+
+    _pl. nom._   essir         essi           essar
+        _acc._   essa          essi           essar
+        _dat._   essum         essum          essum
+        _gen._   essa          essa           essa
+
+                           definite
+
+the prefixed definite article is declined thus:
+
+117.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   inn            it              in
+        _acc._   inn            it              ina
+        _dat._   inum           inu             inni
+        _gen._   ins            ins             innar
+
+    _pl. nom._   inir           in              inar
+        _acc._   ina            in              inar
+        _dat._   inum           inum            inum
+        _gen._   inna           inna            inna
+
+118. when suffixed to its noun it undergoes various changes. in
+its monosyllabic forms it drops its vowel after a short
+(un-accented) vowel, as in _auga-t_ (the eye), but keeps it after
+a long vowel, as in _-in_ (the river), _tr-it_ (the tree).  the
+dissyllabic forms drop their initial vowel almost everywhere;
+not, however, after the _-ar_, _-r_, of the gen. sg., nor in
+_mnninir_ (men, _nom._), _mnn-ina_ (men, _acc._).  the _-m_ of
+the dat. pl. is dropped before the suffixed _-num_.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   fiskr-inn      skip-it         gjf-in
+        _acc._   fisk-inn       skip-it         gjf-ina
+        _dat._   fiski-num      skipi-nu        gjf-inni
+        _gen._   fisks-ins      skips-ins       gjafar-innar
+
+    _pl. nom._   fiskar-nir     skip-in         gjafar-nar
+        _acc._   fiska-na       skip-in         gjafar-nar
+        _dat._   fisku-num      skipu-num       gjfu-num
+        _gen._   fiska-nna      skipa-nna       gjafa-nna
+
+    _sg. nom._   bogi-nn        auga-t          tunga-n
+        _acc._   boga-nn        auga-t          tungu-na
+        _dat._   boga-num       auga-nu         tungu-nni
+        _gen._   boga-ns        auga-ns         tungu-nnar
+
+    _pl. nom._   bogar-nir      augu-n          tungur-nar
+        _acc._   boga-na        augu-n          tungur-nar
+        _dat._   bogu-num       augu-num        tungnu-num
+        _gen._   boga-nna       augna-nna       tungna-nna
+
+                           relative
+
+119. the ordinary relative pron. is the indeclinable _er_, often
+preceded by _s_: _s er_ = he who, who, _s er_ who fem.
+
+                         interrogative
+
+120. the neut. _hvat_ has gen. _hvess_, dat. _hv_, which last is
+chiefly used as an adverb = 'why.'
+
+121.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   hvrr (_which  hvrt           hvr
+                       of two_)
+        _acc._   hvrn          hvrt           hvra
+        _dat._   hvrum         hvru           hvrri
+        _gen._   hvrs          hvrs           hvrrar
+
+    _pl. nom._   hvrir         hvr            hvrar
+        _acc._   hvra          hvr            hvrar
+        _dat._   hvrum         hvrum          hvrum
+        _gen._   hvrra         hvrra          hvrra
+
+122.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   hvrr (_which, hvrt           hvr
+                          who_)
+        _acc._   hvrn          hvrt           hvrja
+        _dat._   hvrjum        hvrju          hvrri
+        _gen._   hvrs          hvrs           hvrrar
+
+    _pl. nom._   hvrir         hvr            hvrjar
+        _acc._   hvrja         hvr            hvrjar
+        _dat._   hvrjum        hvrjum         hvrjum
+        _gen._   hvrra         hvrra          hvrra
+
+                          indefinite
+
+123. _einn-hvrr_, _eitthvrt_, _einhvr_ (some one) keeps an
+invariable _ein-_ in the other cases, the second element being
+inflected as above.
+
+124. _sumr_ (some) is declined like an ordinary adjective.
+
+125.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   nakkvarr       nakkvat         nkkur
+                    (_some_)
+        _acc._   nakkvarn       nakkvat         nakkvara
+        _dat._   nkkurum       nkkuru         nakkvarri
+        _gen._   nakkvars       nakkvars        nakkvarrar
+
+    _pl. nom._   nakkvarir      nkkur          nakkvarar
+        _acc._   nakkvara       nkkur          nakkvarar
+        _dat._   nkkurum       nkkurum        nkkurum
+        _gen._   nakkvarra      nakkvarra       nakkvarra
+
+126.
+
+                 masc.          neut.           fem.
+
+    _sg. nom._   engi (_none,   ekki            engi
+                        no_)
+        _acc._   engan          ekki            enga
+        _dat._   engum          engu            engri
+        _gen._   engis          engis           engrar
+
+    _pl. nom._   engir          engi            engar
+        _acc._   enga           engi            engar
+        _dat._   engum          engum           engum
+        _gen._   engra          engra           engra
+
+127. in _hvr-tvggja_ (each of the two, both) the first element
+is declined as above, the second is left unchanged.
+
+verbs
+
+128. there are two classes of verbs, _strong_ and _weak_.  strong
+verbs are conjugated partly by means of gradation, weak verbs by
+adding __ (_d_, _t_).
+
+129. the __ of the 2 pl. is dropt before _it_ (ye two) and
+_r_ (ye): _gefi r_, _gfu it_.
+
+130. there is a middle voice, which ends in _-mk_ in the 1 pers.
+sg. and pl., the rest of the verb being formed by adding _sk_ to
+the active endings, _r_ being dropt, the resulting _ts_, _s_
+being written _z_ ( 36): _kvezk_ (active _kver_ 'says'), _u
+fekkzk_ (_fekkt_ 'gottest').
+
+131. the following is the conjugation of the strong verb _gefa_
+(give), which will show those endings which are common to all
+verbs:
+
+                            active
+
+                indicative          subjunctive
+
+  _present sg._ 1. gef              gef-a
+                2. gef-r            gef-ir
+                3. gef-r            gef-i
+
+          _pl._ 1. gef-um           gef-im
+                2. gef-i           gef-i
+                3. gef-a            gef-i
+
+_preterite sg._ 1. gaf              gf-a
+                2. gaf-t            gf-ir
+                3. gaf              gf-i
+
+          _pl._ 1. gf-um           gf-im
+                2. gf-u           gf-i
+                3. gf-u            gf-i
+
+_imperative sg._ 2 gef; _pl._ 1 gef-um, 2 gef-i.
+_participle pres._ gef-andi; _pret._ gef-inn.
+_infin._ gefa.
+
+                            middle
+
+                indicative          subjunctive
+
+    _pres. sg._ 1. gef-umk          gef-umk
+                2. gef-sk           gef-isk
+                3. gef-sk           gef-isk
+
+          _pl._ 1. gef-umk          gef-imk
+                2. gef-izk          gef-izk
+                3. gef-ask          gef-isk
+
+    _pret. sg._ 1. gf-umk          gf-umk
+                2. gaf-zk           gf-isk
+                3. gaf-sk           gf-isk
+
+          _pl._ 1. gf-umk          gf-imk
+                2. gf-uzk          gf-izk
+                3. gf-usk          gf-isk
+
+_impers. sg._ 2 gef-sk; _pl._ 1 gef-umk, 2 gef-izk.
+_partic. pres._ gef-andisk; _pret._ gef-izk _neut._
+_infin._ gef-ask.
+
+                        strong verbs
+
+132. in the strong verbs the plur. of the pret. indic. generally
+has a different vowel from that of the sing.  the 1 sg. pret. of
+the middle voice always has the vowel of the pl. pret.: _gfumk_.
+the pret. subj. has the vowel of the pret. indic. plur. mutated:
+_skaut_ (he shot), _skutu_ (they shot), _skyti_ (he might shoot).
+but there is no mutation in verbs of the first conj.: _hljpi_,
+inf. _hlaupa_ (leap).
+
+133. the pres. indic. sing. mutates the root-vowel in all three
+persons: _ek skt_, _ sktr_, _hann sktr_, infin. _skjta_
+(shoot).  _e_ however is not mutated: _ek gef_, _ gefr_.  the
+inflectional _r_ is liable to the same modifications as the _r_
+of nouns ( 32): _sknn_, _vx_, infin. _skna_ (shine), _vaxa_
+(grow).
+
+134. verbs in _ld_ change the _d_ into _t_ in the 1, 3 sg. pret.
+indic. and in the imper. sg.: _helt_ (held), _halt_ (hold!),
+infin. _halda_.  _nd_ becomes _tt_, and _ng_ becomes _kk_ under
+the same conditions: _binda_ (bind), _ganga_ (go), pret. _batt_,
+_gekk_, imper. _bitt_, _gakk_.
+
+135. the _t_ of the 2 sg. pret. indic. is doubled after a long
+accented vowel: _ stt_ (thou sawest).  if the 1 sg. pret.
+indic. ends in _t_ or __, the 2 sg. ends in _zt_: _lt_ (i let),
+_ lzt_, _bau_ (i offered) _ bauzt_.
+
+136. there are seven conjugations of strong verbs, distinguished
+mainly by the characteristic vowels of their preterites.
+
+137.
+
+                    i. 'fall'-conjugation
+
+infin.              third pres.  prt. sing.  prt. pl.  ptc. prt.
+
+falla (_fall_)      fllr        fell        fellu     fallinn
+lta (_let_)        ltr         lt         ltu      ltinn
+ra (_advise_)     rr         r         ru      rinn
+heita (_call_)      heitr        ht         htu      heitinn
+halda (_hold_)      hldr        helt        heldu     haldinn
+ganga (_go_)        gngr        gekk        gengu     gnginn
+f (_get_)          fr          fekk        fengu     fnginn
+                       -----------------
+auka (_increase_)   eykr         jk         jku      aukinn
+ba (_dwell_)       br          bj         bjoggu    binn
+hggva (_hew_)      hggr        hj         hjoggu    hggvinn
+hlaupa (_leap_)     hleypr       hljp       hljpu    hlaupinn
+
+138. the following have weak preterites in _r_:
+
+gra (_grow_)       grr         grri       grru     grinn
+ra (_row_)         rr          rri        rru      rinn
+sna (_twist_)      snr         snri       snru     sninn
+
+139. _heita_ in the passive sense of 'to be named, called' has a
+weak present: _ek heiti_, _ heitir_.
+
+140.
+
+                    ii. 'shake'-conjugation
+
+infin.              third pres.  prt. sing.  prt. pl.  ptc. prt.
+
+fara (_go_)         frr         fr         fru      farinn
+grafa (_dig_)       grfr        grf        grfu     grafinn
+hlaa (_load_)      hlr        hl        hlu     hlainn
+vaxa (_grow_)       vx          x          xu       vaxinn
+standa (_stand_)    stndr       st        stu     stainn
+aka (_drive_)       kr          k          ku       kinn
+taka (_take_)       tkr         tk         tku      tkinn
+draga (_draw_)      drgr        dr         drgu     drginn
+fl (_flay_)        flr         fl         flgu     flginn
+sl (_strike_)      slr         sl         slgu     slginn
+
+141. the following have weak presents:
+
+hfja (_lift_)      hfr         hf         hfu      hafinn
+deyja (_die_)       deyr         d          d        dinn
+hlja (_laugh_)     hlr         hl         hlgu     hlginn
+
+142.
+
+                    iii. 'bind'-conjugation
+
+infin.              third pres.  prt. sing.  prt. pl.  ptc. prt.
+
+bresta (_burst_)    brestr       brast       brustu    brostinn
+hverfa (_turn_)     hverfr       hvarf       hurfu     horfinn
+svelga (_swallow_)  svelgr       svalg       sulgu     slginn
+vera (_become_)    verr        var        uru      orinn
+skjlfa (_shake_)   skelfr       skalf       skulfu    skolfinn
+drekka (_drink_)    drekkr       drakk       drukku    drukkinn
+finna (_find_)      finnr        fann        fundu     fundinn
+vinna (_win_)       vinnr        vann        unnu      unninn
+binda (_bind_)      bindr        batt        bundu     bundinn
+springa (_spring_)  springr      sprakk      sprungu   sprunginn
+stinga (_pierce_)   stingr       stakk       stungu    stunginn
+brega (_pull_)     bregr       br         brugu    bruginn
+skkva (_sink_)     skkr        skk        sukku     sokkinn
+stkkva (_spring_)  stkkr       stkk       stukku    stokkinn
+
+143. the following have weak presents (which makes however no
+difference in their conjugation):
+
+brnna (_burn_)     brnnr       brann       brunnu    brunninn
+rnna (_run_)       rnnr        rann        runnu     runninn
+
+144.
+
+                    iv. 'bear'-conjugation
+
+infin.              third pres.  prt. sing.  prt. pl.  ptc. prt.
+
+bera (_carry_)      berr         bar         bru      borinn
+nema (_take_)       nemr         nam         nmu      numinn
+fela (_hide_)       felr         fal         flu      flginn
+koma (_come_)       kmr         kom         kvmu     kominn
+sofa (_sleep_)      sfr         svaf        svfu     sofinn
+
+145.
+
+                    v. 'give'-conjugation
+
+infin.              third pres.  prt. sing.  prt. pl.  ptc. prt.
+
+drepa (_kill_)      drepr        drap        drpu     drepinn
+gefa (_give_)       gefr         gaf         gfu      gefinn
+kvea (_say_)       kver        kva        kvu     kveinn
+meta (_estimate_)   metr         mat         mtu      metinn
+reka (_drive_)      rekr         rak         rku      rekinn
+eta (_eat_)         etr          t          tu       etinn
+sj (_see_)         sr[6]       s          s[7]     snn
+
+[footnote 6: s, sr, sr; sjm, s, sj.  subj. s, sr, s;
+sm, s, s.]
+
+[footnote 7: sm, si, s.]
+
+146. the following have weak presents:--
+
+bija (_ash_)       bir         ba         bu      beinn
+sitja (_sit_)       sitr         sat         stu      setinn
+liggja (_lie_)      liggr        l          lgum     leginn
+iggja (_receive_)  iggr                  gu      eginn
+
+147.
+
+                    vi. 'shine'-conjugation
+
+infin.              third pres.  prt. sing.  prt. pl.  ptc. prt.
+
+bta (_bite_)       btr         beit        bitu      bitinn
+drfa (_drive_)     drfr        dreif       drifu     drifinn
+grpa (_grasp_)     grpr        greip       gripu     gripinn
+la (_go_)         lr         lei        liu      liinn
+lta (_look_)       ltr         leit        litu      litinn
+ra (_ride_)       rr         rei        riu      riinn
+sga (_sink_)       sgr         seig        sigu      siginn
+slta (_tear_)      sltr        sleit       slitu     slitinn
+stga (_advance_)   stgr        steig       stigu     stiginn
+ba (_wait_)       br         bei        biu      beinn
+
+148. the following has a weak present:
+
+vkja (_move_)      vkr         veik        viku      vikinn
+
+149.
+
+                    vii. 'choose'-conjugation
+
+infin.              third pres.  prt. sing.  prt. pl.  ptc. prt.
+
+bja (_offer_)     br         bau        buu      boinn
+brjta (_break_)    brtr        braut       brutu     brotinn
+fljta (_float_)    fltr        flaut       flutu     flotinn
+hljta (_receive_)  hltr        hlaut       hlutu     hlotinn
+kjsa (_choose_)    kss         kaus        kusum     kosinn
+njta (_enjoy_)     ntr         naut        nutu      notinn
+skjta (_shoot_)    sktr        skaut       skutu     skotinn
+drjpa (_drop_)     drpr        draup       drupu     dropinn
+ljga (_tell lies_) lgr         laug        lugu      loginn
+lka (_close_)      lkr         lauk        luku      lokinn
+lta (_bend_)       ltr         laut        lutu      lotinn
+fljga (_fly_)      flgr        fl         flugu     floginn
+
+                          weak verbs
+
+150. there are three conjugations of weak verbs.  all those of
+the first conjugation have mutated vowels in the pres., and form
+their pret. with __ (_d_, _t_): _heyra_ (hear), _heyra_.  those
+of the second form their pret. in the same way, but have
+unmutated vowels in the pres.: _hafa_ (have) _hafa_.  those of
+the third form their pret. in _-aa_: _kalla_ (call), _kallaa_.
+
+                    i. 'hear'-conjugation
+
+                            active
+
+151.
+
+                indicative          subjunctive
+
+    _pres. sg._ 1. heyr-i           heyr-a
+                2. heyr-ir          heyr-ir
+                3. heyr-ir          heyr-i
+
+          _pl._ 1. heyr-um          heyr-im
+                2. heyr-i          heyr-i
+                3. heyr-a           heyr-i
+
+    _pret. sg._ 1. heyr-a          heyr-a
+                2. heyr-ir         heyr-ir
+                3. heyr-i          heyr-i
+
+          _pl._ 1. heyr-um         heyr-im
+                2. heyr-u         heyr-i
+                3. heyr-u          heyr-i
+
+_imper. sg._ 1. heyr; _pl._ 1. heyr-um, 2. heyr-i.
+_partic. pres._ heyr-andi; _pret._ heyr-r.
+_infin._ heyr-a.
+
+                            middle
+
+                indicative          subjunctive
+
+    _pres. sg._ 1. heyr-umk         heyr-umk
+                2. heyr-isk         heyr-isk
+                3. heyr-isk         heyr-isk
+
+          _pl._ 1. heyr-umk         heyr-imk
+                2. heyr-izk         heyr-izk
+                3. heyr-ask         heyr-isk
+
+    _pret. sg._ 1. heyr-umk        heyr-umk
+                2. heyr-isk        heyr-isk
+                3. heyr-isk        heyr-isk
+
+          _pl._ 1. heyr-umk        heyr-imk
+                2. heyr-uzk        heyr-izk
+                3. heyr-usk        heyr-isk
+
+_imper. sg._ 2. heyr-sk; _pl._ 1. heyr-umk, 2. heyr-izk.
+_partic. pres._ heyr-andisk; _pret._ heyr-zk _neut._
+_infin._ heyr-ask.
+
+                    a. without vowel-change
+
+152. the inflectional __ becomes _d_ after long syllables ending
+in _l_ or _n_: _sigla_ (sail), _siglda_; _nfna_ (name),
+_nfnda_, _nfndr_.
+
+153. _-_ becomes _dd_: _leia_ (lead), _leidda_.
+
+154. __ after _s_ and _t_ becomes _t_: _reisa_ (raise),
+_reista_; _mta_ (meet), _mtta_.  also in a few verbs in _l_,
+_n_: _mla_ (speak), _mlta_; _spnna_ (buckle), _spnta_.
+
+155. after _nd_ and _pt_ it is dropped: _snda_ (send), _snda_,
+_sndr_; _lypta_ (lift), _lypta_.
+
+156. it is preserved in such verbs as the following: _dma_
+(judge), _dma_; _fra_ (lead), _fra_; _hra_ (harden),
+_hra_; _hleypa_ (gallop), _hleypa_.
+
+                      b. with vowel-change
+
+157. all these verbs have _j_ preceded by a short syllable
+(tlja), or a long vowel without any cons. after it (dja), or
+_gg_ (lggja); the _j_ being kept before _a_ and _u_, as in the
+pres. ind. of _spyrja_ (ask): _spyr_, _spyrr_, _spyrr_;
+_spyrjum_, _spyri_, _spyrja_, pres. subj. 1 sg. _ek spyrja_;
+they unmutate their vowel in the pret. and ptc. pret. (spura,
+spurr), the mutation being restored in the pret. subj. _spyra_,
+_spyrir_, etc.  the ptc. pret. often has an _i_ before the __.
+
+          brja (_strike_)       bara          barr
+          lggja (_lay_)         laga          lag(i)r
+          tlja (_tell_)         tala          tal(i)r
+          vkja (_wake_)         vaka          vakr
+          flytja (_remove_)      flutta         fluttr
+          dja (_shake_)         da           dr
+
+158. the following keep the mutated vowel throughout:
+
+          slja (_sell_)         slda          sldr
+          stja (_set_)          stta          sttr
+
+                              c.
+
+159. the following are irregular:
+
+          skja (_seek_)         stta          sttr
+          ykkja (_seem_)        tta          ttr
+
+subj. pret. _stta_, _tta_.
+
+160. the following has an adj. for its partic. pret.:
+
+          gra (_make_)          gra          grr.
+
+                   ii. 'have'-conjugation
+
+161. the few verbs of this class are conjugated like those of
+conj. i, except that some of them have imperatives in _-i_:
+_vaki_, _fi_; _uni_.  _lifa_, _sgja_ have imper. _lif_, _sg_.
+they mutate the vowel of the pret. subj. (yna).  their partic.
+pret. generally occurs only in the neut.; sometimes the _a_ is
+dropped.
+
+      lifa (_live_)         lifi       lifa      lifat
+      una (_be contented_)  uni        una       unat
+      skorta (_be wanting_) skorti     skorta     skort
+      ola (_endure_)       oli       ola      olat
+      ora (_dare_)         ori       ora      orat
+      n (_attain_)         ni        na       nr, nit
+
+162. the following show mutation:
+
+      sgja (_say_)         sgi       saga      sagr
+      gja (_be silent_)   gi       aga      agat
+      hafa (_have_)         hfi       hafa      hafr
+      kaupa (_buy_)         kaupi      keypta     keyptr
+
+163. the present indic. of the first three is as follows:
+
+        _sing._ 1. hfi          sgi         gi
+             2, 3. hfir         sgir        gir
+
+        _plur._ 1. hfum         sgjum       gjum
+                2. hafi         sgi        gi
+                3. hafa          sgja        gja
+
+164. the rest of _hafa_ is regular.  pres. subj. _hafa_, _hafir_,
+_hafi_; _hafim_, _hafi_, _hafi_.  pret. indic. _hafa_,
+_hafir_, _hafi_; _hfdum_, _hfu_, _hfu_.  pret. subj.
+_hfa_, _hfir_, _hfi_; _hfim_, _hfi_, _hfi_.  imper.
+_haf_, _hfum_, _hafi_.  ptc. _hafandi_, _hafr_.
+
+                   iii. 'call'-conjugation
+
+                            active
+
+                indicative          subjunctive
+
+    _pres. sg._ 1. kall-a           kall-a
+                2. kall-ar          kall-ir
+                3. kall-ar          kall-i
+
+          _pl._ 1. kll-um          kall-im
+                2. kall-i          kall-i
+                3. kall-a           kall-i
+
+    _pres. sg._ 1. kall-aa         kall-aa
+                2. kall-air        kall-air
+                3. kall-ai         kall-ai
+
+          _pl._ 1. kll-uum        kall-aim
+                2. kll-uu        kall-ai
+                3. kll-uu         kall-ai
+
+_imper. sing._ 2. kall-a; _plur._ 1. kll-um, 2. kall-i.
+_partic. pres._ kall-andi; _pret._ kallar (_neut._ kallat).
+_infin._ kalla.
+
+                            middle
+
+                indicative          subjunctive
+
+    _pres. sg._ 1. kll-umk         kll-umk
+                2. kall-ask         kall-isk
+                3. kall-ask         kall-isk
+
+          _pl._ 1. kll-umk         kall-imk
+                2. kall-izk         kall-izk
+                3. kall-ask         kall-isk
+
+    _pret. sg._ 1. kll-uumk       kll-uumk
+                2. kall-aisk       kall-aisk
+                3. kall-aisk       kall-aisk
+
+          _pl._ 1. kll-uumk       kall-aimk
+                2. kll-uuzk       kall-aizk
+                3. kll-uusk       kall-aisk
+
+_imper. sing._ 2. kall-ask; _pl._ 1. kll-umk, 2. kall-izk.
+_partic. pres._ kall-andisk; _pret._ kall-azk _neut._
+_infin._ kall-ask.
+
+165. so also _byrja_ (begin), _hrja_ (make war), _vakna_
+(awake).
+
+                       strong-weak verbs
+
+166. these have old strong preterites for their presents,
+from which new weak preterites are formed.
+
+infin.            pres. sg.  pres. pl.   prt.       ptc.
+
+eiga (_possess_)            eigu        tta       ttr
+kunna (_can_)     kann       kunnu       kunna      kunnat _n._
+mega (_can_)      m         megu        mtta      mtt _n._
+muna (_remember_) man        munu        muna      munat _n._
+munu (_will_)     mun        munu        muna      ----
+skulu (_shall_)   skal       skulu       skylda     skyldr
+urfa (_need_)    arf       urfu       urfta     urft _n._
+unna (_love_)     ann        unnu        unna       unnt _n._
+vita (_know_)     veit       vitu        vissa      vitar
+
+167. of these verbs _munu_ and _skulu_ have preterite
+infinitives: _mundu_, _skyldu_.
+
+                       anomalous verbs
+
+168. _vilja_ (will):
+
+                           present
+
+                   sing.             plur.
+
+                1. vil               viljum
+                2. vill              vili
+                3. vill              vilja
+
+_subj. pres._ vili.  _pret. ind._ vilda.  _ptc. prt._ viljat.
+
+169. _vera_ (be):
+
+                indicative          subjunctive
+
+    _pres. sg._ 1. em               s
+                2. ert              sr
+                3. er               s
+
+          _pl._ 1. erum             sm
+                2. eru             s
+                3. eru              s
+
+    _pret. sg._ 1. var              vra
+                2. vart             vrir
+                3. var              vri
+
+          _pl._ 1. vrum            vrim
+                2. vru            vri
+                3. vru             vri
+
+_imper. sg._ ver; _pl._ veri.  _ptc. prt._ verit _n._
+
+
+composition
+
+170. composition with the genitive is very frequent in icelandic.
+thus by the side of _skip-stjrn_ (ship-steering) we find
+_skips-brot_ (ship's breaking, shipwreck), _skipa-hrr_ (army of
+ships, fleet).  genitival composition often expresses possession,
+as in _konungs-skip_ (king's ship).
+
+
+derivation
+
+prefixes
+
+171. prefixes are much less used in icelandic than in old
+english.
+
+*al-* 'quite,' 'very': _al-binn_ 'quite ready,' _al-snotr_ 'very
+clever.'
+
+*all-* 'all,' 'very': _all-valdr_ 'all-ruler, monarch,'
+_all-harr_ 'very hard,' _all-strum_ 'very greatly.'
+
+*and-* 'against': _and-lit_ 'countenance' (_lita_, look),
+_and-svar_ 'answer.'
+
+*fjl-* 'many': _fjl-mnni_ 'multitude' (_mar_, man).
+
+*mis-* 'mis-': _mis-lka_ 'displease.'
+
+*-* 'un-': _-frir_ 'war' (_frir_, peace), _-happ_
+'misfortune' (_happ_ luck).
+
+endings
+
+                          (a) nouns
+
+                           personal
+
+172. *-ingr*, *-ingi*, *-ing*: _vkingr_ 'pirate,' _hfingi_
+'chief,' _krling_ 'old woman.'
+
+                           abstract
+
+173. *-*, fem. with mutation: _fgr_ 'beauty' (_fagr_, fair),
+_fr_ 'journey' (_fara_, go), _lng_ 'length' (_langr_, long).
+
+*-ing*, fem.: _svipting_ 'pulling,' _vking_ 'piracy,' _viring_
+'honour.'
+
+*-leikr*, masc.: _kr-leikr_ 'affection' (_hrr_, dear),
+_skjt-leikr_ 'speed' (_skjtr_, swift).
+
+*-an*, *-un*, fem.: _skipan_ 'arrangement,' _skmtun_
+'amusement.'
+
+                        (b) adjectives
+
+174. *-ugr*: _rugr_ 'sagacious,' _rugr_ 'strong.'
+
+*-ttr*: _kollttr_ 'bald,' _ndttr_ 'fierce.'
+
+*-lauss* '-less': _f-lauss_ 'moneyless,' _tta-lauss_ 'without
+fear.'
+
+*-ligr* '-ly': _undr-ligr_ 'wonderful,' _sann-ligr_ 'probable'
+(_sannr_, true).
+
+*-samr*: _lkn-samr_ 'gracious,' _skyn-samr_ 'intelligent.'
+
+*-verr* '-ward': _ofan-verr_ 'upper.'
+
+                          (c) verbs
+
+175. *-na*: _brotna_ 'be broken' (_brotinn_, broken), _hvtna_
+'become white,' _vakna_ 'awake.'  used to form intransitive and
+inchoative verbs of the third conj.
+
+                         (d) adverbs
+
+176. *-liga* '-ly': _undar-liga_ 'wonderfully,' _strk-liga_
+'strongly' (_strkr_, strong).
+
+*-um*, dat. pl.: _strum_ 'greatly' (_strr_, great).
+
+
+syntax
+
+177. icelandic syntax greatly resembles old english, but has
+several peculiarities of its own.
+
+concord
+
+178. concord is carried out very strictly in icelandic: _allir
+mnn vru bnir_ 'all the men were ready,' _allir vru drepnir_
+'all were killed.'
+
+179. a plural adj. or pronoun referring to two nouns of different
+(natural or grammatical) gender is always put in the neuter: _
+gekk hann upp, ok me honum loki_ (masc.), _ok jlfi_ (masc.),
+_ok rskva_ (fem.).  _ er au_ (neut.) _hfu ltla hri
+gngit..._ 'he landed, and with him l., and ., and r.  when they
+had walked for some time...'
+
+cases
+
+180. the extensive use of the instrumental dative is very
+characteristic of icelandic: whenever the direct object of a verb
+can be considered as the instrument of the action expressed by
+the verb, it is put in the dative, as in _kasta spjti_ 'throw a
+spear' (lit. 'throw _with_ a spear'), _hann helt hamarskaptinu_
+'he grasped the handle of the hammer,' _heita v_ 'promise
+that,' _jta v_ 'agree to that.'
+
+adjectives
+
+181. the weak form of adjectives is used as in o.e. after the
+definite article, _essi_ and other demonstratives.  _annarr_
+(other) is always strong.
+
+182., an adj. is often set in apposition to a following noun to
+denote part of it: _eiga hlft drit_ 'to have half of the
+animal,' _nnur au_ 'the rest of them,' _of mija ntt_ 'in the
+middle of the night.'
+
+pronouns
+
+183. _s_ is often put pleonastically before the definite article
+_inn_, both before and after the subst.: _s inn ungi mar_ 'that
+young man,' _hafit at it djpa_ 'the deep sea.'
+
+184. the definite article is generally not expressed at all, or
+else _einn_, _einnhvrr_ is used.
+
+185. a noun (often a proper name) is often put in apposition to a
+dual pron. of the first and second persons, or a plur. of the
+third person: _it flagar_, 'thou and thy companions,' _me eim
+ka_ 'with him and ki.'  similarly _stndr rr upp ok eir
+flagar_ 'thor and his companions get up.'
+
+186. the plurals _vr_, _r_ are sometimes used instead of the
+singulars _ek_, __, especially when a king is speaking or being
+spoken to.
+
+187. _sik_ and _sr_ are used in a strictly reflexive sense,
+referring back to the subject of the sentence, like _se_ in
+latin: _orr bau honum til matar me sr_ 'thor asked him to
+supper with him.'
+
+verbs
+
+188. the tenses for which there is no inflection in the active,
+and all those of the passive, are formed by the auxiliaries
+_skal_ (shall), _hafa_ (have), _vera_ (be) with the infin. and
+ptc. pret., much as in modern english.
+
+189. the historical present is much used, often alternating
+abruptly with the preterite.
+
+190. the middle voice is used: (1) in a purely reflexive sense:
+_spara_ 'spare,' _sparask_ 'spare oneself, reserve one's
+strength.'  (2) intransitively: _ba_ 'prepare,' _bask_ 'become
+ready, be ready'; _stja_ 'set,' _stjask_ 'sit down'; _sna_
+'show,' _snask_ 'appear, seem.'  (3) reciprocally: _brja_
+'strike,' _brjask_ 'fight'; _hitta_, 'find,' _hittask_ 'meet.'
+in other cases it specializes the meaning of the verb, often
+emphasizing the idea of energy or effort: _koma_ 'come,' _komask_
+'make one's way.'
+
+191. the impersonal form of expression is widely used in
+icelandic: _rak  storm_ (acc.) _fyrir eim_ 'a storm was driven
+in their face.'
+
+192. the indef. 'one' is expressed in the same way by the third
+pers. sg., and this form of expression is often used when the
+subject is perfectly definite: _ok freista skal essar rttar_
+'and this feat shall be tried (by you).'
+
+193. the abrupt change from the indirect to the direct narration
+is very common: _haraldi konungi var sagt at ar var komit
+bjarndri, 'ok  slnzkr mar,'_ 'king harold was told that a
+bear had arrived, and that an icelander owned it.'  the direct
+narration is also used after _at_ (that): _hann svarar at 'ek
+skal ra til hljar'_ 'he answers that he will ride to hel.'
+
+
+
+texts
+
+[note: the asterisks are to help find the spots mentioned in the
+notes.  (i took out the line numbers to keep the line width as
+close to 65 characters as possible.)  --b.c.]
+
+i. thor
+
+rr er sanna framastr, s er kallar er sa-rr ea
+ku-rr; hann er strkastr allra guanna ok manna.
+hann  ar rki er r-vangar heita, en hll hans heitir [*]
+bilskrnir;  eim sal eru fimm hundru glfa ok fjrir tigir;
+at er hs mest, sv at mnn hafa grt. [*]
+
+rr  hafra tv, er sv heita, tann-gnjstr ok tann-
+grisnir, ok rei  er hann kr, en hafrarnir draga reiina;
+v er hann kallar kurr.  hann  ok rj kost-gripi.
+einn eira er hamarrinn mjllnir, er hrm-ursar ok berg-
+risar knna,  er hann kmr  lopt, ok er at eigi undarligt:
+hann hfir lamit margan haus  frum ea frndum eira.
+annan grip  hann bztan, mgin-gjarar; ok er hann
+spnnir eim um sik,  vx honum s-mgin hlfu.  en [*]
+rija hlut  hann ann er mikill gripr er , at eru jrn-
+glfar; eira m hann eigi missa vi hamarskaptit.  en
+engi er sv frr at tlja kunni ll str-virki hans.
+
+
+ii. thor and garaloki
+
+at er upp-haf essa mls at kurr fr me hafra sna [*]
+ok rei, ok me honum s ss er loki er kallar; koma
+eir at kveldi til eins bnda ok f ar ntt-sta.  en um
+kveldit tk rr hafra sna, ok skar ba; ptir at vru
+eir flgnir ok bornir til ktils; en er soit var,  sttisk [*]
+rr til ntt-verar ok eir lags-mnn.  rr bau til matar
+me sr bndanum, ok konu hans, ok brnum eira; sonr
+bnda ht jlfi, en rskva dttir.   lagi rr hafr-
+stkurnar utar fr eldinum, ok mlti at bndi ok heima-mnn
+hans skyldu kasta  hafrstkurnar beinunum.  jlfi, sonr
+bnda, helt  lr-lgg hafrsins, ok sprtti  knfi snum, ok [*]
+braut til mrgjar.  rr dvalisk ar of nttina; en  ttu [*]
+fyrir dag st hann upp, ok klddi sik, tk hamarinn
+mjllni ok br upp, ok vgi hafrstkurnar; stu  upp
+hafrarnir, ok var  annarr haltr ptra fti.  at fann rr,
+ok tali at bndinn ea hans hjn mundi eigi skynsamliga
+hafa farit me beinum hafrsins: knnir hann at brotinn var
+lrlggrinn.  eigi arf langt fr v at sgja: vita mgu at
+allir hvrsu hrddr bndinn mundi vera, er hann s at rr
+lt sga brnnar ofan fyrir augun; en at er s augnanna, [*]
+ hugisk hann falla mundu fyrir sjninni einni samt; hann [*]
+hri hndrnar at hamar-skaptinu sv at hvtnuu knarnir.
+en bndinn gri sem vn var, ok ll hjnin: klluu ka-
+fliga, bu sr friar, buu at fyrir kvmi alt at er au
+ttu.  en er hann s hrzlu eira,  gekk af honum
+mrinn, ok sefaisk hann; ok tk af eim  stt brn
+eira, jlfa ok rsku, ok grusk au  skyldir jnustu-
+mnn rs, ok fylgja au honum jafnan san.
+
+lt hann ar ptir hafra, ok byrjai frina austr 
+jtun-heima, ok alt til hafsins; ok  fr hann t yfir
+hafit at it djpa; en er hann kom til lands,  gekk hann
+upp, ok me honum loki, ok jlfi, ok rskva.   er au
+hfu ltla hr gngit, var fyrir eim mrk str; gengu
+au ann dag allan til myrkrs.  jlfi var allra manna [*]
+ft-hvatastr; hann bar kl rs, en til vista var eigi gott.
+ er myrkt var orit, leituu eir sr til nttstaar, ok [*]
+fundu fyrir sr skla nakkvarn mjk mikinn, vru dyrr 
+nda, ok jafn-breiar sklanum; ar leituu eir sr ntt-
+bls.  en of mija ntt var land-skjlfti mikill, gekk jrin
+undir eim skykkjum, ok skalf hsit.   st rr upp, ok
+ht  lagsmnn sna; ok leituusk fyrir, ok fundu af-hs til
+hgri handar i mijum sklanum, ok gengu annig; sttisk
+rr  dyrrin, en nnur au vru innar fr honum, ok vru
+au hrdd, en rr helt hamarskaptinu, ok hugi at vrja
+sik;  heyru au ym mikinn ok gn.  en er kom at
+dagan,  gekk rr t, ok sr hvar l mar skamt fr [*]
+honum  skginum, ok var s eigi ltill; hann svaf, ok hraut
+strkliga.   ttisk rr skiija hvat ltum verit hafi of
+nttina; hann spnnir sik mgingjrum, ok x honum
+smgin; en  v vaknar mar s, ok st skjtt upp; en
+ er sagt at r var bilt einu sinni at sl hann me ham- [*]
+rinum; ok spuri hann at nafni, en s nfndisk skrmir: [*]
+'en eigi arf ek,' sagi hann, 'at spyrja ik at nafni: knni
+ek at  ert sarr; en hvrt hfir  drgit  braut hanzka
+minn?'  seildisk  skrmir til, ok tk upp hanzka sinn;
+sr rr  at at hafi hann haft of nttina fyrir skla, en
+afhsit at var umlungrinn hanzkans.  skrmir spuri ef
+rr vildi hafa fru-neyti hans, en rr jtti v.   tk
+skrmir ok leysti nestbagga sinn, ok bjsk til at eta dgur,
+en rr  rum sta ok hans flagar.  skrmir bau  at
+eir lgi mtu-neyti sitt, en rr jtti v;  batt skrmir
+nest eira alt  einn bagga, ok lagi  bak sr; hann gekk
+fyrir of daginn, ok steig hldr strum, en san at kveldi
+leitai skrmir eim nttstaar undir eik nakkvarri mikilli.
+ mlti skrmir til rs at hann vill lggjask nir at
+sofna; 'en r taki nest-baggann, ok bi til ntt-verar [*]
+yr.'  v nst sofnar skrmir, ok hraut fast; en rr tk
+nest-baggann ok skal leysa; en sv er at sgja, sem -trligt
+mun ykkja, at engi knt fekk hann leyst, ok engi lar-
+ndann hreyft, sv at  vri lausari en r.  ok er hann
+sr at etta verk m eigi ntask,  var hann reir, greip
+ hamarinn mjllni tveim hndum, ok steig fram rum
+fti at ar er skrmir l, ok lstr  hfu honum; en
+skrmir vaknar, ok spyrr hvrt laufs-bla nakkvat felli 
+hfu honum, ea hvrt eir hfi  matazk, ok s bnir
+til rkkna.  rr sgir at eir munu  sofa ganga.  ganga
+au  undir ara eik.  er at r satt at sgja, at ekki var [*]
+ ttalaust at sofa.  en at miri ntt  heyrir rr at
+skrmir hrtr, ok sfr fast, sv at dunar  skginum.  
+stndr hann upp, ok gngr til hans, reiir hamarinn ttt ok
+hart, ok lstr ofan  mijan hvirfil honum; hann knnir at
+hamars-murinn skkr djpt  hfuit.  en  v bili vaknar
+skrmir, ok mlti: 'hvat er n? fell akarn nakkvat  hfu
+mr? ea hvat er ttt um ik, rr?'  en rr gekk aptr
+skyndiliga, ok svarar at hann var  nvaknar, sagi at 
+var mi ntt, ok enn vri ml at sofa.   hugsai rr at,
+ef hann kvmi sv  fri at sl hann it rija hgg, at aldri
+skyldi hann sj sik san; liggr n ok gtir ef skrmir [*]
+sofnai fast.  en ltlu fyrir dagan  heyrir hann at skrmir
+mun sofnat hafa; stndr  upp, ok hleypr at honum, reiir
+ hamarinn af llu afli ok lstr  unn-vangann ann er
+upp vissi; skkr  hamarrinn upp at skaptinu.  en skr-
+mir sttisk upp, ok strauk of vangann, ok mlti: 'hvrt
+munu fuglar nakkvarir sitja  trnu yfir mr? mik grunai,
+er ek vaknaa, at tros nakkvat af kvistunum felli  hfu
+mr; hvrt vakir , rr?  ml mun vera upp at standa
+ok klask, en ekki eigu r n langa lei fram til borgar-
+innar er kllu er t-garr.  heyrt hfi ek at r hafi
+kvisat  milli yvar at ek vra ekki ltill mar vxti, en sj
+skulu r ar strri mnn, er r komi  tgar.  n mun
+ek ra yr heil-ri: lti r eigi strliga yfir yr, ekki
+munu hirmnn tgara-loka vel ola vlkum kgur-
+sveinum kpur-yri; en at rum kosti hverfi aptr, ok
+ann tla ek yr btra af at taka.  en ef r vili fram [*]
+fara,  stfni r  austr, en ek  n norr lei til fjalla
+essa er n munu r sj mega.'  tkr skrmir nest-bag-
+garm, ok kastar  bak sr, ok snr vrs  braut  skginn
+fr eim, ok er ess eigi getit at sirnir bi  heila [*]
+hittask.
+
+rr fr fram  lei ok eir flagar, ok gekk fram til mis
+dags;  s eir borg standa  vllum nkkurum, ok sttu [*]
+hnakkann  bak sr aptr, r eir fengu st yfir upp; ganga
+til borgarinnar, ok var grind fyri borg-hliinu, ok lokin aptr.
+rr gekk  grindina, ok fekk eigi upp lokit; en er eir
+reyttu at komask  borgina,  smugu eir milli spalanna
+ok kmu sv inn; s  hll mikla, ok gengu annig; var
+hurin opin;  gengu eir inn, ok s ar marga mnn
+ tv bkki, ok flesta rit stra.  v nst koma eir fyrir [*]
+konunginn, tgaraloka, ok kvddu hann, en hann leit seint
+til eira, ok glotti um tnn, ok mlti: 'seint er um langan [*]
+veg at spyrja tinda, ea er annan veg en ek hygg, at essi [*]
+svein-stauli s kurr? en meiri muntu vera en mr lzk
+; ea hvat rtta er at er r flagar ykkizk vera vi
+bnir?  engi skal hr vera me oss s er eigi kunni nakkvars
+konar list ea kunnandi um fram flesta mnn.'   sgir s
+er sast gekk, er loki heitir: 'kann ek  rtt, er ek em
+al-binn at reyna, at engi er hr s inni er skjtara skal eta [*]
+mat sinn en ek.'   svarar tgaraloki: 'rtt er at, ef
+ fnir, ok freista skal  essar rttar;' kallai utar  [*]
+bkkinn at s er logi heitir skal ganga  glf fram, ok freista
+sn  mti loka.   var tkit trog eitt, ok borit inn  hallar-
+glfit, ok fylt af sltri; sttisk loki at rum nda, en logi
+at rum, ok t hvrr-tvggja sem tast, ok mttusk  miju
+troginu; hafi  loki etit sltr alt af beinum, en logi hafi
+ok etit sltr alt ok beinin me, ok sv trogit; ok sndisk n
+llum sem loki hfi ltit leikinn.   spyrr tgaraloki
+hvat s inn ungi mar kunni leika.  en jlfi sgir at hann
+mun freista at rnna skei nkkur vi einn-hvrn ann er
+tgaraloki fr til.  hann sgir, tgaraloki, at etta er
+g rtt, ok kallar ess meiri vn at hann s vel at sr [*]
+binn of skjtleikinn, ef hann skal essa rtt inna; en 
+ltr hann skjtt essa skulu freista.  stndr  upp tgara-
+loki, ok gngr t, ok var ar gott skei at rnna ptir slttum
+vlli.   kallar tgaraloki til sn sveinstaula nakkvarn, er
+nfndr er hugi, ok ba hann rnna  kpp vi jlfa.  
+taka eir it fyrsta skei, ok er hugi v framar at hann
+snsk aptr  mti honum at skeis nda.   mlti tgara-
+loki: 'urfa muntu, jlfi, at lggja ik meir fram, ef 
+skalt vinna leikinn; en  er at satt, at ekki hafa hr komit
+eir mnn er mr ykkja fthvatari en sv.'   taka eir [*]
+aptr annat skei, ok  er hugi er kominn til skeis nda,
+ok hann snsk aptr,  var langt klf-skot til jlfa.  
+mlti tgaraloki: 'vel ykkir mr jlfi rnna; en eigi
+tri ek honum n at hann vinni leikinn, en n mun reyna,
+er eir rnna it rija skeiit.'   taka eir nn skei; en
+er hugi er kominn til skeis nda ok snsk aptr, ok er [*]
+jlfi eigi  kominn  mitt skeiit;  sgja allir at reynt
+er um enna leik.   spyrr tgaraloki r, hvat eira
+rtta mun vera er hann muni vilja birta fyrir eim, sv
+miklar sgur sem mnn hafa grt um strvirki hans.  
+mlti rr at hlzt vill hann at taka til, at reyta drykkju
+vi einnhvrn mann.  tgaraloki sgir at at m vel vera;
+ok gngr inn  hllina, ok kallar skutil-svein sinn, bir at
+hann taki vtis-horn at, er hirmnn eru vanir at drekka af.
+v nst kmr fram skutilsveinn me horninu, ok fr r 
+hnd.   mlti tgaraloki: 'af horni essu ykkir 
+vel drukkit, ef  einum drykk gngr af, en sumir mnn
+drekka af  tveim drykkjum, en engi er sv ltill drykkju-
+mar, at eigi gangi af  rimr.'  rr ltr  hornit, ok snisk
+ekki mikit, ok er  hldr langt, en hann er mjk yrstr;
+tkr at drekka, ok svelgr allstrum, ok hyggr at eigi skal
+urfa at lta optar at sinni  hornit.  en er hann raut [*]
+rindit, ok hann laut r horninu, ok sr hvat lei drykkinum, [*]
+ok lzk honum sv, sem all-ltill munr mun vera at n s
+lgra  horninu en r.   mlti tgaraloki: 'vel er
+drukkit, ok eigi til mikit; eigi munda-k tra, ef mr vri
+sagt fr, at sarr mundi eigi meira drykk drekka; en
+ veit ek at  munt vilja drekka af  rum drykk.'
+rr svarar engu, str hornit  munn sr, ok hyggr n at
+hann skal drekka meira drykk, ok reytir  drykkjuna, sem
+honum vannsk til rindi, ok sr nn at stikillinn hornsins
+vill ekki upp sv mjk sem honum lkar; ok er hann tk
+hornit af munni sr ok sr, lzk honum n sv, sem minna
+hafi orrit en  inu fyrra sinni; er n gott beranda bor
+ horninu.   mlti tgaraloki: 'hvat er n, rr?
+muntu n eigi sparask til eins drykkjar meira en r mun
+hagr  vera?  sv lzk mr, ef  skalt n drekka af horninu
+inn rija drykkinn, sem essi mun mestr tlar; en ekki [*]
+muntu mega hr me oss heita sv mikill mar sem sir
+kalla ik, ef  grir eigi meira af r um ara leika en mr
+lzk sem um enna mun vera.'   var rr reir, str
+hornit  munn sr, ok drekkr sem kafligast m hann, ok
+reytir sem lngst  drykkinn; en er hann s  hornit, 
+hafi n hlzt nakkvat munr  fngizk, ok  br hann upp
+hornit, ok vill eigi drekka meira.   mlti tgaraloki:
+'au-st er n at mttr inn er ekki sv mikill sem vr
+hugum; en vill-tu freista um fleiri leika?  sj m n, at
+ekki ntir  hr af.'  rr svarar: 'freista m ek nn of
+nakkvara leika, en undarliga mundi mr ykkja,  er ek var
+heima me sum, ef vlkir drykkir vri sv ltlir kallair.  en
+hvat leik vili r n bja mr?'   mlti tgaraloki: 'at
+gra hr ungir sveinar er ltit mark mun at ykkja, at hfja
+upp af jru ktt minn; en eigi munda-k kunna at mla
+vlkt vi sar, ef ek hfa eigi st fyrr at  ert miklu
+minni fyrir r en ek huga.'  v nst hljp fram kttr
+einn grr  hallarglfit, ok hldr mikill; en rr gekk til, ok
+tk hndi sinni nir undir mijan kviinn, ok lypti upp, en
+kttrinn beygi knginn, sv sem rr rtti upp hndina; en
+er rr seildisk sv langt upp sem hann mtti lngst,  ltti
+kttrinn einum fti, ok fr rr eigi framit enna leik.  
+mlti tgaraloki: 'sv fr essi leikr sem mik vari;
+kttrinn er hldr mikill, en rr er lgr ok ltill hj str-
+mnni v sem hr er me oss.'   mlti rr: 'sv ltinn
+sem pr kalli mik,  gangi n til einnhvrr, ok fisk vi
+mik; n em ek reir.'   svarar tgaraloki, ok litask um
+ bkkina, ok mlti: 'eigi s ek ann mann hr inni, er
+eigi mun ltil-ri  ykkja at fsk vi ik;' ok nn mlti
+hann: 'sjm fyrst, kalli mr hingat krlinguna, fstru mna [*]
+lli, ok fisk rr vi hana, ef hann vill; flt hfir hon 
+mnn er mr hafa litizk eigi -strkligri en rr er.'  v
+nst gekk  hllina krling ein gmul.   mlti tgar-
+aloki, at hon skal taka fang vi sar.  ekki er langt um.
+at gra: sv fr fang at at v harara er rr knisk at
+fanginu, v fastara st hon;  tk krling at leita til
+raga, ok var rr  lauss  ftum, ok vru r svip-
+tingar all-harar, ok eigi lngi r en rr fell  kn rum
+fti.   gekk til tgaraloki, ba au htta fanginu, ok
+sagi sv, at rr mundi eigi urfa at bja fleirum mnnum
+fang  hans hll; var  ok liit  ntt, vsai tgaraloki
+r ok eim flgum til stis, ok dvljask ar ntt-langt 
+gum fagnai.
+
+en at morgni, egar dagai, stndr rr upp ok eir
+flagar, kla sik, ok eru bnir braut at ganga.   kom
+ar tgaraloki, ok lt stja eim bor; skorti  eigi
+gan fagna, mat ok drykk.  en er eir hafa matazk, 
+snask eir til frar.  tgaraloki fylgir eim t, gngr
+me eim braut r borginni; en at skilnai  mlti tgar-
+aloki til rs, ok spyrr hvrnig honum ykkir fr sn
+orin, ea hvrt hann hfir hitt rkara mann nakkvarn en
+sik.  rr svarar at eigi mun hann at sgja, at eigi hafi
+hann mikla -sm farit  eira vi-skiptum; 'en  veit [*]
+ek at r munu kalla mik ltinn mann fyrir mr, ok uni ek
+v illa.'   mlti tgaraloki: 'n skal sgja r it sanna,
+er  ert t kominn r borginni--ok ef ek lifi ok mega-k
+ra,  skaltu aldri optar  hana koma; ok at veit tra
+mn, at aldri hfir   hana komit, ef ek hfa vitat r at
+ hfir sv mikinn krapt me r, ok  hafir sv nr
+haft oss mikilli -fru.  en sjn-hvrfingar hfi ek grt r,
+sv at fyrsta sinn, er ek fann ik  skginum, kom ek til
+fundar vi yr; ok  er  skyldir leysa nestbaggann, 
+hafa-k bundit me gres-jrni, en  fannt eigi hvar upp
+skyldi lka.  en v nst laust  mik me hamrinum rj
+hgg, ok var it fyrsta minst, ok var  sv mikit, at mr
+mundi ndask til bana, ef  hfi komit; en ar er  stt
+hj hll minni set-berg, ok ar stt-u ofan  rj dala fer-
+skeytta ok einn djpastan, at vru hamarspor in; setber-
+ginu br ek fyrir hggin en eigi stt  at.  sv var ok of
+leikana, er r reyttu vi hirmnn mna.   var at it
+fyrsta, er loki gri; hann var mjk soltinn, ok t ttt; en
+s er logi ht, at var villi-eldr, ok brndi hann eigi seinna
+sltrit en trogit.  en er jlfi reytti rsina vi ann er
+hugi ht, at var hugi minn, ok var jlfa eigi vnt at
+reyta skjt-fri vi hann.  en er  drakkt af horninu, ok
+tti r seint la,--en at veit tra mn, at  var at
+undr, er ek munda eigi tra at vera mtti; annarr ndir
+hornsins var t  hafi, en at sttu eigi; en n, er  kmr
+til svarins,  mun-tu sj mega, hvrn ur  hfir drukkit
+ snum.'  at eru n fjrur kallaar.  ok nn mlti hann:
+'eigi tti mr hitt minna vera vert, er  lyptir upp kt-
+tinum, ok r satt at sgja,  hrddusk allir eir er s,
+er  lyptir af jru einum ftinum; en s kttr var eigi
+sem r sndisk; at var migars-ormr, er liggr um lnd
+ll, ok vannsk honum varliga lngin til, at jrina tki
+sporr ok hfu; ok sv langt seildisk  upp at skamt var
+ til himins.  en hitt var ok mikit undr um fangit, er 
+fekkzk vi lli; fyrir v at engi hfir s orit, ok engi
+mun vera, ef sv gamall er at lli br, at eigi komi llin
+llum til falls.  ok er n at stt at sgja, at vr munum
+skiljask, ok mun  btr hvrratvggju handar at r komi
+eigi optar mik at hitta; ek mun nn annat sinn vrja borg
+mna me vlkum vlum ea rum, sv at ekki vald munu
+r  mr f.'  en er rr heyri essa tlu, greip hann til
+hamarsins, ok bregr  lopt; en er hann skal fram reia, 
+sr hann ar hvrgi tgaraloka, ok  snsk hann aptr til
+borgarinnar, ok tlask  fyrir at brjta borgina;  sr
+hann ar vllu va ok fagra, en enga borg.  snsk hann
+ aptr, ok frr lei sina, til ess er hann kom aptr  r-
+vanga.
+
+
+iii. balder
+
+annarr sonr ins er baldr, ok er fr honum gott at
+sgja: hann er bztr, ok hann lofa allir.  hann er sv fagr
+-litum ok bjartr sv at lsir af honum; ok eitt gras er sv
+hvtt at jafnat er til baldrs brr, at er allra grasa hvtast;
+ok ar ptir mttu marka hans fgr, bi  hr ok  lki;
+hann er vitrastr sanna, ok fgrstr talir ok lknsamastr.  en
+s nttra fylgir honum at engi m haldask dmr hans. [*]
+hann br ar sem heitir breia-blik, at er  himni;  eim
+sta m ekki vera -hreint, sv sem hr sgir:
+
+    breiablik heita,     ar er baldr hfir
+        sr of grva sali;
+     v landi      er ek liggja veit
+        fsta feikn-stafi.
+
+
+iv. the death of balder
+
+at er upphaf essar sgu, at baldr inn ga dreymi
+drauma stra ok httliga um lf sitt.  en er hann sagi
+sunum draumana,  bru eir saman r sn, ok var at
+grt at beia gria baldri fyrir alls konar hska; ok frigg
+tk svardaga til ess, at eira skyldu baldri eldr ok vatn, jrn
+ok alls konar mlmr, steinar, jrin, viirnir, sttirnar, drin,
+fuglarnir, eitr, ormar.  en er etta var grt ok vitat,  var
+at skmtun baldrs ok sanna at hann skyldi standa upp 
+ingum, en allir arir skyldu sumir skjta  hann, sumir
+hggva til, sumir brja grjti.  en hvat sem at var grt,
+sakai hann ekki, ok tti etta llum mikill frami.  en er [*]
+etta s loki laufeyjar-son,  lkai honum illa er baldr
+sakai ekki.  hann gekk til fn-salar til friggjar, ok br
+sr  konu lki;  spyrr frigg ef s kona vissi hvat sir
+hfusk at  inginu.  hon sagi at allir skutu at baldri,
+ok at, at hann sakai ekki.   mlti frigg: 'eigi munu
+vpn ea viir granda baldri; eia hfi ek git af llum
+eim.'   spyrr konan: 'hafa allir hlutir eia unnit at eira
+baldri?'   svarar frigg: 'vx viar-teinungr einn fyrir
+vestan val-hll; s er mistilteinn kallar; s tti mr ungr [*]
+at krfja eisins.'  v nst hvarf konan  braut; en loki
+tk mistiltein ok sleit upp, ok gekk til ings.  en hr st
+utarliga  mannhringinum, v at hann var blindr.   mlti
+loki vi hann: 'hv sktr  ekki at baldri?'  hann svarar:
+'v at ek s eigi, hvar baldr er, ok at annat, at ek em
+vapnlauss.'   mlti loki: 'gr-u   lking annarra,
+manna, ok veit baldri sm sem arir mnn; ek mun vsa
+r til, hvar hann stndr; skjt at honum vndi essum.'
+hr tk mistiltein, ok skaut at baldri at tilvsun loka;
+flaug skotit  ggnum hann, ok fell hann daur til jarar; ok
+hfir at mest -happ verit unnit me goum ok mnnum. [*]
+ er baldr var fallinn,  fellusk llum sum or-tk, ok
+sv hndr at taka til hans; ok s hvrr til annars, ok vru [*]
+allir me einum hug til ess er unnit hafi verkit; en engi
+mtti hfna: ar var sv mikill gria-star.  en  er
+sirnir freistuu at mla,  var hitt  fyrr, at grtrinn [*]
+kom upp, sv at engi mtti rum sgja me orunum fr
+snum harmi.  en inn bar eim mun vrst enna skaa,
+sem hann kunni mesta skyn, hvrsu mikil af-taka ok missa
+sunum var  fr-falli baldrs.  en er goin vitkuusk, 
+mlti frigg ok spuri, hvrr s vri me sum, er eignask
+vildi allar stir hennar ok hylli, ok vili hann ra  hl-veg [*]
+ok freista ef hann fi fundit baldr, ok bja hlju t-lausn,
+ef hon vill lta fara baldr heim  s-gar.  en s er nfndr
+hrmr inn hvati, sonr ins, er til eirar farar var.  
+var tkinn sleipnir, hestr ins, ok leiddr fram, ok steig
+hrmr  ann hest, ok hleypi braut.
+
+en sirnir tku lk baldrs ok fluttu til svar.  hring-
+horni ht skip baldrs, hann var allra skipa mestr; hann
+vildu goin fram stja, ok gra ar  bl-fr baldrs; en
+skipit gekk hvrgi fram.   var snt  jtunheima ptir
+ggi eiri er hyrrokin ht; en er hon kom, ok rei vargi,
+ok hafi hgg-orm at taumum,  hljp hon af hestinum,
+en inn kallai til ber-srki fjra at gta hestsins, ok fengu
+eir eigi haldit, nema eir fldi hann.   gekk hyrrokin  [*]
+fram-stafn nkkvans, ok hratt fram  fyrsta vi-bragi, sv
+at eldr hraut r hlunnunum, ok lnd ll skulfu.   var
+rr reir, ok greip hamarinn, ok mundi  brjta hfu
+hnnar, r en goin ll bu hnni friar.   var borit
+t  skipit lk baldrs; ok er at s kona hans, nanna, neps
+dttir,  sprakk hon af harmi, ok d; var hon borin 
+blit, ok slgit  eldi.   st rr at, ok vgi blit me
+mjllni; en fyrir ftum hans rann dvergr nakkvarr, s er
+litr nfndr; en rr spyrndi fti snum  hann, ok hratt
+honum  eldinn, ok brann hann.  en at essi brnnu stti
+margs konar j: fyrst at sgja fr ni, at me honum
+fr frigg ok valkyrjur ok hrafnar hans; en freyr k  krru
+me glti eim er gullin-bursti heitir ea slrug-tanni; en
+heimdallr rei hesti eim er gull-toppr heitir; en freyja
+kttum snum.  ar kmr ok mikit flk hrmursa, ok berg-
+risar.  inn lagi  blit gullhring ann er draupnir
+heitir; honum fylgi san s nttra, at hina nundu hvrja
+ntt drupu af honum tta gullhringar jafn-hfgir.  hestr
+baldrs var leiddr  blit me llu reii.
+
+en at er at sgja fr hrmi, at hann rei nu ntr
+dkkva dala ok djpa, sv at hann s ekki, fyrr en hann
+kom til rinnar gjallar, ok rei  gjallar-brna; hon er
+k lsi-gulli.  mgur er nfnd mr s er gtir brar-
+innar; hon spuri hann at nafni ea tt, ok sagi at hinn
+fyrra dag riu um brna fimm fylki daura manna; 'en eigi
+dynr brin minnr undir einum r, ok eigi hfir  lit daura
+manna; hv rr  hr  hlveg?'  hann svarar at 'ek
+skal ra til hljar at leita baldrs, ea hvrt hfir  nakkvat
+st baldr  hlvegi?'  en hon sagi at baldr hafi ar
+riit um gjallarbr; 'en nir ok norr liggr hlvegr.'  
+rei hrmr ar til er hann kom at hl-grindum;  steig
+hann af hestinum, ok gyri hann fast, steig upp, ok keyri
+hann sporum, en hestrinn hljp sv hart, ok yfir grindina, at
+hann kom hvrgi nr.   rei hrmr heim til hallar- [*]
+innar, ok steig af hesti, gekk inn  hllina, s ar sitja 
+ndvegi baldr, brur sinn; ok dvalisk hrmr ar um
+nttina.  en at morgni  beiddisk hrmr af hlju at
+baldr skyldi ra heim me honum, ok sagi hvrsu mikill
+grtr var me sum.  en hl sagi at at skyldi sv reyna, [*]
+hvrt baldr var sv st-sll sem sagt er; 'ok ef allir hlutir 
+heiminum, kykvir ok dauir, grta hann,  skal hann fara
+til sa aptr, en haldask me hlju, ef nakkvarr mllr vi,
+ea vill eigi grta.'   st hrmr upp, en baldr leiir
+hann t r hllinni, ok tk hringinn draupni, ok sndi ni
+til minja, en nanna sndi frigg ripti ok nn fleiri gjafar,
+fullu fingr-gull.   rei hrmr aptr lei sna, ok kom 
+sgar, ok sagi ll tindi au er hann hafi st ok heyrt.
+
+v nst sndu sir um allan heim rind-reka, at bija
+at baldr vri grtinn r hlju; en allir gru at, mnninir,
+ok kykvendin, ok jrin, ok steinarnir, ok tr, ok allr mlmr;
+sv sem  munt st hafa, at essir hlutir grta,  er eir
+koma r frosti ok  hita.   er sndi-mnn fru heim, ok
+hfu vel rekit sn rindi, finna eir  hlli nkkurum hvar [*]
+ggr sat; hon nfndisk kk.  eir bija hana grta baldr
+r hlju.  hon svarar:
+
+   'kk mun grta     urrum trum
+    baldrs blfarar;
+    kyks n daus     naut-k-a-k karls sonar; [*]
+    haldi hl v es hfir!'
+
+en ess geta mnn, at ar hafi verit loki laufeyjar-son,
+er flest hfir ilt grt me sum.
+
+
+v. heinn and hgni
+
+konungr s er hgni er nfndr tti dttur, er hildr ht.
+hana tk at hr-fangi konungr s er hinn ht, hjarranda-
+son.   var hgni konungr farinn  konunga-stfnu; en er
+hann spuri at hrjat var  rki hans, ok dttir hans var 
+braut tkin,  fr hann me snu lii at leita hins, ok
+spuri til hans at hinn hafi siglt norr me landi.   [*]
+er hgni konungr kom  noreg, spuri hann at hinn
+hafi siglt vestr um haf.   siglir hgni ptir honum allt
+til orkn-eyja; ok er hann kom ar sem heitir h-ey,  [*]
+var ar fyrir hinn me li sitt.   fr hildr  fund fur
+sns, ok bau honum mn at stt af hndi hins, en  ru
+ori sagi hon at hinn vri binn at brjask, ok tti
+hgni af honum engrar vgar vn.  hgni svrar stirt
+dttur sinni; en er hon hitti hin, sagi hon honum, at
+hgni vildi enga stt, ok ba hann bask til orrostu, ok
+sv gra eir hvrir-tvggju, ganga upp  eyna, ok fylkja
+liinu.   kallar hinn  hgna, mg sinn, ok bau
+honum stt ok mikit gull at btum.   svarar hgni:
+'of s bauzt-u etta, ef  vill sttask, v at n hfi ek
+drgit dins-leif, er dvergarnir gru, er manns bani skal
+vera, hvrt sinn er brt er, ok aldri bilar  hggvi, ok ekki
+sr grr, ef ar skeinisk af.'   svarar hinn: 'sveri
+hlir  ar, en eigi sigri; at kalla ek gott hvrt er drttin-
+holt er.'   hfu eir orrostu  er hjaninga-vg er kallat,
+ok brusk ann dag allan, ok at kveldi fru konungar til
+skipa.  en hildr gekk of nttina til valsins, ok vaki upp
+me fjlkyngi alla  er dauir vru; ok annan dag gengu
+konungarnir  vg-vllinn ok brusk, ok sv allir eir er
+fellu hinn fyrra daginn.  fr sv s orrosta hvrn dag ptir
+annan, at allir eir er fellu, ok ll vpn au er lgu  vgvlli,
+ok sv hlfar, uru at grjti.  en er dagai, stu upp allir
+dauir mnn, ok brusk, ok ll vpn vru  n.  sv er
+sagt  kvum, at hjaningar skulu sv ba ragna-rkrs.
+
+
+vi. the death of olaf tryggvason
+
+sveinn konungr tjgu-skgg tti sigri hina str-ru.
+sigrr var hinn mesti -vinr lfs konungs tryggva-sonar;
+ok fann at til saka at lfr konungr hafi slitit einka-mlum
+vi hana, ok lostit hana  and-lit.  hon ggjai mjk svein
+konung til at halda orrostu vi lf konung tryggvason, ok
+kom hon sv snum for-tlum at sveinn konungr var full-
+kominn at gra etta r.  ok snimma um vrit sndi
+sveinn konungr mnn austr til sv-jar  fund lfs
+konungs sva-konungs, mgs sns, ok eirks jarls; ok lt sgja
+eim at lfr, noregs konungr, hafi leiangr ti, ok tlai
+at fara um sumarit til vind-lands.  fylgi at or-snding
+dana-konungs, at eir svakonungr ok eirkr jarl skyldi
+hr ti hafa, ok fara til mts vi svein konung, skyldu
+eir  allir samt lggja til orrostu vi lf konung tryggva-
+son.  en lfr svakonungr ok eirkr jarl vru essar
+frar al-bnir, ok drgu  saman skipa-hr mikinn af sva-
+vldi, fru v lii sur til dan-markar ok kvmu ar sv, [*]
+at lfr konungr tryggvason hafi r austr siglt.  eir
+svakonungr ok eirkr jarl heldu til fundar vi danakonung,
+ok hfu  allir saman -grynni hrs.
+
+sveinn konungr,  er hann hafi snt ptir hrinum,
+ sndi hann sigvalda jarl til vindlands at njsna um fr
+lfs konungs tryggvasonar, ok gildra sv til, at fundr
+eira sveins konungs mtti vera.  frr  sigvaldi jarl
+lei sna, ok kom fram  vindlandi, fr til jmsborgar, ok
+san  fund lfs konungs tryggvasonar.  vru ar mikil
+vinttu-ml eira  meal, kom jarl sr  hinn mesta krleik
+vi lf konung.  strr kona jarls, dttir burizleifs konungs,
+var vinr mikill lfs konungs, ok var at mjk af hinum
+fyrrum tngum, er lafr konungr hafi tt geiru, systur [*]
+hnnar.  sigvaldi jarl var mar vitr ok rugr; en er hann
+kom sr  ra-gr vi lf konung,  dvali hann mjk
+frina hans austan at sigla, ok fann til ess mjk msa hluti. [*]
+en li lfs konungs lt geysi illa, ok vru mnn mjk
+heim-fsir, er eir lgu albnir, en ver byr-vn.  sigvaldi
+jarl fekk njsn leyniliga af danmrk, at  var austan kominn
+hrr svakonungs, ok eirkr jarl hafi  ok binn sinn hr,
+ok eir hfingjarnir mundu  koma austr undir vindland,
+ok eir hfu  kveit, at eir mundu ba lfs konungs
+vi ey  er svlr heitir, sv at, at jarl skyldi sv til stilla [*]
+at eir mtti ar finna lf konung.
+
+ kom pati nakkvarr til vindlands, at sveinn dana-
+konungr hfi hr ti, ok grisk brtt s kurr, at sveinn
+danakonungr mundi vilja finna lf konung.  en sigvaldi
+jarl sgir konungi: 'ekki er at r sveins konungs at
+lggja til bardaga vi ik me dana-hr einn saman, sv
+mikinn hr sem r hafi.  en ef yr er nakkvarr grunr 
+v, at -frir muni fyrir,  skal ek fylgja yr me mnu [*]
+lii, ok tti at styrkr vera fyrr, hvar sem jms-vkingar
+fylgu hfingjum; mun ek f r ellifu skip vel skipu.'
+konungr jtti essu.  var  ltit ver ok hag-sttt; lt
+konungr  leysa flotann, ok blsa til brott-lgu.  drgu
+mnn  segl sn, ok gengu meira sm-skipin ll, ok sigldu [*]
+au undan  haf t.  en jarl sigldi nr konungs-skipinu,
+ok kallai til eira, ba konung sigla ptir sr: 'mr er
+kunnast,' sgir hann, 'hvar djpast er um eyja-sundin, en
+r munu ess urfa me au in stru skipin.'  sigldi
+ jarl fyrir me snum skipum.  hann hafi ellifu skip,
+en konungr sigldi ptir honum me sinum str-skipum,
+hafi hann ar ok ellifu skip, en allr annarr hrrinn sigldi
+t  hafit.  en er sigvaldi jarl sigldi utan at svlr, 
+rri  mti eim skta ein.  eir sgja jarli at hrr dana-
+konungs l ar  hfninni fyrir eim.   lt jarl hlaa
+seglunum, ok ra eir inn undir eyna.
+
+sveinn danakonungr ok lfr svakonungr ok eirkr
+jarl vru ar  me allan hr sinn;  var fagrt ver
+ok bjart sl-skin.  gengu eir n upp  hlminn allir
+hfingjar me miklar sveitir manna, ok s er skipin sigldu
+t  hafit mjk mrg saman.  ok n sj eir hvar siglir
+eitt mikit skip ok glsiligt;  mltu bir konungarnir:
+'etta er mikit skip ok kafliga fagrt, etta mun vera ormrinn
+langi.'  eirkr jarl svarar ok sgir: 'ekki er etta ormr hinn
+langi.'  ok sv var sem hann sagi; etta skip tti eindrii
+af gimsum.  ltlu sar s eir hvar annat skip sigldi miklu
+meira en hit fyrra.   mlti sveinn konungr: 'hrddr er
+lfr tryggvason n, eigi orir hann at sigla me hfuin
+ skipi snu.'   sgir eirkr jarl: 'ekki er etta konungs
+skip, knni ek etta skip ok seglit, v at stafat er seglit, at
+ erlingr skjlgsson; ltum sigla , btra er oss skar ok
+missa  flota lfs konungs en etta skip ar sv bit.'  en
+stundu sar s eir ok kndu skip sigvalda jarls, ok viku
+an annig at hlmanum.   s eir hvar sigldu rj skip,
+ok var eitt mikit skip.  mlti  sveinn konungr, bir 
+ganga til skipa sinna, sgir at ar frr ormrinn langi.  eirkr
+jarl mlti: 'mrg hafa eir nnur str skip ok glsilig en
+orm hinn langa, bum nn.'   mltu mjk margir mnn:
+'eigi vill eirkr jarl n brjask, ok hfna fur sns; etta
+er skmm mikil, sv at spyrjask mun um ll lnd, ef vr
+liggjum hr me jafn-miklu lii, en lfr konungr sigli 
+hafit t hr hj oss sjlfum.'  en er eir hfu etta talat
+um hr,  s eir hvar sigldu fjogur skip, ok eitt af
+eim var drki all-mikill ok mjk gull-binn.   st upp
+sveinn konungr, ok mlti: 'htt mun ormrinn bera mik 
+kveld, honum skal ek stra.'   mltu margir, at ormrinn
+var furu mikit skip ok frtt, ok rausn mikil at lta gra
+slkt skip.   mlti eirkr jarl, sv at nakkvarir mnn
+heyru: 'tt lfr konungr hfi ekki meira skip en etta,
+ mundi sveinn konungr at aldri f af honum me einn
+saman danahr.'  dreif  flkit til skipanna, ok rku af
+tjldin, ok tluu at bask skjtliga.  en er hfingjar rddu
+etta milli sn, sem n er sagt,  s eir, hvar sigldu rj
+skip all-mikil, ok fjra sast, ok var at ormrinn langi.
+en au hin stru skip, er r hfu siglt, ok eir hugu
+at ormrinn vri, at var hit fyrra traninn, en hit sara
+ormrinn skammi.  en  er eir s orminn langa, kndu
+allir, ok mlti  engi  mt, at ar mundi sigla lfr
+tryggvason; gengu  til skipanna, ok skipuu til at-
+lgunnar.  vru at einkaml eira hfingja, sveins konungs,
+lfs konungs, eirks jarls, at sinn rijung noregs skyldi
+eignask hvrr eira, ef eir fldi lf konung tryggvason;
+en s eira hfingja er fyrst gengi  orminn, skyldi eignask
+alt at hlut-skipti er ar fengisk, ok hvrr eira au skip
+er sjlfr hryi.  eirkr jarl hafi bara einn geysi mikinn,
+er hann var vanr at hafa  viking; ar var skgg  ofan-
+veru barinu hvrutvggja, en nir fr jrn-spng ykk ok
+sv brei sem barit, ok tk alt  s ofan.
+
+ er eir sigvaldi jarl rru inn undir hlminn,  s
+at eir orkll dyrill af trananum ok arir skip-stjrn-
+ar-mnn, eir er me honum fru, at jarl snri skipum
+undir hlmann;  hlu eir ok seglum, ok rru ptir
+honum, ok klluu til eira, spuru, hv eir fru sv.  jarl
+sgir, at hann vill ba lfs konungs: 'ok er meiri vn at
+frir s fyrir oss.'  ltu eir  fljta skipin, ar til er
+orkll nfja kom me orminn skamma, ok au rj skip
+er honum fylgu.  ok vru eim sg hin smu tindi;
+hlu eir  ok snum seglum, ok ltu fljta, ok biu
+lfs konungs.  en  er konungrinn sigldi innan at hl-
+manum,  rri allr hrrinn t  sundit fyrir .  en er
+eir s at, a bu eir konunginn sigla lei sna, en
+lggja eigi til orrostu vi sv mikinn hr.  konungr svarar
+htt, ok st upp  lyptingunni: 'lti ofan seglit, ekki skulu
+mnir mnn hyggja  fltta, ek hfi aldri flit  orrostu, ri
+gu fyrir lfi mnu, en aldri mun ek  fltta lggja.'  var sv
+grt sem konungr mlti.
+
+lfr konungr lt blsa til sam-lgu llum skipum snum.
+var konungs skip  miju lii, en ar  annat bor ormrinn
+skammi, en  annat bor traninn.  en  er eir tku
+at tngja stafna  orminum langa ok orminum skamma,
+ok er konungr s at, kallai hann htt, ba  lggja
+fram btr hit mikla skipit, ok lta at eigi aptast vera allra
+skipa  hrinum.   svarar lfr hinn raui: 'ef orminn
+skal v lngra fram lggja, sem hann er lngri en nnur
+skip,  mun -vint vera um sxin  dag.'  konungr sgir:
+'eigi vissa ek at ek tta stafnbann bi rauan ok ragan.'
+lfr mlti: 'vr  eigi meir baki lyptingina en ek mun
+stafninn.'  konungr helt  boga, ok lagi r  strng, ok
+snri at lfi.  lfr mlti: 'skjt annan veg, konungr  annig
+sem meiri er rfin; r vinn ek at er ek vinn.'
+
+lfr konungr st  lyptingu  orminum, bar hann htt [*]
+mjk; hann hafi gyltan skjld ok gull-roinn hjlm; var
+hann au-kndr fr rum mnnum: hann hafi rauan
+kyrtil stuttan utan yfir brynju.  en er lfr konungr s at
+riluusk flotarnir, ok upp vru stt mrki fyrir hfingjum,
+ spyrr hann: 'hvrr er hfingi fyrir lii v er ggnt
+oss er?'  honum var sagt at ar var sveinn konungr
+tjguskgg me danahr.  konungr svarar: 'ekki hrumk
+vr bleyur r, engi er hugr  dnum.  en hvrr hfingi
+fylgir eim mrkjum er ar eru t fr  hgra veg?'  honum
+var sagt at ar var lfr konungr me sva-hr.  lfr
+konungr sgir: 'btra vri svum heima at sleikja um blt-
+bolla sna en ganga  orminn undir vpn yur.  en hvrir
+eigu au hin stru skip, er ar liggja t  bak-bora dnum?'
+'ar er,' sgja eir 'eirkr jarl hkonar-son.'   svarai
+lfr konungr: 'hann mun ykkjask eiga vi oss skapligan
+fund, ok oss er vn snarpligrar orrostu af v lii; eir eru
+nor-mnn, sem vr erum.'
+
+san greia konungar at-rr.  lagi sveinn konungr
+sitt skip mti orminum langa, en lfr konungr snski
+lagi t fr, ok stakk stfnum at yzta skipi lfs konungs
+tryggvasonar, en rum megin eirkr jarl.  tksk ar 
+hr orrosta.  sigvaldi jarl lt skotta vi sn skip, ok lagi
+ekki til orrostu.
+
+essi orrosta var hin snarpasta ok all-mann-sk.  fram-
+byggjar  orminum langa ok orminum skamma ok trananum
+fru akkeri ok stafn-lj  skip sveins konungs, en ttu
+vpnin at bera nir undir ftr sr; hruu eir ll au skip
+er eir fengu haldit.  en konungrinn sveinn ok at li er
+undan komsk fli  nnur skip, ok ar nst lgu eir
+fr r skot-mli.  ok fr essi hrr sv sem gat lfr
+konungr tryggvason.   lagi ar at  stainn lfr
+svakonungr; ok egar er eir koma nr strskipum, 
+fr eim sem hinum, at eir ltu li mikit ok sum skip sn,
+ok lgu fr vi sv bit.  en eirkr jarl s-byri baranum
+vi hit yzta skip lfs konungs, ok hrau hann at, ok hj
+egar at r tngslum, en lagi  at v, er ar var nst,
+ok barisk til ess er at var hroit.  tk  liit at hlaupa
+af hinum smrum skipunum, ok upp  strskipin.  en eirkr
+jarl hj hvrt r tngslunum, sv sem hroit var.  en danir
+ok svar lgu   skotml ok llum megin at skipum lfs
+konungs, en eirkr jarl l valt sbyrt vi skipin, ok tti
+hgg-orrostu.  en sv sem mnn fellu  skipum hans, 
+gengu arir upp  stainn, svar ok danir.   var orrosta
+hin snarpasta, ok fell  mjk liit, ok kom sv at lykum,
+at ll vru hroin skip lfs konungs tryggvasonar nema
+ormrinn langi; var ar  alt li  komit, at er vgt var
+hans manna.   lagi eirkr jarl baranum at orminum
+langa sbyrt, ok var ar hggorrosta.
+
+eirlkr jarl var  fyrir-rmi  skipi snu, ok var ar fylkt
+me skjald-borg.  var  bi hggorrosta, ok spjtum lagit,
+ok kastat llu v er til vpna var, en sumir skutu boga-skoti
+ea hand-skoti.  var a sv mikill vpnaburr  orminn, at
+varla mtti hlfum vi koma, er sv ykt flugu spjt ok rvar;
+v at llum megin lgu hrskip at orminum.  en mnn
+lfs konungs vru  sv ir, at eir hljpu upp  borin,
+til ess at n me svers-hggum at drepa flkit.  en margir
+lgu eigi sv undir orminn, at eir vildi  hggorrostu vera.
+en lfs mnn gengu flestir t af borunum, ok gu eigi
+annars en eir brisk  slttum vlli, ok sukku nir me
+vpnum snum.
+
+einarr ambar-sklfir var  orminum aptr  krappa-rmi;
+hann skaut af boga, ok var allra manna har-skeytastr.
+einarr skaut at eirki jarli, ok laust  stris-hnakkann fyrir
+ofan hfu jarli, ok gekk alt upp  reyr-bndin.  jarl leit til,
+ok spuri ef eir vissi, hvrr skaut.  en jafn-skjtt kom
+nnur r sv nr jarli, at flaug milli sunna ok handarinnar,
+ok sv aptr  hfa-fjlina, at langt st t broddrinn.  
+mlti jarl vi mann ann er sumir nfna finn, en sumir
+sgja at hann vri finskr, s var hinn mesti bog-mar:
+'skjt-tu mann ann hinn mikla  krapparminu!'  finnr
+skaut, ok kom rin  boga einars mijan,  v bili er einarr
+dr it rija sinn bogann.  brast  boginn  tv hluti.  
+mlti lfr konungr: 'hvat brast ar sv htt?'  einarr
+svarar: 'noregr r hndi r, konungr!'  'eigi mun sv
+mikill brestr at orinn,' sgir konungr, 'tak boga minn, ok
+skjt af,' ok kastai boganum til hans.  einarr tk bogann,
+ok dr egar fyrir odd rvarinnar, ok mlti: 'ofveikr,
+ofveikr allvalds boginn!' ok kastai aptr boganum; tk 
+skjld sinn ok sver, ok barisk.
+
+lfr konungr tryggvason st  lypting  orminum, ok
+skaut optast um daginn, stundum bogaskoti, en stundum
+gaflkum, ok jafnan tveim snn.  hann s fram  skipit, ok
+s sna mnn reia sverin ok hggva ttt, ok s at illa bitu;
+mlti  htt: 'hvrt reii r sv slliga sverin, er ek s
+at ekki bta yr?'  mar svarar: 'sver vr eru sl ok
+brotin mjk.'   gekk konungr ofan  fyrirrmit ok lauk
+upp hstis-kistuna, tk ar r mrg sver hvss, ok fekk
+mnnum.  en er hann tk nir hinni hgri hndi,  s
+mnn at bl rann ofan undan bryn-stkunni; en engi vissi
+hvar hann var srr.
+
+mest var vrnin  orminum ok mannskust af fyrirrms-
+mnnum ok stafnbum; ar var hvrttvggja, valit mest
+mann-flkit ok hst borin.  en li fell fyrst um mitt skipit.
+ok  er ftt st manna upp um siglu-skei,  r eirkr
+jarl til upp-gngunnar, ok kom upp  orminn vi fimtnda [*]
+mann.   kom  mt honum hyrningr, mgr lfs konungs,
+me sveit manna, ok var ar inn harasti bardagi, ok lauk
+sv, at jarl hrkk ofan aptr  barann; en eir mnn er
+honum hfu fylgt fellu sumir, en sumir vru srir.  ar
+var nn in snarpasta orrosta, ok fellu  margir mnn 
+orminum.  en er yntisk skipan  orminum til varnarinnar,
+ r eirkr jarl annat sinn til uppgngu  orminn.  var
+ nn hr vi-taka.  en er etta s stafnbar  orminum,
+ gengu eir aptr  skipit, ok snask til varnar mti jarli, ok
+veita hara vitku.  en fyrir v at  var sv mjk fallit
+li  orminum, at va vru au borin, tku  jarls mnn
+va upp at ganga.  en alt at li er  st upp til varnar
+ orminum stti aptr  skipit, ar sem konungr var.
+
+kolbjrn stallari gekk upp  lypting til konungs; eir
+hfu mjk lkan kla-bna ok vpna, kolbjrn var ok [*]
+allra manna mestr ok frastr.  var n nn  fyrirrminu
+in snarpasta orrosta.  en fyrir  sk at  var sv mikit
+flk komit upp  orminn af lii jarls sem vera mtti  skipinu,
+en skip hans lgu at llum megin utan at orminum, en
+ltit fjl-mnni til varnar mti sv miklum hr, n tt eir
+mnn vri bi strkir ok frknir,  fellu n flestir  ltilli
+stundu.  en lfr konungr sjlfr ok eir kolbjrn bir
+hljpu  fyrir bor, ok  sitt bor hvrr.  en jarls mnn
+hfu lagt utan at sm-sktur, ok drpu  er  kaf hljpu.
+ok  er konungr sjlfr hafi  kaf hlaupit, vildu eir taka
+hann hndum, ok fra eirki jarli.  en lfr konungr br
+yfir sik skildinum, ok steypisk  kaf; en kolbjrn stallari
+skaut undir sik skildinum, ok hlfi sr sv vi vpnum er
+lagt var af skipum eim er undir lgu, ok fell hann sv
+ sinn at skjldrinn var undir honum, ok komsk hann v
+eigi  kaf sv skjtt, ok var hann hand-tkinn ok drginn
+upp  sktuna, ok hugu eir at ar vri konungrinn.  var
+hann  leiddr fyrir jarl.  en er ess var jarl varr at ar
+var kolbjrn, en eigi lfr konungr,  vru kolbirni gri
+gefin.  en  essi svipan hljpu allir fyrir bor af orminum,
+eir er  vru  lfi, lfs konungs mnn; ok sgir hall-
+frer vandra-skld, at orkll nfja, konungs brir, hljp
+sast allra manna fyrir bor.
+
+sv var fyrr ritat, at sigvaldi jarl kom til fruneytis vi
+lf konung  vindlandi, ok hafi tu skip, en at hit ellifta,
+er  vru mnn strar konungs-dttur, konu jarls.  en
+ er lfr konungr hafi fyrir bor hlaupit,  pi
+hrrinn allr sigr-p, ok  lustu eir rum  s sigvaldi
+jarl ok hans mnn, ok rru til bardaga.  en s vinda-
+snkkjan, er strar mnn vru , rri brott ok aptr undir
+vindland; ok var at margra manna ml egar, at lfr
+konungr mundi hafa steypt af sr brynjunni  kafi, ok kafat
+sv t undan langskipunum, lagizk san til vindasnkkj-
+unnar, ok hfi mnn strar flutt hann til lands.  ok
+eru ar margar fr-sagnir um frir lfs konungs grvar
+san af sumum mnnum.  en hvrn veg sem at hfir
+verit,  kom lfr konungr tryggvason aldri san til rkis
+ noregi.
+
+
+vii. auun
+
+mar ht auun, vest-firzkr at kyni ok f-ltill; hann fr
+utan vestr ar  fjrum me um-ri orsteins bnda gs,
+ok ris stri-manns, er ar hafi egit vist of vetrinn me
+orsteini.  auun var ok ar, ok starfai fyrir honum ri,
+ok  essi laun af honum--utan-frina ok hans um-sj.
+hann auun lagi mestan hluta fjr ess er var fyrir mur
+sna, r hann stigi  skip, ok var kveit  riggja vetra
+bjrg.  ok n fara eir utan hean, ok frsk eim vel, ok
+var auun of vetrinn ptir me ri strimanni; hann tti
+b  mri.  ok um sumarit ptir fara eir t til grn-lands,
+ok eru ar of vetrinn.  ess er vi getit at auun kaupir
+ar bjarn-dri eitt, grsimi mikla, ok gaf ar fyrir alla
+eigu sna.  ok n of sumarit ptir  fara eir aptr til
+noregs, ok vera vel rei-fara; hfir auun dr sitt me
+sr, ok tlar n at fara sur til danmrkr  fund sveins
+konungs, ok gefa honum drit.  ok er hann kom sur 
+landit, ar sem konungr var fyrir,  gngr hann upp af [*]
+skipi, ok leiir ptir sr drit, ok leigir sr hr-brgi.  haraldi
+konungi var sagt brtt at ar var komit bjarndri, grsimi
+mikil, 'ok  s-lnzkr mar.'  konungr sndir egar mnn
+ptir honum, ok er auun kom fyrir konung, kvr hann
+konung vel; konungr tk vel kvju hans, ok spuri san:
+'ttu grsimi mikla  bjarndri?'  hann svarar, ok kvezk
+eiga drit eitthvrt.  konungr mlti: 'villtu slja oss drit
+vi slku veri sem  keyptir?'  hann svarar: 'eigi vil ek
+at, herra!'  'villtu ,' sgir konungr, 'at ek gefa r tvau [*]
+ver slk, ok mun at rttara, ef  hfir ar vi gefit alla
+na eigu.'  'eigi vil ek at, herra!' sgir hann.  konungr
+mlti: 'villtu gefa mr ?'  hann svarar: 'eigi, herra!'
+konungr mlti: 'hvat villtu  af gra?'  hann svarar:
+'fara,' sgir hann, 'til danmrkr, ok gefa sveini konungi.'
+haraldr konungr sgir: 'hvrt er, at  ert mar sv vitr
+at  hfir eigi heyrt fri ann er  milli er landa essa,
+ea tlar  giptu na sv mikla, at  munir ar komask
+me grsimar, er arir f eigi komizk klakk-laust,  at
+nau-syn eigi til?'  auun svarar: 'herra! at er  yru
+valdi, en engu jtum vr ru en essu er vr hfum r
+tlat.'   mlti konungr: 'hv mun eigi at til, at  farir
+lei na, sem  vill, ok kom  til mn, er  frr aptr,
+ok sg mr, hvrsu sveinn konungr launar r drit, ok
+kann at vera, at  sr gfu-mar.'  'v heit ek r,'
+sagi auun.
+
+hann frr n san sur me landi, ok  vk austr, ok 
+til danmrkr; ok er  uppi hvrr pnningr fjrins, ok verr
+hann  bija matar bi fyrir sik ok fyrir drit.  hann
+kmr  fund r-manns sveins konungs, ess er ki ht,
+ok ba hann vista nakkvarra bi fyrir sik ok fyrir drit:
+'ek tla,' sgir hann, 'at gefa sveini konungi drit.'  ki
+lzk slja mundu honum vistir, ef hann vildi.  auun kvezk
+ekki til hafa fyrir at gefa; 'en ek vilda ,' sgir hann, 'at
+etta kvmisk til leiar at ek mtta drit fra konungi.'
+'ek mun f r vistir, sem it urfi til konungs fundar;
+en ar  mti vil ek eiga hlft drit, ok mttu  at lta,
+at drit mun deyja fyrir r, ars it urfu vistir miklar, en
+f s farit, ok er bit vi at  hafir  ekki drsins.'  ok [*]
+er hann ltr  etta, snisk honum nakkvat ptir sem [*]
+rmarinn mlti fyrir honum, ok sttask eir  etta, at
+hann slr ka hlft drit, ok skal konungr san meta alt
+saman.  skulu eir fara bir n  fund konungs; ok sv
+gra eir: fara n bir  fund konungs, ok stu fyrir
+borinu.  konungr hugi, hvrr essi mar myndi vera,
+er hann kndi eigi, ok mlti san til auunar: 'hvrr
+er-tu?' sgir hann.  hann svarar: 'ek em slnzkr mar,
+herra,' sgir hann, 'ok kominn n utan af grnlandi, ok n [*]
+af noregi, ok tlaa-k at fra yr bjarndri etta; keypta-k
+at me allri eigu minni, ok n er   orit mikit fyrir
+mr; ek  n hlft eitt drit,' ok sgir konungi san, hvrsu
+farit hafi me eim ka rmanni hans.  konungr mlti:
+'er at satt, ki, er hann sgir?'  'satt er at,' sgir hann.
+konungr mlti: 'ok tti r at til liggja, ar sem ek
+stta-k ik mikinn mann, at hpta at ea tlma er mar
+grisk til at fra mr grsimi, ok gaf fyrir alla eign, ok
+s at haraldr konungr at ri at lta hann fara  frii, ok er
+hann vrr vinr?  hygg  at , hv sannligt at var innar
+handar, ok at vri makligt, at  vrir drepinn; en ek
+mun n eigi at gra, en braut skaltu fara egar r landinu,
+ok koma aldri aptr san mr  aug-sn!  en r, auun!
+kann ek slka kk, sem  gefir mr alt drit, ok ver hr
+me mr.'  at kkisk hann, ok er me sveini konungi
+um hr.
+
+ok er liu nakkvarir stundir,  mlti auun vi konung:
+'braut fsir mik n, herra!'  konungr svarar hldr seint:
+'hvat villtu ,' sgir hann, 'ef  vill eigi me oss vera?'
+hann sgir: 'sur vil ek ganga.'  'ef  vildir eigi sv gott
+r taka,' sgir konungr, ' myndi mr fyrir ykkja , er 
+fsisk  braut'; ok n gaf konungr honum silfr mjk mikit,
+ok fr hann sur san me rm-frlum, ok skipai konungr
+til um fr hans, ba hann koma til sn, er kvmi aptr.
+n fr hann frar sinnar, unz hann kmr sur  rma-borg.
+ok er hann hfir ar dvalizk, sem hann tir,  frr hann
+aptr; tkr  stt mikla, grir hann  kafliga magran;
+gngr  upp alt fit at, er konungr hafi gefit honum
+til frarinnar; tkr san upp staf-karls stg, ok bir sr
+matar.  hann er  kollttr ok hldr -slligr; hann kmr
+aptr  danmrk at pskum, angat sem konungr er 
+staddr; en ei ori hann at lta sj sik; ok var  kirkju-
+skoti, ok tlai  til fundar vi konung, er hann gengi
+til kirkju um kveldit; ok n er hann s konunginn ok
+hirina fagrliga bna,  ori hann eigi at lta sj sik.
+ok er konungr gekk til drykkju  hllina,  mataisk auun
+ti, sem sir er til rmfrla, mean eir hafa eigi kastat staf
+ok skreppu.  ok n of aptaninn, er konungr gekk til kveld-
+sngs, tlai auun at hitta hann, ok sv mikit sem honum
+tti fyrr fyrir, jk n miklu , er eir vru druknir
+hirmnninir; ok er eir gengu inn aptr,  ki konungr
+mann, ok ttisk finna at eigi hafi frama til at ganga fram
+at hitta hann.  ok n er hirin gekk inn,  veik konungr
+t, ok mlti: 'gangi s n fram, er mik vill finna; mik
+grunar at s muni vera marinn.'   gekk auun fram,
+ok fell til fta konungi, ok varla kndi konungr hann; ok
+egar er konungr veit, hvrr hann er, tk konungr  hnd
+honum auuni, ok ba hann vel kominn, 'ok hfir  mikit
+skipazk,' segir hann, 'san vit smk'; leiir hann ptir sr
+inn, ok er hirin s hann, hlgu eir at honum; en konungr
+sagi: 'eigi urfu r at honum at hlja, v at btr hfir
+hann st fyr sinni sl hldr en r.'   lt konungr gra [*]
+honum laug, ok gaf honum san hli, ok er hann n me
+honum.  at er n sagt einhvrju sinni of vrit at konungr
+br auuni at vera me sr -lngar, ok kvezk myndu
+gra hann skutil-svein sinn, ok lggja til hans ga viring.
+auun sgir: 'gu akki yr, herra! sma ann allan er
+r vili til mn lggja; en hitt er mr  skapi at fara t
+til slands.'  konungr sgir: 'etta snisk mr undarliga
+kosit.'  auun mlti: 'eigi m ek at vita, herra!' sgir
+hann, 'at ek hafa hr mikinn sma me yr, en mir mn [*]
+troi stafkarls stg t  slandi; v at n er lokit bjrg eiri
+er ek laga til, r ek fra af slandi.'  konungr svarar:
+'vel er mlt,' sgir hann, 'ok mannliga, ok muntu vera
+giptu-mar; essi einn var sv hlutrinn, at mr myndi eigi [*]
+mis-lka at  frir  braut hean; ok ver n me mr ar til
+er skip bask.'  hann grir sv.
+
+einn dag, er  lei vrit, gekk sveinn konungr ofan 
+bryggjur, ok vru mnn  at, at ba skip til missa landa,
+ austr-veg ea sax-land, til svjar ea noregs.   koma
+eir auun at einu skipi fgru, ok vru mnn at, at ba
+skipit.   spuri konungr: 'hvrsu lzk r, auun! 
+etta skip?'  hann svarar: 'vel, herra!'  konungr mlti:
+'etta skip vil ek r gefa, ok launa bjarndrit.'  hann
+akkai gjfina ptir sinni kunnustu; ok er lei stund, ok
+skipit var albit,  mlti sveinn konungr vi auun: '
+villtu n  braut,  mun ek n ekki ltja ik, en at hfi ek
+spurt, at ilt er til hafna fyrir landi yru, ok eru va rfi ok
+htt skipum; n brtr , ok tnir skipinu ok fnu; ltt sr
+at  , at  hafir fundit svein konung, ok gefit honum
+grsimi.'  san sldi konungr honum ler-hosu fulla af
+silfri, 'ok ertu  nn eigi f-lauss me llu, tt  brjtir
+skipit, ef  fr haldit essu.  vera m sv nn,' sgir
+konungr, 'at  tnir essu f; ltt ntr   ess, er 
+fannt svein konung, ok gaft honum grsimi.'  san dr
+konungr hring af hndi sr, ok gaf auuni, ok mlti: '
+at sv illa veri, at  brjtir skipit ok tnir fnu, eigi
+ertu flauss, ef  kmsk  land, v at margir mnn hafa
+gull  sr  skips-brotum, ok sr  at  hfir fundit svein
+konung, ef  hldr hringinum; en at vil ek ra r,'
+sgir hann, 'at  gefir eigi hringinn, nema  ykkisk eiga
+sv mikit gott at launa nkkurum gfgum manni,  gef
+eim hringinn, v at tignum mnnum smir at iggja, ok
+far n heill!'
+
+san ltr hann  haf, ok kmr  noreg, ok ltr flytja
+upp varna sinn, ok urfti n meira vi at en fyrr, er
+hann var  noregi.  hann frr n san  fund haralds
+konungs, ok vill fna at er hann ht honum, r hann
+fr til danmrkr, ok kvr konung vel.  haraldr konungr
+tk vel kvju hans, ok 'szk nir,' sgir hann, 'ok drekk
+hr me oss'; ok sv grir hann.   spuri haraldr kon-
+ungr: 'hvrju launai sveinn konungr r drit?'  auun
+svarar: 'v, herra! at hann  at mr.'  konungr sagi:
+'launat mynda ek r v hafa; hvrju launai hann nn?'
+auun svarar: 'gaf hann mr silfr til sur-gngu.'   sgir
+haraldr konungr: 'mrgum mnnum gefr sveinn konungr
+silfr til surgngu ea annarra hluta, tt ekki fri honum
+grsimar; hvat er nn fleira?'  'hann bau mr,' sgir
+auun, 'at grask skutilsveinn hans, ok mikinn sma til
+mn at lggja.'  'vel var at mlt,' sgir konungr, 'ok
+launa, myndi hann nn fleira.'  auun sagi: 'gaf hann mr
+knrr me farmi eim er hingat er bzt varit  noreg.'  at
+var str-mannligt,' sgir konungr, 'en launat mynda ek r
+v hafa.  launai hann v fleira?'  auun svarai: 'gaf
+hann mr lerhosu fulla af silfri, ok kva mik  eigi flausan,
+ef ek helda v,  at skip mitt bryti vi sland.'  konungr
+sagi: 'at var -gtliga grt, ok at mynda ek ekki grt
+hafa; lauss mynda ek ykkjask, ef ek gfa er skipit; hvrt
+launai hann fleira?'  'sv var vst, herra!' sgir auun,
+'at hann launai: hann gaf mr hring enna er ek hfi
+ hndi, ok kva sv mega at berask, at ek tnda fnu
+llu, ok sagi mik  eigi flausan, ef ek tta hringinn,
+ok ba mik eigi lga, nema ek tta nkkurum tignum manni
+sv gott at launa, at ek vilda gefa; en n hfi ek ann
+fundit, v at  ttir kost at taka hvrttvggja fr mr,
+drit ok sv lf mitt, en  lzt mik fara angat  frii,
+sem arir nu eigi.'  konungr tk vi gjfinni me blu,
+ok gaf auuni  mti gar gjafir, r en eir skilisk.
+auun vari fnu til slands-frar ok fr t egar um
+sumarit til slands, ok tti vera inn mesti gfumar.
+
+
+vii. ryms-kvia
+
+1. vreir var  ving-rr,    er hann vaknai,
+   ok sns hamars    of saknai:
+   skgg nam at hrista,    skr nam at dja,
+   r jarar burr    um at reifask.
+
+2. ok hann at ora    alls fyrst of kva:
+   'heyr-u n, loki!    hvat ek n mli,
+   er engi veit    jarar hvrgi [*]
+   n upp-himins:    ss er stolinn hamri!'
+
+3. gengu eir fagra    freyju tna, [*]
+   ok hann at ora    alls fyrst of kva:
+   'muntu mr, freyja!    fjar-hams lj,
+   ef ek minn hamar    mtta-k hitta?'
+
+                     freyja kva:
+
+4.  munda-k gefa r,    tt r gulli vri,
+   ok- slja    at vri r silfri.' [*]
+
+5. fl  loki,    fjarhamr duni,
+   unz fyr utan kom    sa gara,
+   ok fyr innan kom    jtna heima.
+
+6. rymr sat  haugi,    ursa drttinn,
+   greyjum snum    gull-bnd snri
+   ok mrum snum    mn jafnai.
+
+                     rymr kva:
+
+7. 'hvat er me sum?    hvat er me lfum?
+   hv er-tu einn kominn     jtunheima?'
+
+                     loki kva:
+
+   'ilt er me sum,    ilt er me lfum;
+   hfir  hl-ria    hamar of flginn?'
+
+                     rymr kva:
+
+8. 'ek hfi hlria    hamar of flginn
+   tta rstum    fyr jr nean;
+   hann engi mar    aptr of heimtir,
+   nema fri mr    freyju at kvn.' [*]
+
+9. fl  loki,    fjarhamr duni,
+   unz fyr utan kom    jtna heima
+   ok fyr innan kom    sa gara;
+   mtti hann r    mira gara,
+   ok hann at ora    alls fyrst of kva:
+
+10. 'hfir  rindi    sem rfii?
+   sg-u  lopti    lng tindi:
+   opt sitjanda    sgur of fallask,
+   ok liggjandi    lygi of bllir.'
+
+                     loki kva:
+
+11. 'hfi-k rfii    ok rindi:
+   rymr hfir inn hamar,    ursa drttinn;
+   hann engi mar    aptr of heimtir,
+   nema honum fri    freyju at kvn.'
+
+12. ganga eir fagra    freyju at hitta,
+   ok hann at ora    alls fyrst of kva:
+   'bitt-u ik, freyja,    brar lni!
+   vit skulum aka tvau     jtunheima.'
+
+13. vrei var  freyja    ok fnsai,
+   allr sa salr    undir bifisk,
+   stkk at it mikla    mn brsinga:
+   'mik veizt-u vera    ver-gjarnasta,
+   ef ek k me r     jtunheima.'
+
+14. snn vru sir    allir  ingi
+   ok synjur    allar  mli,
+   ok of at ru    rkir tvar,
+   hv eir hlria    hamar of stti.
+
+15.  kva at heimdallr,    hvtastr sa
+   (vissi hann vel fram,    sem vanir arir):
+   'bindum vr r     brar lni,
+   hafi hann it mikla    mn brsinga!
+
+16. ltum und honum    hrynja lukla
+   ok kvenn-vir    of kn falla,
+   en  brjsti    breia steina,
+   ok hagliga    of hfu typpum!'
+
+17.  kva at rr,    rugr ss:
+   'mik munu sir    argan kalla,
+   ef ek bindask lt    brar lni.'
+
+18.  kva at loki,    laufeyjar sonr:
+   'gi  [n], rr!    eira ora;
+   egar munu jtnar    sgar ba,
+   nema  inn hamar    r of heimtir.'
+
+19. bundu eir r     brar lni
+   ok inu mikla    mni brsinga.
+
+20. ltu und honum    hrynja lukla
+   ok kvenn-vir    of kn falla,
+   en  brjsti    breia steina,
+   ok hagliga    of hfu typu.
+
+21.  kva at loki,    laufeyjar sonr:
+   'mun ek ok me r    ambtt vera,
+   vit skulum aka tvr     jtunheima.'
+
+22. snn vru hafrar    heim of reknir,
+   skyndir at skklum,    skyldu vel rnna:
+   bjrg brotnuu,    brann jr loga,
+   k ins sonr     jtunheima.
+
+23.  kva at rymr,    ursa drttinn:
+   'standi upp, jtnar!    ok stri bkki!
+   n fra mr    freyju at kvn,
+   njarar dttur,    r na-tnum.
+
+24. ganga hr at gari    gull-hyrndar kr,
+   xn al-svartir    jtni at gamni;
+   fjl  ek meima,    fjl  ek mnja,
+   einnar mr freyju    vant ykkir.'
+
+25. var ar at kveldi    of komit snimma,
+   ok fyr jtna    l fram borit;
+   einn t oxa,    tta laxa,
+   krsir allar,    r er konur skyldu,
+   drakk sifjar verr    sld rj mjaar.
+
+26.  kva at rymr,    ursa drttinn:
+   'hvar sttu brir    bta hvassara?
+   sk-a-k brir    bta breiara,
+   n inn meira mj    mey of drekka.'
+
+27. sat in al-snotra    ambtt fyrir,
+   er or of fann    vi jtuns mli:
+   't vtr freyja    tta nttum,
+   sv var hon -fs     jtunheima.'
+
+28. laut und lnu,    lysti at kyssa,
+   en hann utan stkk    nd-langan sal:
+   'hv eru ndtt    augu freyju?
+   ykkir mr r augum    eldr of brnna.'
+
+29. sat in alsnotra    ambtt fyrir,
+   er or of fann    vi jtuns mli:
+   'svaf vtr freyja    tta nttum,
+   sv var hon fs     jtunheima.'
+
+30. inn kom in arma    jtna systir,
+   hin er br-fjr    of bija ori:
+   'lttu r af hndum    hringa raua,
+   ef  lask vill    stir mnar,
+   stir mnar,    alla hylli!'
+
+31.  kva at rymr,    ursa drttinn:
+   'beri inn hamar    bri at vgja,
+   lggi mjllni     meyjar kn,
+   vgi okkr saman    vrar hndi!'
+
+32. hl hlria    hugr  brjsti,
+   er har-hugar    hamar of ki;
+   rym drap hann fyrstan,    ursa drttin,
+   ok tt jtuns    alla lami.
+
+33. drap hann ina ldnu    jtna systur,
+   hin er brfjr    of beit hafi;
+   hon skell of hlaut    fyr skillinga,
+   en hgg hamars    fyr hringa fjl.
+   sv kom ins sonr    ndr at hamri.
+
+
+notes
+
+the references marked gr. are to the paragraphs of the grammar.
+
+i. thor
+
+line 3. *hann  ar rki er r-vangar heita*, 'he reigns
+(there) where it is called .,' i.e. in the place which is called
+.  the plur. _heita_ agrees with _rvangar_, as in l. 14
+below: _at eru jrnglfar_ 'that is (his) iron gloves.'
+
+l. 5. *at er hs mest, sv at mnn hafa grt*, 'that is the
+largest house, so that men have made (it),' i.e. the largest
+house that has been built.  note the plur. _hs_ of a single
+house; each chamber was originally regarded as a house, being
+often a detached building.
+
+l. 13. *spnnir eim*, gr.  154; cp. 2. 49.
+
+
+ii. thor and tgaraloki
+
+l. 1. *fr me hafra sna...ok me honum s, ss er...*  we
+see here that _me_ generally takes an acc. to denote passive,
+and a dat. to denote voluntary accompaniment.
+
+l. 5. *soit* refers to some such subst. as _sltr_ (meat)
+understood.
+
+l. 11. *sprtti ...* __ is here an adv.
+
+l. 12. *til mrgjar.*  _til_ here implies intention--to get at
+the marrow.
+
+l. 20. *at er s augnanna*, 'the little he saw of the eyes.'--
+thor frowned till his eyebrows nearly covered his eyes, and the
+man felt as if he were going to fall down dead at the mere sight
+of them.
+
+l. 21. the second *hann* refers, of course, to thor.
+
+l. 34. *til myrkrs*, till it was dark.
+
+l. 36. *eir*, the masc. instead of the neut. pl., as in l. 32
+*foll.*, showing that _leituu_ is meant to refer only to the men
+of the party, and not to include rskva.  (gr.  179.)
+
+l. 46. *sr hvar l mar*, 'saw where a man lay,' i.e. saw a man
+lying.
+
+l. 51. *einu sinni*, for once in his life.
+
+l. 52. *nfndisk skrmir*, said his name was skr.
+
+l. 66. *bi til* (_prp._) *ntt-verar yr*, prepare supper for
+yourselves.
+
+l. 77. *er at r satt at sgja*.  _satt_ is in apposition to
+_at_--'that is to be told you as the truth, (namely) that...'
+
+l. 88. *sj sik*, see himself alive.
+
+l. 104. *ann* = _ann veg_, that way, course.
+
+l. 108. *at sirnir bi  heila hittask*.  the full sense is,
+'that thor and loki expressed a wish that they and skrmir might
+meet again safe and sound.'
+
+ll. 111, 112. *sttu hnakkann  bak sr aptr*, threw back the
+backs of their heads till they touched their backs, i.e. threw
+back their heads.
+
+l. 118. *rit stra*, 'rather big,' i.e. very big.
+
+l. 120. *glotti um tnn*, 'grinned round a tooth,' i.e. showed
+his teeth in a malicious grin.  two mss. read _vi_ instead of
+_um_.
+
+l. 121. *er annan veg en ek hygg, at...?*  is it otherwise than
+as i think, namely that...?  i.e. am i not right in thinking
+that...?
+
+l. 127. *engi er hr s inni er...* = engi er hr-inni s-er...
+
+l. 129. *freista skal*, gr.  192.
+
+l. 140. *kallar ess meiri vn at hann s...*  'says that there
+is more probability of that, namely that he is...than of the
+contrary,' i.e. says that he will have to be...
+
+l. 150. *fthvatari en sv*, 'more swift-footed than so--under
+these circumstances,' i.e. than you.
+
+l. 156. *ok er jlfl eigi  kominn...* =  er jlfi eigi
+kominn...
+
+l. 172. *at sinni*, this time.
+
+l. 172. *hann*, acc.
+
+l. 173. *laut r horninu*, bent back from the horn.
+
+l. 188. *mestr* refers to _drykkr_ understood.
+
+l. 218. *kalli*, gr.  192.
+
+l. 241. ** refers to _uni_.
+
+
+iii. balder
+
+l. 7. *engi* agrees with _dmr_.
+
+
+iv. the death of balder
+
+l. 11. *hann*, acc.
+
+l. 20. *ungr*, too young.
+
+l. 31. *-happ* is in apposition to _at_; cp. 3. 7.
+
+ll. 33, 34. *vru me einum hug til...*  had the same feelings
+towards.
+
+l. 36. *var...fyrr*, was beforehand, prevented.
+
+l. 42. *vili*, subj. 'whether he will';--change of construction.
+
+l. 55. *nema*, 'unless,' here = 'until.'
+
+l. 89. *heim*.  this use of _heim_ in the sense of 'someone
+else's home.' is frequent.  cp. our 'drive a nail home.'
+
+l. 94. *sv* refers to _ok ef allir hlutir..._, the _ok_ being
+pleonastic.
+
+l. 108. *hvar*, cp. 2. 46.
+
+l. 113. *karl*, 'old man,' here = odin.
+
+
+v. hinn and hegni
+
+l. 6. *hinn* = hann; this use of a proper name instead of a
+pronoun is frequent.
+
+l. 9. *ar*.  cp. 1. 3.
+
+
+vi. the death of olaf tryggvason
+
+l. 17. *sv at*, so that, i.e. just when.
+
+l. 30. *er*, namely that.
+
+l. 33. *austan at sigla*, is in a kind of apposition to
+_frina_.
+
+l. 40. *sv*, also.
+
+l. 48. *muni fyrir*, awaits you, is impending.
+
+l. 53. *meira*, adv., better, faster.
+
+l. 149. *bar hann htt*, impers. w. acc.; he was in a conspicuous
+place.
+
+l. 244. *vi fimtnda mann*, one of fifteen, with fourteen men.
+
+l. 259. *vpna* is governed by the second half of the genitival
+compound _kla-bna_, which is here considered as two
+independent words.
+
+
+vii. auun
+
+l. 17. *var fyrir*, was to be found.
+
+l. 26. *tvau ver slk*, double the price you gave.
+
+l. 55. *f* is probably dat. here, but may be nom.
+
+l. 56. *ptir sem...*, according as, in accordance with what.
+
+l. 64. *n...n*, lately...just now.
+
+l. 116. *hldr* is here used pleonastically in a kind of
+apposition to the preceding _btr_.
+
+l. 125. *en*, and = while.
+
+l. 129. *essi einn var sv hlutrinn, at...*, this single thing
+is the case, namely that... i.e. the only thing is that...
+
+
+viii. rymskvia
+
+l. 7. *jarar* is governed by _hvrgi_.
+
+l. 9. *tna*.  poetical construction of gen. to denote goal of
+motion.
+
+l. 15. ** goes with the following _at_ = _ok slja, at_
+(_tt_) _vri r silfri_.
+
+l. 32. *fri* may be either sg. or pl. 3 pers.
+
+
+
+glossary
+
+ _follows_ a,  _follows_ d,  _follows_ e,  _follows_ o, 
+_follows_ o,  _follows_ ,  _follows_ t.
+
+the declensions of nouns are only occasionally given.
+
+(-rs) etc. means that the _r_ of the nom. is kept in inflection.
+
+a
+
+-a  _adv._ not.
+  _sf._ river.
+  _see_ *eiga*.
+  _prp. w. acc. and dat._ on, in.
+r  _adv., cj._ before.
+arir  _see_ *annar*.
+sir  _see_ *ss*.
+tla  _wv._ 3, consider, deem: 'tlask fyrir,' intend.
+tt  _sf._ 2, race, descent, family.
+tta  _see_ *eiga*.
+af  _prp. w. dat._ from; of; with; _adv._ 'drekka af,' drink off.
+af-hs  _sn._ out-house, side room.
+afl  _sn._ strength, might.
+af-taka  _wf._ damage, injury.
+gtliga  _adv._ splendidly.
+aka  _sv._ 2, drive (a chariot, etc.).
+kafliga  _adv._ vehemently, hard--'kalla a.' call loudly.
+akarn  _sn._ acorn.
+akkeri  _sn._ anchor.
+lar-ndir  _sm._ thong-end, end of a strap.
+al-binn  _adj. w. gen._ quite ready.
+aldinn  _adj._ old.
+aldri  _adv._ never.
+-lngar  _adv._ for some time.
+lfr  _sm._ elf.
+-lit  _snpl._ appearance, countenance [lta].
+all-harr  _adj._ very hard, very violent.
+all-ltill  _adj._ very little.
+all-mann-skr  _adj._ (very injurious to men), very murderous
+    (of a battle) [skai, 'injury'].
+all-mikill  _adj._ very great.
+allr  _adj._ all, whole; 'me llu,' entirely; 'alls fyrst,'
+    first of all.
+all-strum  _adv._ very greatly.
+all-valdr  _sm._ monarch, king.
+al-snotr  _adj._ very clever.
+al-svartr  _adj._ very black, coal-black.
+alt  _adv._ quite.
+ambtt  _sf._ 2, female slave, maid.
+and-lit  _sn._ face [lta].
+annarr  _prn._ second; following, next; other; one of the two--
+    'annar...annarr,' one...the other.
+aptann  _sm._ evening.
+aptastr  _adj._ most behind.
+aptr  _adv._ back, backwards, behind.
+r  _sf._ oar.
+r  _sn._ year.
+r  _see_ **.
+argr  _adj._ cowardly, base.
+r-mar  _sm._ steward.
+armr  _adj._ wretched.
+s-mgin  _sn._ divine strength.
+ss  _sm._ 3, (scandinavian) god.
+st  _sf._ 2, affection, love, _often in pl._
+st-sll  _adj._ beloved, popular.  [sll, 'happy'].
+synja  _wf._ (scandinavian) goddess [ss].
+t  _see_ *eta*.
+at  _prp. w. dat._ at, by; to, towards, up to; for; in accordance
+    with, after.
+at  _adv._ to.
+-at  _adv._ not.
+at-laga  _wf._ attack [lggja].
+at-rr (-rar)  _sm._ 2, rowing against, attack.
+tta  _num._ eight.
+tta  see *eiga*.
+au-kndr  _adj._ easy to be recognized, easily distinguishable.
+aur  _adj._ desert, deserted, without men.
+au-snn  _adj._ evident.
+auga  _wn._ eye.
+aug-sn  _sf._ sight.
+auka  _sv._ 1, increase; _impers., w. dat. of what is added_ 'jk
+    n miklu ,' much was added to it (his hesitation increased).
+austan  _adv._ from the east.
+aust-mar  _sm._ easterner, norwegian.
+austr  _sn._ the east--' au.,' eastwards.
+austr  _adv._ eastwards.
+austr-vegr  _sm._ the east, _especially_ russia.
+valt  _adv._ continually, all the time.
+-vanr  _adj._ wanting; _impers. neut. in_ 'einnar mr freyju
+    vant ykkir,' freyja alone i seem to want.
+-vinnr  _adj._ toilsome, _only in the impers. neut._ 'mun -vint
+    vera um sxin,' it will be a hard fight at the prow.
+
+b
+
+ba  _see_ *bija*.
+bir  _prn._ both, _neut. as adv. in_ 'bi...ok,' both...and.
+bu  _see_ *bija*.
+ba  _see_ *bija*.
+bi  _see_ *bir*.
+baggi  _wm._ bag; bundle.
+bak  _sn._ back, 'vrja eitt baki,' defend a thing with the back,
+    i.e. turns one's back to it = be a coward.
+bak-bori  _wm._ larboard.
+bl  _sn._ flame; funeral pile.
+bl-fr  _sf._ funeral.
+bani  _wm._ death.
+bar  _see_ *bera*.
+bardagi  _wm._ battle.
+bar  _sn._ edge, rim; projection in the prow of a ship formed by
+    the continuation of the keel.
+bara  _see_ *brja*.
+bari  _wm._ war-ship with a sharp prow, ram.
+barn  _sn._ child.
+batt  _see_ *binda*.
+bau  _see_ *bja*.
+beia  _wv._ 1, _w. gen. of thing and dat. of pers. benefited_,
+    ask, demand.
+bein  _sn._ bone.
+bkkr  _sm._ 2, bench.
+blla  _wv._ 1, occupy oneself with, deal in, _generally in a bad
+    sense_.
+bera  _sv._ 4, carry, take; bear, endure.  berask at, happen.
+    b. fram, bring forward, out.  b. vpn nir, shoot down.  b.
+    r sn saman, hold council, deliberate.
+berg-risi  _wm._ hill-giant.
+brja  _wv._ 1b, strike--'b. grjti,' stone.  *brjask*, fight.
+brr  _adj._ bare, unsheathed (of a sword).
+ber-srkr  _sm._ 2, wild fighter, champion.  [literally
+    'bear-shirt,' i.e. one clothed in a bear's skin.]
+btr  _see_ *vel*.
+btri  _see_ *gr*.
+bzt  _see_ *vel*.
+bztr  _see_ *gr*.
+beygja  _wv._ 1, bend, arch.
+ba  _sv._ 6, _w. gen._ wait for; _w. acc._ abide, undergo.
+bija  _sv._ 5, ask, beg, pray, _w. gen. of thing, acc. of the
+    pers. asked, and dat. of the person benefited_; express a
+    wish, bid--'ba hann vel kominn' (vera _understood_), bad
+    him welcome; call on, challenge, command, tell.
+bifask  _wv._ 1, tremble, shake.
+bil  _sn._ moment of time.
+bila  _wv._ 2, fail.
+bilt  _neut. adj. only in the impers._ 'einum verr bilt,' one
+    hesitates, is taken aback, is afraid.
+binda  _sv._ 3, bind, tie up; dress.
+birta  _wv._ 1, show [bjartr].
+bta  _sv._ 6, bite; cut.
+bittu  _see_ *binda*.
+bitu  _see_ *bta*.
+bjarn-dri  _sn._ bear.
+bjartr  _adj._ bright, clear.
+bj  _see_ *ba*.
+bja  _sv._ 7, _w. acc. and dat._ offer, propose--'b. einum
+    fang,' challenge to wrestling; invite.  b. upp, give up.
+bjrg  _sf._ help; means of subsistence, store of food.
+blsa  _sv._ 1, blow; blow trumpet as signal.
+bleya  _wf._ coward.
+bla  _wf._ gentleness, friendliness.
+blindr  _adj._ blind.
+bl  _sn._ blood.
+blt-bolli  _wm._ sacrificial bowl.
+btr  _see_ *bt*.
+boga-skot  _sn._ bowshot.
+bogi  _wm._ bow.
+bog-mar  _sm._ bowman, archer.
+bndi  _sm._ 4, yeoman, householder, (free) man [ba].
+bor  _sn._ side of a ship, board; rim, the margin between the
+    rim of a vessel and the liquid in it--'n er gott beranda
+    b.  horninu,' now there is a good margin for carrying the
+    horn, i.e. its contents are so diminished that it can be
+    lifted without spilling.
+borg  _sf._ fortress, castle.
+borg-hli  _sn._ castle gate.
+bt  _sf._ 3, mending, improvement; _plur._ *btr*,
+    compensation.
+brn  _see_ *barn*.
+br  _sf._ eyelid.
+br  _see_ *brega*.
+brag  _sn._ trick, stratagem [brega].
+brann  _see_ *brnna*.
+brast  _see_ *bresta*.
+brtt  _adv._ quickly.
+braut  _sf._ way--* braut*, _adv._ away.
+braut  _see_ *brjta*.
+braut, brott  _adv._ away.
+brega  _sv._ 3, _w. dat._ jerk, pull, push; b. upp, lift, raise
+    (to strike). change, transform.
+breir  _adj._ broad.
+brnna  _wf._ burning; incremation.
+brnna  _sv._ 3, burn _intr._
+brnna  _wv._ 1, burn _trans._
+bresta  _sv._ 3, break, crack, burst.
+brestr  _sm._ crack; loss.
+brjst  _sn._ breast.
+brjta  _sv._ 7, break--'b. (skip)' suffer shipwreck, _also
+    impers._ 'skip (acc.) brtr,' the ship is wrecked.
+broddr  _sm._ point.
+brir  _sm._ 4, brother.
+brotinn  _see_ *brjta*.
+brotna  _wv._ 3, break _intr._
+brott  _see_ *braut*.
+brott-laga  _sf._ retreat.
+br  _sf._ bridge.
+br-f  _sn._ bridal gift.
+brr  _sf._ 2, bride.
+brn  _sf._ 3, eyebrow.
+bryggja  _wf._ pier.
+brynja  _wf._ corslet.
+brnn  _see_ *brn*.
+bryn-stka  _wf._ corslet-sleeve.
+bryti  _see_ *brjta*.
+brtr  _see_ *brjta*.
+b  _sn._ dwelling, home.
+ba  _sv._ 1, dwell; inhabit, possess, prepare.  *bask*, get
+    ready, prepare _intr._ 'er bit vi at...' it is likely to
+    be that..., there is danger of...
+buu  _see_ *bja*.
+binn  _adj._ ready; in a certain condition--'(vi) sv bit'
+    _adv._ under such circumstances; capable, fit for--'vel at
+    sr binn,' very capable, very good (at).
+bundu  _see_ *binda*.
+burr  _sm._ son.
+br  _see_ *bja*.
+br  _see_ *ba*.
+byrja  _wv._ 3, begin.
+byr-vnn  _adj._ promising a fair wind.
+
+d
+
+daga  _wv._ 3, dawn.
+dagan  _sf._ dawn.
+dagr  _sm._ day.
+dalr  _sm._ valley.
+daur  _adj._ dead.
+dgi  _see_ *dagr*.
+deyja  _sv._ 2, die.
+djpr  _adj._ deep.
+d  _see_ *deyja*.
+dmr  _sm._ decision.
+dttir  _sf._ 3, daughter.
+dgurr  _sm._ breakfast [-ur = -verr, _cp._ nttverr].
+dkkr (-vir)  _adj._ dark.
+draga  _sv._ 2, draw, drag.  d. saman, collect.
+drakk  _see_ *drekka*.
+drap  _see_ *drepa*.
+draumr  _sm._ dream.
+drginn  _see_ *draga*.
+dreif  _see_ *drfa*.
+drki  _wm._ dragon; dragon-ship, ship with a dragon's head as a
+    beak.
+drekka  _sv._ 3, drink.
+drepa  _sv._ 5, strike; kill.
+dreyma  _wv._ 1, _impers. w. acc. of pers. and acc. of the thing_
+    dream [draumr].
+drfa  _sv._ 6, drive; hasten.
+drjpa  _sv._ 7, drop.
+dr  _see_ *draga*.
+drgu  _see_ *draga*.
+drttinn  _sm._ lord.
+drttin-hollr  _adj._ faithful to its master.
+drukkinn  _adj. (ptc.)_ drunk.
+drupu  _see_ *drjpa*.
+drykkja  _wf._ drinking [drekka].
+drykkju-mar  _sm._ drinker.
+drykkr  _sm._ 2, draught.
+duna  _wv._ 3, resound.
+duni  _see_ *dynja*.
+dvala  _see_ *dvlja*.
+dvlja  _wv._ 1b, delay.  *dvljask*, dwell, stop.
+dvergr  _sm._ dwarf.
+dyrill  _sm._ (?).
+dja  _wv._ 1b, shake.
+dynja  _wv._ 1b, resound.
+dr  _sn._ animal, beast.
+dyrr  _sfnpl._ door.
+
+e
+
+ea  _cj._ or.
+ef  _cj._ if.
+fna  _wv._ 1, perform, carry out.
+ggja  _wv._ 3, incite.
+eir  _sm._ oath.
+eiga  _wf._ property.
+eiga  _swv._ possess, have: have as wife, be married to; have _in
+    the sense of_ must.
+eigi  _adv._ not; no.
+eign  _sf._ property.
+eignask  _wv._ 3, appropriate, gain.
+eik  _sf._ 3, oak.
+einka-ml  _snpl._ personal agreement, special treaty.
+einn  _num., prn._ one; the same; a certain, a; alone, only--
+    'einn saman,' alone, mere.
+einn-hvrr  _prn._ a certain, some, a.
+eira  _wv._ 1, _w. dat._ spare.
+eitr  _sn._ poison.
+ek  _prn._ i.
+k  _see_ *aka*.
+ekki  _prn. neut._ nothing; _adv._ not.
+eldr  _sm._ fire.
+lli  _wf._ old age.
+ellifti  _adj._ eleventh.
+ellifu  _num._ eleven.
+em  _see_ *vera*.
+en  _cj._ but; and.
+en  _adv._ than, _after compar._
+ndask  _wv._ 1, end, suffice for.
+ndi, ndir  _sm._ end.
+nd-langr  _adj._ the whole length--'ndlangan sal,' the whole
+    length of the hall.
+ndr  _adv._ again.
+engi  _prn._ none, no.
+nn  _adv._ yet, still; besides; after all.
+ptir  _prp. w. acc._ after (of time).  _w. dat._ along, over;
+    in quest of, after; according to, by.  _adv._ afterwards;
+    behind [aptr].
+ptri  _adj. compar._ hind.
+er  _prn. rel._ who, which, _rel. adv._ where; when; because,
+    that.
+er  _see_ *vera*.
+er  _see_ **.
+rfii  _sn._ work; trouble.
+ert  _see_ *vera*.
+eru  _see_ *vera*.
+eta  _sv._ 5, eat.
+ey  _sf._ island.
+
+f
+
+f  _sv._ 1, grasp; receive, get; give; be able.  *fsk*,
+    wrestle.  *fsk *, be obtained, be.
+fair  _sm._ 4, father.
+fr  _see_ *f*.
+fstr  _see_ *fr*.
+fagnar  _sm._ 2, joy; entertainment, hospitality.
+fagr  _adj._ beautiful, fair, fine.
+fagrliga  _adv._ finely.
+fall  _sn._ fall.
+falla  _sv._ 1, fall.  *fallask*, be forgotten, fail.
+fang  _sn._ embrace, grasp; wrestling.
+fann  _see_ *finna*.
+fr  _adj._ few--_neut._ ftt _w. gen._: 'ftt manna,' few men.
+fara  go, travel--_w. gen. in such constr. as_ 'f. frar
+    sinnar,' go his way; fare (well, ill); happen, turn out;
+    experience; 'f. me einu,' deal with, treat; destroy, use
+    up _w. dat._  *farask* _impers. in_ 'frsk eim vel,' they
+    have a good passage.
+farmr  _sm._ lading, cargo.
+fastr  _adj._ firm, fast, strong.
+f  _sn._ property, money.
+frum  _see_ *fair*.
+fekk  _see_ *f*.
+fgr  _sf._ beauty [fagr].
+fgrstr  _see_ *fagr*.
+feikn-stafir  _smpl._ 2, wickedness.
+fela  _sv._ 3, hide.
+flagi  _wm._ companion.
+f-lauss  _adj._ penniless.
+f-ltill  _adj._ with little money, poor.
+fell  _see_ *falla*.
+flla  _wv._ 1, fell, throw down; kill [falla].
+fengu, fnginn  _see_ *f*.
+fr  _see_ *fara*.
+fr  _sf._ 2, journey [fara].
+fer-skeyttr  _adj._ four-cornered.
+fimm  _num._ five.
+fimtndi  _adj._ fifteenth.
+finna  _sv._ 3, find; meet, go to see; notice, see.
+fjar-hamr  _sm._ feathered (winged) coat.
+fjall  _sn._ mountain.
+fjr  _see_ *f*.
+fjara  _sf._ ebb-tide; beach.
+fjogur  _see_ *fjrir*.
+fjri  _adj._ fourth.
+fjrir  _num._ four.
+fjl  _wf._ quantity.
+fjl-kyngi  _sn._ magic.
+fjl-mnni  _sn._ multitude; troop [mar].
+fjrr  _sm._ 3, firth.
+fjrur  _see_ *fjara*.
+fl  _sv._ 2, flay, skin.
+flaug  _see_ *fljga*.
+flginn  _see_ *fl*.
+flestr  _see_ *margr*.
+fljta  _sv._ 7, float, drift.
+fljga  _sv._ 7, fly.
+fl  _see_ *fljga*.
+floti  _wm._ fleet [fljtal.
+fltti  _wm._ flight [flja].
+flugu  _see_ *fljga*.
+fluttu  _see_ *flytja*.
+flja  _wv._ 1, flee.
+flytja  _wv._ 1b. remove, bring.
+fnsa  _wv._ 3, snort.
+fra  _wv._ 1, bring, take; fasten [fara].
+frir  _see_ *fara*.
+fti  _see_ *ft*.
+flginn  _see_ *fela*.
+flk  _sn._ multitude, troop; people.
+fr  _see_ *fara*.
+for-tlur  _wpl._ representations, arguments [tala].
+fstra  _wf._ nurse.
+ft-hvatr  _adj._ swift-footed.
+ftr  _sm._ foot; leg.
+fur  _see_ *fair*.
+fr  _sf._ journey [fara].
+fru-neyti  _sn._ company [njta].
+fr  _prp._ from, away from; about, concerning.  ' fr' _adv._
+    away.
+frndi  _sm._ 4, relation.
+fr-fall  _sn._ death.
+fram  _adv._ forward, forth.  _compar._ *framar*, ahead.
+framastr  _adj. superl._ chief, most distinguished.
+frami  _wm._ advantage, courage.
+framir  _see_ *frmja*.
+fram-stafn  _sm._ prow.
+fr-sgn  _sf._ narrative, relation.
+freista  _wv._ 3, _w. gen._ try, test.
+frmja  _wv._ 1b, perform [fram].
+frir  _sm._ 2, peace.
+frr  _adj._ beautiful, fine.
+frr  _adj._ learned, wise.
+frkn  _adj._ bold, daring.
+frost  _sn._ frost.
+fugl  _sm._ bird.
+full-kominn  _adj._ (_ptc._) complete; ready (for).
+fullr  _adj._ full.
+fundr  _sm._ 2, meeting [finna].
+fundu  _see_ *finna*.
+furu  _adv._ awfully, very.
+fss  _adj._ eager.
+fylgja  _wv._ 1, _w. dat._ follow; accompany.
+fylki  _sn._ troop [flk].
+fylkja  _wv._ 1, _w. dat._ draw up (troops) [flk].
+fylla  _wv._ 1, fill [fullr].
+fyr, fyrir  _prp. w. acc. and dat._ before; beyond, over--'f.
+    bor,' overboard; instead of--'koma f.'  _adv._ be given as
+    compensation; for; because of.  'f. v at,' because.
+    'ltill. f. sr,' insignificant.
+fyrir-rm  _sn._ fore-hold, chief-cabin.
+fyrirrms-mar  _sm._ man in the fore-hold.
+fyrr  _adv. compar._ before, formerly.  _superl._ *fyrst*, first.
+fyrri  _adj. compar._ former.  _superl._ *fyrstr*, first.
+fsa  _wv._ 1, hasten _trans.--impers._ 'braut fsir mik,' i feel
+    a desire to go away [fss].
+
+g
+
+g  _wv._ 1, _w. gen._ heed, care for.
+gfa  _wf._ luck [gefa].
+gta  _wv._ 1, watch, take care of [geta].
+gaf  _see_ *gefa*.
+gfu-mar  _sm._ lucky man.
+gaflak  _sn._ javelin.
+gamall  _adj._ old.
+gaman  _sn._ amusement, joy.
+ganga  _sv._ 1, go, _with gen. of goal in poetry_; attack--'g. 
+    skip,' board a ship.  g. af, be finished.  g. til, come up.
+    g. upp, land; board a ship; be used up, expended (of money).
+garr  _sm._ enclosure, court; dwelling.
+gat  _see_ *geta*.
+gefa  _sv._ 5, give.
+ggnum,  ggnum  _prp. w. gen._ through.
+gekk  _see_ *ganga*.
+glti  _see_ *gltr*.
+gnginn, gngr, gengu  _see_ *ganga*.
+geta  _sv._ 5, _w. gen._ mention, speak of; guess, suppose.
+geysi  _adv._ excessively.
+gipta  _wf._ luck [gefa].
+giptu-mar  _sm._ lucky man.
+gjafar  _see_ *gjf*.
+gjf  _sf._ gift.
+glotta  _wv._ 2, smile maliciously, grin.
+glsiligr  _adj._ magnificent.
+gnr  _sm._ din, noise.
+gr  _adj._ good--'gott er til eins,' it is easy to get at,
+    obtain.
+glf  _sn._ floor; apartment, room.
+gott  _see_ *gr*.
+gfugr  _adj._ distinguished [gefa].
+gltr  _sm._ 3, boar.
+gmul  _see_ *gamall*.
+gra  _wv._ 1c, do, make.  *grask*, set about doing; be made
+    into, become.  *gra at*, accomplish, carry out.
+grsimi  _wf._ article of value, treasure.
+granda  _wv._ 3, _w. dat._ injure.
+grr  _adj._ gray.
+gras  _sn._ grass; plant, flower.
+grta  _sv._ 1, weep, mourn for.
+grtr  _sm._ weeping.
+greia  _wv._ 1, put in order, arrange.
+greip  _see_ *grpa*.
+gres-jrn  _sn._ iron wire (?).
+grey  _sn._ dog.
+gri  _snpl._ peace, security.
+gria-star  _sm._ sanctuary.
+grind  _sf._ 3, lattice door, wicket.
+grpa  _sv._ 6, seize.
+gripr  _sm._ 2, article of value, treasure.
+grjt  _sn._ stone (collectively).
+gra  _sv._ 1, grow; heal.
+grr  _see_ *gra*.
+gruna  _wv._ 3, _impers._--'mik grunar,' i suspect, think.
+grunr  _sm._ 2, suspicion.
+gull  _sn._ gold.
+gull-band  _sn._ gold band.
+gull-binn  _adj._ adorned with gold.
+gull-hringr  _sm._ gold ring.
+gull-hyrndr  _adj._ (_ptc._) with gilt horns.
+gull-roinn  _adj._ (_ptc._) gilt.
+ggr  _sf._ giantess.
+gyltr  _adj._ (_ptc._) gilt.
+gyra  _wv._ 1, gird.
+
+h
+
+hstr  _see_ *hr*.
+htta  _wv._ 1, _w. dat._ desist from, stop.
+httligr  _adj._ dangerous, threatening.
+httr  _adj._ dangerous.
+haf  _sn._ sea.
+hafa  _wv._ 1, have; 'h. einn nr einu,' bring near to, expose
+    to; use, utilize.  at hafask, undertake.  til hafa, have at
+    hand.
+hafna  _see_ *hfn*.
+hafr  _sm._ goat.
+hafr-staka  _wf._ goatskin.
+hagliga  _adv._ neatly.
+hagr  _sm._ condition; advantage--'r mun h.  vera,' will avail
+    thee, be profitable to you.
+hag-str  _adj._ favourable.
+halda  _sv._ 1, _w. dat._ hold (also with prp. __); keep.  _w.
+    acc._ observe, keep (laws, etc.).  _intr._ take a certain
+    direction, go.
+hlfr  _adj._ half.
+hlfu  _adv._ by half, half as much again.
+hallar  _see_ *hll*.
+hallar-glf  _sn._ hall floor.
+haltr  _adj._ lame.
+hamarr  _sm._ hammer.
+hamars-mur  _sm._ thin end of hammer.
+hamar-skapt  _sn._ handle of a hammer.
+hamar-spor  _sn._ mark made by a hammer.
+hana  _see_ *hann*.
+handar  _see_ *hnd*.
+hand-skot  _sn._ throwing with the hand.
+hand-tkinn  _ptc. pret._ taken by hand, taken alive.
+hann  _prn._ he.
+hr  _sn._ hair.
+hr  _adj._ high.
+har-hugar  _adj._ stern of mood.
+harr  _adj._ hard; strong.
+har-skeytr  _adj._ strong-shooting [skjta].
+harmr  _sm._ grief.
+hski  _wm._ danger.
+h-sti  _sn._ high seat, dais [sitja].
+hstis-kista  _sf._ chest under the dais.
+htt  _adv._ high; loudly.
+haugr  _sm._ mound.
+hauss  _sm._ skull.
+hean  _adv._ hence.
+hfi  _see_ *hafa*.
+hfja  _sv._ 2, raise, lift; begin.
+hfna  _wv._ 1, _w. gen._ revenge, avenge.
+heill  _adj._ sound, safe, prosperous.
+heil-ri  _sn._ sound advice, good advice [r].
+heim  _adv._ to one's home, home (domum).
+heima  _adv._ at home (domi).
+heima-mar  _sm._ man of the household.
+heim-fss  _adj._ longing to go home, homesick.
+heimr  _sm._ home, dwelling; world.
+heimta  _wv._ 1, fetch, obtain, get back.
+heita  _sv._ 1, call; _w. dat. of pers. and dat. of thing_
+    promise; _intr._ (_pres._ heiti) be named, called.
+hldr  _see_ *halda*.
+hldr  _adv. compar._ more willingly, rather, sooner, more;
+    rather, very.
+hl-grindr  _sf._ the doors of hell.
+hllir  _sm._ cave.
+helt  _see_ *halda*.
+hl-vegr  _sm._ road to hell.
+hlzt  _adv. superl._ most willingly, soonest, especially, most
+    [hldr].
+hndi, hndr  _see_ *hnd*.
+hnnar, hnni  _see_ *hann*.
+hpta  _wv._ 1, bind; hinder, stop.
+hr  _adv._ here--'h. af,' etc. here-of.
+hr-bergi  _sn._ quarters, lodgings.
+hra  _wv._ harden, clench.
+hr-fang  _sn._ booty.
+hrja  _wv._ 3, make war, ravage [hrr].
+hrr  _sm._ army, fleet.
+herra  _sm._ lord.
+hr-skip  _sn._ war-ship.
+hestr  _sm._ horse.
+ht  _see_ *heita*.
+heyra  _wv._ 1, hear.
+himinn  _sm._ heaven.
+hingat  _adv._ hither.
+hinn  _prn._ that.
+hir  _sf._ court.
+hir-mar  _sm._ courtier.
+hiti  _wm._ heat.
+hitta  _wv._ come upon, find, meet; _trans._ go to.  *hittask*,
+    meet, _intr._
+hj  _prp. w. dat._ by, at; in comparison with.
+hjlmr  _sm._ helmet.
+hjn  _snpl._ household.
+hlaa  _sv._ 2, load, heap up; 'h. seglum,' take in sails.
+hlja  _sv._ 2, laugh.
+hlaupa  _sv._ 1, jump, leap; run.
+hlaut  _see_ *hljta*.
+hleyp  _see_ *hlaupa*.
+hleypa  _wv._ 1, make to run (i.e. the horse), gallop.
+hlf  _sf._ shield.
+hlfa  _wv._ 1, _w. dat._ shelter, cover, protect.
+hljp  _see_ *hlaupa*.
+hljta  _sv._ 7, get, receive.
+hlu  _see_ *hlaa*.
+hlgu  _see_ *hlja*.
+hlunnr  _sm._ roller (for launching ships).
+hluti  _wm._ portion [hljta].
+hlutr  _sm._ 2, share; portion, part, piece; thing [hljta].
+hlut-skipti  _sn._ booty.
+hnakki  _wm._ back of head.
+hf  _see_ *hfja*.
+hollr  _adj._ gracious, faithful.
+hlmr  _sm._ small island.
+hon  _see_ *hann*.
+honum  _see_ *hann*.
+horn  _sn._ horn.
+hgri  _adj. compar._ right (hand).
+hla  _wv._ 1, _w. dat._ praise, boast of.
+hfingi  _wm._ chief [hfu].
+hfa-fjl  _sf._ head-board (especially of a bedstead).
+hfu  _see_ *hafa*.
+hfn  _sf._ harbour.
+hfu  _sn._ head.
+hgg  _sn._ stroke.
+hgg-ormr  _sm._ viper.
+hgg-orrosta  _wf._ 'cutting-fight,' hand-to-hand fight.
+hggva  _sv._ 1, hew, cut, strike.
+hll  _sf._ hall.
+hnd  _sf._ 3, hand; side--'hvrra-tvggju handar,' on both
+    sides, for both parties.
+hrddr  _adj._ frightened, afraid [_ptc._ of hrask].
+hrask  _wv._ 1, be frightened, fear.
+hrzla  _wf._ fear [hrask].
+hrafn  _sm._ raven.
+hratt  _see_ *hrinda*.
+hrau  _see_ *hrja*.
+hraut  _see_ *hrjta*.
+hreyfa  _wv._ 1, move.
+hr  _sf._ period of time.
+hrm-urs  _sm._ frost giant.
+hrinda  _sv._ 3, push, launch (ship).
+hrista  _wv._ 1, shake.
+hrja  _sv._ 7, strip, clear, disable.
+hrjta  _sv._ 7, start, burst out.
+hrkk  _see_ *hrkkva*.
+hrkkva  _sv._ 3, start back.
+hryi  _see_ *hrjta*.
+hrynja  _wv._ 1b. fall down.
+hrtr  _see_ *hrjta*.
+huga  _see_ *hyggja*.
+hugi  _wm._ thought.
+hugr  _sm._ mind, heart; courage, spirit.
+hugsa  _wv._ 3, consider, think.
+hundra  _sn._ hundred.
+hur  _sf._ 2, door.
+hs  _sn._ room; house.
+hvar  _adv._ where; that.
+hvrr  _prn._ which of two; each of the two, both.
+hvrr-tvggja  _prn._ each of the two, both.
+hvrt  _adv._ whether, _both in direct and indirect questions_.
+hvrt-tvggja  _adv._ 'hv...ok,' both...and.
+hvass  _adj._ sharp.
+hvat  _prn. neut._ what.
+hvart  _adj._ brisk, bold.
+hv  _adv._ how.
+hverfa  _sv._ 3, turn, go.
+hvr-gi  _adv._ nowhere--'hv. jarar,' nowhere on earth; in no
+    respect, by no means.
+hvrnig  _adv._ how [= hvrn veg.].
+hvrr  _prn._ who.
+hvrsu  _adv._ how.
+hv  _adv._ why.
+hvirfill  _sm._ crown of head.
+hvtna  _wv._ 2, whiten.
+hvtr  _adj._ white.
+hyggja  _wv._ 1b. think, mean, determine [hugr].
+hylli  _wf._ favour [hollr].
+
+i
+
+  _prp._ in.
+-huga  _wv._ 3, try to remember, consider [hugr].
+illa  _adv._ ill, badly.
+illr  _adj._ ill, bad.
+inn  _art._ the.
+inn  _adv._ in _compar._ *innar*, further in.
+inna  _wv._ 1, accomplish.
+innan  _adv._ within, inside.  *fyrir innan* _prp. w. gen._
+    within, in.
+inni  _adv._ in.
+it  _see_ **.
+it  _see_ *inn*.
+-rtt  _sf._ feat.
+
+j
+
+jafn-breir  _adj._ equally broad.
+jafn-hfugr  _adj._ equally heavy [hfja].
+jafn-mikill  _adj._ equally great.
+jafn-skjtt  _adv._ equally quick.
+jafna  _wv._ 3, smooth; compare _w. dat. of thing compared._
+jafnan  _adv._ always.
+jarl  _sm._ earl.
+jrn  _sn._ iron.
+jrn-glfi  _sm._ iron gauntlet.
+jrn-spng  _sf._ iron plate.
+jta  _wv._ 1, _w. dat._ agree to.
+jk  _see_ *auka*.
+jr  _sf._ earth.
+jtun-heimar  _smpl._ home, world of the giants.
+jtunn  _sm._ giant.
+
+k
+
+kr-leikr  _sm._ love, affection [krr, 'dear'].
+kaf  _sn._ diving; deep water, water under the surface.
+kafa  _wv._ 3, dive.
+kalla  _wv._ 3, cry out, call; assert, maintain; name, call.
+kann  _see_ *kunna*.
+kapp  _sn._ competition.
+karl  _sm._ man; old man.
+kasta  _wv._ 3, cast, throw.
+kaupa  _wv._ 2, buy.
+kngr  _sm._ bend.
+knna  _wv._ 1, know; perceive.
+krling  _sf._ old woman [karl].
+krra  _wf._ chariot.
+ktill  _sm._ kettle.
+keypta  _see_ *kaupa*.
+keyra  _wv._ 1, drive.
+kirkja  _wf._ church.
+kirkju-skot  _sn._ wing of a church.
+kjsa  _sv._ 7, choose.
+klakk-laust  _adv._ uninjured.
+kla  _wv._ 1, clothe.
+kla-bnar  _sm._ apparel.
+kli  _snpl._ clothes.
+kn  _sn._ knee.
+knfr  _sm._ knife.
+knrr  _sm._ merchant-ship.
+kni  _see_ *knja*.
+kni  _wm._ knuckle.
+kntr  _sm._ knot.
+knja  _wv._ 1b, press with knuckles or knees; exert oneself
+    [kni].
+klf-skot  _sn._ (distance of a) bolt-shot.
+kollttr  _adj._ bald.
+koma  _sv._ 4. come; happen, turn out; _w. dat._ bring into a
+    certain condition.  *k. fyrir*, be paid in atonement.
+    *komask*, make one's way (by dint of exertion).
+kona  _wf._ woman; wife.
+konr  _sm._ kind--'alls konar,' all kinds; 'nakkvars konar,' of
+    some kind.
+konunga-stfna  _wf._ congress of kings.
+konungr  _sm._ king.
+konungs-dttir  _sf._ king's daughter.
+konungs-skip  _sn._ king's ship.
+kosinn  _see_ *kjsa*.
+kost-gripr  _sm._ precious thing, treasure.
+kostr  _sm._ 2, choice--'at ru kosti,' otherwise; power
+    [kjsa].
+kgur-sveinn  _sm._ little boy, urchin.
+kpp  _see_ *kapp*.
+kpur-yri  _sn._ boasting [or].
+kttr  _sm._ 3, cat.
+km  _see_ *koma*.
+krappa-rm  _sn._ back cabin.
+krappr  _adj._ narrow.
+kraptr  _sm._ strength.
+krs  _sf._ 2, delicacy.
+krfja  _wv._ 1b, _w. acc. of pers. and gen. of thing_, demand.
+kunna  _swv._ know; feel; venture; like to.
+kunnandi  _wf._ knowledge, accomplishments.
+kunnusta  _wf._ knowledge, power.
+kunnr  _adj._ known.
+kurr  _sm._ murmur, rumour.
+kvi  _sn._ poem.
+kvma  _see_ *koma*.
+kvn  _sf._ wife.
+kvea  _sv._ 5, say.  *kv. * settle, agree on.
+kvja  _wf._ salutation [kvea].
+kvja  _wv._ 1b, greet.
+kveld  _sn._ evening--' kv.,' this evening.
+kveld-sngr  _sm._ vespers.
+kvenn-vir  _sfpl._ woman's clothes.
+kvir  _sm._ 3, stomach, belly.
+kvisa  _wv._ 3, whisper.
+kvistr _sm._ 3, branch, twig.
+kvddu  _see_ *kvja*.
+kykr (-vir)  _adj._ living.
+kykvendi  _sn._ living creature, animal.
+kll  _sm._ bag.
+kyn  _sn._ race, lineage.
+kr  _sf._ 3, cow.
+kyssa  _wv._ 1, kiss.
+
+l
+
+l  _see_ *liggja*.
+lgri  _see_ *lgr*.
+lr-lggr  _sm._ thigh-bone.
+lt  _see_ *lta*.
+laga  _see_ *lggja*.
+lgr  _adj._ low; short of stature [liggja].
+lags-mar  _sm._ companion.
+lagu  _see_ *liggja*.
+lama, lamit  _see_ *lmja*.
+land  _sn._ land, country.
+land-skjlfti  _wm._ earthquake.
+langr  _adj._ long, far.
+lt  _snpl._ noise.
+lta  _sv._ 1, let go; leave; lose; allow; cause, let; behave,
+    act; say.
+lauf  _sn._ foliage.
+laufs-bla  _sn._ (blade of foliage), leaf.
+laug  _sf._ bath.
+laun  _snpl._ reward.
+launa  _wv._ 3, reward, requite _w. dat. of the thing given and
+    of the pers., and acc. of the thing requited._
+lauss  _adj._ loose; shaky, unsteady; free from obligation.
+laust  _see_ *ljsta*.
+laut  _see_ *lta*.
+lax  _sm._ salmon.
+ler-hosa  _wf._ leather bag.
+lggja  _wv._ 1b, lay, put; 'l. eitt fyrir einn,' give, settle
+    on; 'l. sik fram,' exert oneself; _intr. w._ skip
+    _understood_ sail, row--*l. at*, land; attack; *l. fr*,
+    retreat, draw off; pierce, make a thrust.  *lggjask*, set
+    out, proceed; swim [liggja].
+lei  _sf._ way--'koma einu til leiar,' carry out [la].
+lei  _see_ *la*.
+leia  _wv._ 1, lead, conduct [la].
+leiangr (-rs)  _sm._ levy [lei].
+leiga  _wv._ 1, borrow.
+leikr  _sm._ game; athletic sports, contest.
+leita  _wv._ 3, _w. gen. and dat._ seek; take to, have recourse
+    to.  *leitask*, feel one's way [lta].
+lmja  _wv._ 1b, break.
+lng  _sf._ length [langr].
+lngi  _adv._ long (of time) [langr].
+lngstr  _see_ *langr*.
+lt  _see_ *lta*.
+ltja  _wv._ 1b, _w. acc. of pers. and gen. of thing_, hinder,
+    dissuade.
+ltta  _wv._ 1, _w. dat._ lift.
+leyniliga  _adv._ secretly.
+leysa  _wv._ 1, loosen, untie, open [lauss].
+li  _sn._ troop.
+la  _sv._ 6, go; pass (of time); _impers._ *lr*, _w. dat._
+    fare, get on.  _impers._ 'lr  (nttina),' (the night) is
+    drawing to a close.
+lf  _sn._ life--' lfi,' alive.
+lifa  _wv._ 2, live.
+liggja  _sv._ 5, lie.  *l. til*, be fitting.
+lk  _sn._ body; corpse.
+lka  _wv._ 3, _w. dat._ please.
+lki  _sn._ form [lk].
+lking  _sf._ likeness, similarity [lkr].
+lknsamr  _adj._ gracious.
+lkr  _adj._ like.
+ln  _sn._ linen; linen headdress.
+list  _sf._ art.
+lta  _sv._ 6, look at; regard, consider--'l. til eins.' turn to,
+    acknowledge greeting.  *ltask* _impers. w. dat._ seem.
+litask  _wv._ 3, look round one [lta].
+ltill  _adj._ little, small--'ltit ver,' not very windy
+    weather.  *ltlu* _adv._ by a little, a little.
+ltil-ri  _sm._ degradation [r].
+litr  _sm._ 3, colour, complexion; appearance [lta].
+lzk  _see_ *lta*.
+lj  _wv._ 1, _w. gen. and dat._ lend.
+ljsta  _sv._ 7, strike, _w. dat. of instr. and acc. of the thing
+    struck_--'l. rum  s,' dip the oars into the sea, begin to
+    row.
+lofa  _wv._ 3, praise.
+lga  _wv._ 3, _w. dat._ part with.
+logi  _wm._ flame.
+lokinn  _see_ *lka*.
+lopt  _sn._ air--' l.,' up.
+lka  _sv._ 7, lock, close; _impers._ 'lkr einu,' it is
+    finished, exhausted.  'l. upp,' unlock, open.
+lukla  _see_ *lykill*.
+lustu  _see_ *ljsta*.
+lta  _sv._ 7, bend, bow.
+lygi  _wf._ lie, falsehood.
+lyk  _sf._ ending--'at lykum,' finally.
+lykill  _sm._ key [lka].
+lypta  _wv._ 1, _w. dat._ lift [lopt].
+lypting  _sf._ raised place (castle) on the poop of a warship
+    [lypta].
+lsa  _wv._ 1, shine.
+lsi-gull  _sn._ bright gold.
+lst  _see_ *ljsta*.
+lysta  _wv._ 1, _impers. w. acc._ desire.
+
+m
+
+m  _see_ *mega*.
+mar  _sm._ 4, man.
+mla (mlta)  _wv._ 1, speak--'m. vi einu,' refuse; suggest.
+mr  _sf._ virgin, maid.
+mtta  _see_ *mega*.
+magr (-ran)  _adj._ thin.
+mgr  _sm._ kinsman, relation, connection.
+makligr  _adj._ fitting.
+ml  _sn._ narrative; _in plur._ poem; proper time, time.
+mlmr  _sm._ metal.
+mann  _see_ *mar*.
+mann-flk  _sn._ troops, crew.
+mann-hringr  _sm._ ring of men.
+mannliga  _adv._ manlily.
+margr  _adj._ many, much.
+mark  _sn._ mark; importance.
+marka  _wv._ 3, infer.
+marr  _sm._ horse.
+mart  _see_ *margr*.
+matask  _wv._ 3, eat a meal.
+matr  _sm._ 2, food.
+mtta  _see_ *mega*.
+mttr  _sm._ 2, might, strength.
+me  _prp. w. acc. and dat._ with.
+meal  _s._ middle-- m.  _w. gen._ between.
+mean  _adv._ whilst.
+mega  _swv._ can, may.
+megin  --'rum m.,' on the other side; 'llum m.,' on all sides
+    [_corruption of_ vegum].
+mgin-gjarar  _sfpl._ girdle of strength [mega].
+meimar  _sfpl._ treasures.
+meiri  _see_ *mikill*.
+mn  _sn._ necklace, piece of jewelry.
+mnn  _see_ *mar*.
+mr  _see_ *ek*.
+mrgr  _sm._ 2, marrow.
+mrki  _sn._ mark; banner [mark].
+mest  _see_ *mikill*.
+meta  _sv._ 5, measure; estimate.
+mey  _see_ *mr*.
+mi-garr  _sm._ (middle enclosure), world.
+migars-ormr  _sm._ world-serpent.
+mir  _adj._ middle.
+mik  _see_ *ek*.
+mikill  _adj._ big, tall, great.  *mikit* _adv._ much, very.
+miklu  _adv._ (_instr._) much.
+milli,  milli  _prp._ between, among.
+minjar  _sfpl._ remembrance, memorial.
+minn  _see_ *ek*.
+minni  _see_ *ltill*.
+minnr  _adv._ less.
+mis-lka  _wv._ 3, _w. dat._ displease, not please.
+missa  _wf._ loss, want.
+missa  _wv._ 1, _w. gen._ lose; do without.
+mistil-teinn  _sm._ mistletoe [teinn, 'twig'].
+mitt  _see_ *ek*.
+mjr  _sm._ 3, mead.
+mjk  _adv._ very.
+mir  _sf._ 3, mother.
+mr  _sm._ anger.
+mtask  _wv._ 1, meet _intr._ [mt].
+mn  _sf._ mane.
+morginn  _sm._ morning.
+mrk  _sf._ 3, forest.
+mrum  _see_ *marr*.
+mt  _sn._ meeting.  * mti* _prp. w. dat._ against.
+mtu-neyti  _sn._ community of food--'lggja m. sitt,' make
+    their provision into a common store [matr; njta].
+mundu  _see_ *munu*.
+munnr  _sm._ mouth.
+munr  _sm._ difference--'eim mun,' to that extent.
+munu  _swv._ will, may (of futurity and probability).
+myndi  _see_ *munu*.
+myrkr  _sn._ darkness.
+myrkr  _adj._ dark.
+
+n
+
+n  _wv._ 1, reach, obtain; succeed in.
+nr  _adv. w. dat._ near; nearly.  _superl._ *nst*--'v n.,'
+    thereupon.
+ntr  _see_ *ntt*.
+nafn  _sn._ name.
+nakkvarr  _prn._ some, a certain.  *nakkvat* _adv._ somewhat;
+    perhaps.
+ntt  _sf._ 3, night.
+ntt-bl  _sn._ night-quarters.
+ntt-langt  _adv._ the whole night long.
+ntt-star  _sm._ night-quarters.
+nttra  _wf._ nature, peculiarity.
+ntt-verr  _sm._ 2, supper.
+nau-syn  _sf._ necessity.
+naut  _see_ *njta*.
+nean  _adv._ below.  *fyrir n.* _prp. w. dat._ below.
+nfja  _adj._ long-nosed (?).
+nfna  _wv._ 1, name, call.  *nfnask*, name oneself, give one's
+    name as [nafn].
+nema   _sv._ 4, take; begin.
+nema   _adv._ except, unless.
+nest   _sn._ provisions.
+nest-baggi  _sm._ provision-bag.
+nir  _adv._ down, downwards.
+nundi  _adj._ ninth.
+njsn  _sf._ spying; news.
+njsna  _wv._ 3, spy; get intelligence.
+njta  _sv._ 7, enjoy, profit.
+norr  _adv._ northwards.
+nkkvi  _wm._ vessel, small ship.
+n  _adv._ now; therefore, so.
+n-vaknar  _adj._ (_ptc._) newly awoke.
+nr  _adj._ new.
+nta  _wv._ 1, profit [njta].
+
+o
+
+oddr  _sm._ point.
+-fss  _adj._ madly eager.
+r  _adj._ mad, furious.
+pa  _wv._ 1, shout [p, 'shout'].
+rit  _adv._ enough; very.
+of  _prp. w. dat._ over; during; with respect to, about.  _adv._
+    too (of excess).
+of  _adv., often used in poetry as a mere expletive._
+of-veikr  _adj._ too weak.
+ofan  _adv._ above; down.
+ofan-verr  _adj._ upper, on the top.
+k  _see_ *aka*.
+ok  _conj._ and; also--'ok...ok,' both...and; but.
+okkr  _see_ **.
+opt  _adv._ often.  _compar._ *optar*, oftener, again.
+r  _prp. w. dat._ out of.
+or  _sn._ word--' ru ori,' otherwise.
+orinn  _see_ *vera*.
+or-snding  _sf._ verbal message.
+or-tak  _sn._ expression, word.
+ormr  _sm._ serpent, dragon; ship with a dragon's head.
+orrosta  _wf._ battle.
+oss  _see_ *ek*.
+tta  _wf._ the end of night, just before dawn.
+ttalaust  _adj._ without fear.
+x  _see_ *vaxa*.
+oxi  _wm._ ox.
+lask  _wv._ 3, obtain.
+ru  _see_ *annarr*.
+l  _sn._ ale.
+ldnu  _see_ *aldinn*.
+ndttr  _adj._ fierce.
+nd-vegi  _sn._ high seat, dais.
+nnur  _see_ *annar*.
+r  _sf._ arrow.
+r-fi  _sn._ harbourless coast.
+rendi  _sn._ errand.
+rendi  _sn._ holding the breath, breath.
+rind-reki  _sm._ messenger [reka].
+xn  _see_ *oxi*.
+
+p
+
+pati  _sm._ rumour.
+pnningr  _sm._ penny.
+
+r
+
+r  _sn._ advice; what is advisable--'sj eitt at ri,'
+    consider advisable; plan, policy, resolution.
+ra  _sv._ 1, advise, _w. acc. of thing and dat. of pers._;
+    consider, deliberate; undertake, begin _w. prp._ til _or
+    infin._; dispose of, have control over _w. prp._ fyrir.
+ra-gr  _sf._ deliberation, decision.
+rugr  _adj._ sagacious.
+ragna-rkr  _sn._ twilight of the gods, end of the world.  [ragna
+    _gen. of_ rgin _neut. plur._ 'gods.']
+ragr  _adj._ cowardly.
+rku  _see_ *reka*.
+rann  _see_ *rnna*.
+rs  _sf._ race.
+raur  _adj._ red.
+rausn  _sf._ magnificence, anything magnificent.
+r  _see_ *ra*.
+rei  _sf._ chariot.
+rei  _see_ *ra*.
+reia  _wv._ 1, swing, wield, brandish.
+rei-fara  _adj._--'vera vel r.,' have a good passage.
+reii  _sn._ trappings, harness.
+reir  _adj._ angry.
+reka  _sv._ 7, drive; carry out; perform.  'r. af tjld,' take
+    down awning.
+rkkja  _wf._ bed.
+rnna  _sv._ 3, run.
+rtta  _wv._ 1, direct; reach, stretch.  *r. upp*, pull up.
+rttr  _adj._ right, correct; equitable, fair.
+reyna  _wv._ 1, try, test.
+reyr-bnd  _supl._ the wire with which the arrow-head was bound
+    to the shaft.
+ra  _sv._ 6, _w. dat._ ride.
+riu  _see_ *ra*.
+rilask  _wv._ 3, set oneself in motion.
+rki  _sn._ power; sovereignty, reign.
+rkr  _adj._ powerful, distinguished.
+ripti  _sn._ linen cloth.
+rita  _wv._ 3, write.
+ra  _sv._ 1, row.
+ra  _wv._ 1, talk about, discuss.
+rra  _see_ *ra*.
+rst  _sf._ league.
+
+s
+
+s  _prn._ that; he; such, such a one.
+s  _see_ *sj*.
+sr  _sm._ sea.
+sra  _wv._ 1, wound [sr].
+sti  _sn._ seat [sitja].
+stt  _sf._ 2, reconciliation, peace.
+sttask  _wv._ 1, be reconciled, agree.
+saga  _wf._ narrative, history, story.
+saga  _see_ *sgja*.
+saka  _wv. impers. w. acc._--'hann (acc.) sakai ekki,' he was
+    not injured.
+sakna  _wv._ 3, _w. gen._ miss.
+sl  _sf._ 2, soul.
+sld  _sn._ gallon.
+salr  _sm._ 2, hall.
+saman  _adv._ together.
+sami  _weak adj._ same.
+sam-laga  _wf._ laying ships together for battle.
+samt  _adv._ together.
+sannligr  _adj._ probable; suitable, right.
+sannr  _adj._ true.
+sr  _sn._ wound.
+srr  _adj._ wounded.
+sat  _see_ *sitja*.
+satt  _see_ *sannr*.
+s  _see_ *vera*.
+s  _see_ *sj*.
+sefask  _wv._ 3, be pacified.
+sgja  _wv._ 1b, say, relate [saga].
+segl  _sn._ sail.
+seilask  _wv._ 1, stretch _intr._
+seinn  _adj._ late, slow, tedious.  *seint* _adv._ slowly.
+slja  _wv._ 1, give; sell.
+sem  _adv._ as; _w. subj._ as if; _to strengthen the
+    superl._--'sem mest,' the most possible, as much as possible.
+snda  _wv._ 1, send.
+sndi-mar  _sm._ messenger.
+snn  _adv._ at the same time, at once; immediately, forthwith.
+snn  _see_ *sj*.
+sr  _see_ *sik*.
+sr  _see_ *sj*.
+st  _see_ *sj*.
+set-berg  _sn._ seat-shaped rock, crag [sitja].
+stja  _wv._ 1, set, place.  *s. fram*, launch (a ship).
+    *stjask*, sit down.  *stjask upp*, sit up [sitja].
+s-byra  _wv._ 1, _w. dat._ lay a ship alongside another.
+    _neut. ptc._ *sbyrt*, close up to [bor].
+s  _adv._ late.  _comp._ sar, later, afterwards.  _superl._
+    *sast*, latest, last.
+sa  _wf._ side.
+san  _adv._ afterwards, then; since.
+sari  _adj. comp._ later, second (in order).
+sir  _sm._ 3, custom.
+sga  _sv._ 6, sink.
+sigla  _wf._ mast [segl].
+sigla  _wv._ 1, sail.
+siglu-skei  _sn._ middle of a ship.
+sigr (-rs)  _sm._ victory.
+sigr-p  shout of victory.
+sik  _prn._ oneself.
+silfr  _sn._ silver.
+sn  _see_ *sik*.
+sinn  _sn._ time (of repetition)--'einu sinni,' once, for once.
+    'eigi optar at sinni,' not oftener than that time, i.e. only
+    once.
+sinn  _see_ *sik*.
+sitja  _sv._ 5, sit.  *s. fyrir*, sit in readiness.
+sj = essi.
+sj  _sv._ 5, see; 's. fyrir einu,' look after, take care of.
+    _impers._ 'ltt sr at , at'...it will hardly be seen
+    that...  *sjsk*, see one another, meet.
+sjlfr  _prn._ self.
+sja  _sv._ 7, boil; cook.
+sjn  _sf._ sight.
+sjn-hvrfing  _sf._ ocular delusion.
+skal  _see_ *skulu*.
+skalf  _see_ *skjlfa*.
+skli  _wm._ hall.
+skammr  _adj._ short.
+skap  _sn._ state, condition; state of mind, mood, humour.
+skapligr  _adj._ suitable, fit.
+skapt  _sn._ shaft, handle.
+skar  _see_ *skera*.
+skar  _sn._ notch, gap; defect.
+skaut  _see_ *skjta*.
+skgg  _sn._ beard; beak (of a ship).
+skei  _sn._ race-course, running-ground; race--'taka sk.,' start
+    in a race.
+skeina  _wv._ 1, graze.
+skellr  _sm._ knock.
+skmtun  _sf._ amusement, entertainment [skammr, _literally
+    'shortening (of time)'_].
+skera  _sv._ 4, cut, cut up; kill (animal).
+skiljask  _wv._ 1, separate, part _intr._
+skillingr  _sm._ shilling, coin.
+skilnar  _sm._ separation, parting.
+skip  _sn._ ship.
+skipa  _wv._ 3, order, arrange, prepare, fit out.  'sk. til um
+    eitt,' make arrangements for.  *skipask*, take one's place;
+    change, alter _intr._
+skipa-hrr  _sm._ fleet.
+skipan  _sf._ arranging; ship's crew.
+skips-brot  _sn._ shipwreck.
+skip-stjrnar-mar  _sm._ (steerer), commander of a ship,
+    captain.
+skjald-borg  _sf._ wall of shields, testudo.
+skjlfa  _sv._ 3, shake _intr._
+skjta  _sv._ 7, _w. dat._ shoot, throw, push.
+skjt-fri  _sn._ swiftness.
+skjt-leikr  _sm._ swiftness.
+skjt-liga  _adv._ swiftly, quick.
+skjtr  _adj._ swift, quick.  *skjtt* _adv._ quickly.
+skjldr  _sm._ 3, shield.
+skgr  _sm._ forest, wood.
+skorta  _wv._ 1, _impers. w. acc. of pers. and of thing_, want,
+    fail.
+skot  _sn._ shot; missile [skjta].
+skot-ml  _sn._ shot-measure, range.
+skotta  _wv._ 3, dangle--sk. vi drift (of ships).
+skkull  _sm._ shaft (of a cart).
+skmm  _sf._ disgrace, shame.
+skr  _sf._ hair of the head.
+skreppa  _wf._ bag, wallet.
+skulfu  _see_ *skjlfa*.
+skulu  _swv._ shall.
+skuta  _wf._ small ship, cutter.
+skutill  _sm._ trencher, small table.
+skutil-sveinn  _sm._ page, chamberlain.
+skutu  _see_ *skjta*.
+skykkr  _sm._ shake--'ganga skykkjum,' shake.
+skylda  _see_ *skulu*.
+skyldr  _adj._ obliged, obligatory, bound [skulu].
+skyn  _sn._ understanding, insight--'kunna, sk.' understand.
+skynda  _wv._ 1, hasten, bring in haste.
+skyndiliga  _adv._ hastily, quickly.
+skynsamliga  _adv._ intelligently, carefully.
+skt  _see_ *skjta*.
+sl  _sv._ 2, strike.  'sl eldi ,' light a fire.
+slliga  _adv._ sluggishly, weakly.
+slr  _adj._ blunt.
+slr  _see_ *sl*.
+sltr  _sn._ meat.
+sleikja  _wv._ lick.
+sleit  _see_ *slta*.
+slttr  _adj._ level, smooth; comfortable, easy.
+slkr  _adj._ such.
+slta  _sv._ 6, tear--*sl. upp*, pull up; _w. dat._ break
+    (agreement).
+smri  _see_ *smr*.
+smr  _adj._ small, insignificant.
+sm-skip  _snpl._ small ships.
+sm-skta  _wf._ small cutter.
+smjga  _sv._ 7, squeeze through, slip.
+smugu  _see_ *smjga*.
+snarpligr  _adj._ vigorous.
+snarpr  _adj._ sharp; vigorous.
+snimma  _adv._ early.
+snra  _see_ *sna*.
+sna  _sv._ 1, _w. dat._ turn _or_ (_trans._) direct; twist,
+    plait.  *snask*, turn (_intr._).
+soinn  _see_ *sja*.
+skja  _wv._ 1c, seek; go--'s. aptr,' retreat.
+sm  _sf._ honour [sma].
+stti  _see_ *skja*.
+sofa  _sv._ 4, sleep.
+sofna  _wv._ 3, go to sleep.
+sgur  _see_ *saga*.
+sk  _sf._ cause--'fyrir  s. at'..., because.
+skkva  _sv._ 3, sink.
+sl  _sf._ sun.
+sl-skin  _sn._ sunshine.
+soltinn  _adj._ hungry [_ptc. of_ 'svelta,' starve].
+sma  _wv._ 2, _w. dat._, be suitable, befitting.
+smi  _wm._ honour.
+sonr  _sm._ son.
+stt  _sf._ illness.
+stta  _see_ *skja*.
+sx  _snpl._ raised prow of a war-ship.
+spala  _see_ *splr*.
+sparask  _wv._ 2, spare oneself, reserve one's energy.
+spnna (spnta)  _wv._ 1, _w. dat. of thing_, gird, buckle on.
+spjt  _sn._ spear.
+sporr  _sm._ tail.
+spori  _sm._ spur.
+splr  _sm._ rail.
+sprakk  _see_ *springa*.
+sprtta  _wv._ 1, split.
+springa  _sv._ 3, burst.
+spura  _see_ *spyrja*.
+spyrja  _wv._ 1b, ask; hear of, learn--'sp. til eins,' have news
+    of, hear of his arrival.  *spyrjask*, be known.
+spyrna  _wv._ 1, kick.
+staddr  _adj._ placed, staying [_ptc. of_ 'stja,' place].
+star  _sm._ place--' stainn,' instead.
+stafar  _adj._ (_ptc._) striped.
+staf-karl  _sm._ (staff-man), beggar.
+stafn  _sm._ prow.
+stafn-bi  _wm._ prow-man.
+stafn-l  _wm._ grappling-hook.
+stafr  _sm._ 2 (_gen. sg._ stafs), staff, stick.
+stakk  _see_ *stinga*.
+stallari  _sm._ marshall.
+standa  _sv._ 2, stand.  *st. upp*, stand up, rise.
+starfa  _wv._ 3, work.
+stfna  _wv._ 1, steer; take a course, go.
+steig  _see_ *stga*.
+steinn  _sm._ stone; jewel.
+stela  _sv._ 4, _w. dat. of thing and acc. of pers._ steal, rob.
+stndr  _see_ *standa*.
+strkliga  _adv._ vigorously.
+strkr  _adj._ strong.
+steypa  _wv._ 1, _w. dat. of thing_, throw; pull off.  *steypask*,
+    throw oneself.
+stga  _sv._ 6, advance, walk, go.  *st. upp*, mount (horse).
+stgr  _sm._ path, way.
+stikill  _sm._ point.
+stilla (stilta)  _wv._ 1, arrange.  *st. til*, arrange, dispose.
+stinga  _sv._ 3, pierce; 'st. stfnum at skipi,' run the prow
+    against a ship's side.
+stirt  _adv._ harshly [_neut. of_ 'stirr,' stiff].
+st  _see_ *standa*.
+strri  _see_ *str*.
+stkkva  _sv._ 3, spring, rebound, start back.
+stolinn  _see_ *stela*.
+strliga  _adv._ bigly, arrogantly.
+str-mannligr  _adj._ magnificent, aristocratic.
+str-mnni  _sn._ great men (collective), aristocracy.
+strr  _adj._ big, great.  *strum* _adv._ greatly.
+str-rr  _adj._ (great of plans), ambitious.
+str-skip  _sn._ big ship,
+str-virki  _sn._ great deed.
+str  _wv._ 1, strew, cover with straw.
+strauk  _see_ *strjka*.
+strngr  _sm._ 2, string.
+strjka  _sv._ 7, stroke.
+stund  _sf._ period of time, time.
+stutt  _adv._ shortly, abruptly [_neut. of_ 'stuttr' short].
+stra  _wv._ 1, _w. dat._ steer.
+stri  _sn._ rudder.
+stris-hnakki  _wm._ top piece of rudder.
+styrkr  _sm._ strength; help.
+s  _see_ *s*.
+sur  _adv._ southward.
+sur-ganga  _wf._ journey south (to rome).
+sukku  _see_ *skkva*.
+sumar  _sn._ summer.
+sumr  _prn._ some.
+sund  _sn._ sound, channel.
+sv  _adv._ so, as; as soon as.  'ok sv,' also.
+svaf  _see_ *sofa*.
+svara  _wv._ 3, _w. dat. of thing_, answer.
+svardagi  _sm._ oath.
+sveinn  _sm._ boy.
+sveinn-stauli  _wm._ small boy.
+sveit  _sf._ troop.
+svelga  _sv._ 3, swallow, gulp.
+sver  _sn._ sword.
+svers-hgg  _sn._ swordstroke.
+svipan  _sf._ jerk; moment.
+svipting  _sf._ pull, struggle.
+snask  _wv._ 1, seem [sjn].
+syni  _see_ *sonr*.
+systir  _sf._ 3, sister.
+
+t
+
+taka  _wv._ 2, _w. acc._ take, seize, take possession of; _w.
+    inf._ begin; _w. dat._ receive (well, ill, etc.).  *takask*,
+    take place, begin.  *t. at*, choose.  *t. til*, engage in,
+    try.  *t. upp*, take to, choose.
+tala  _wf._ talk, speech.
+tala  _wv._ 3, speak, talk about, discuss.
+talir  _see_ *tlja*.
+tlma  _wv._ 3, hinder.
+tr  _sn._ tear.
+taumar  _smpl._ reins.
+tkinn  _see_ *taka*.
+tlja  _wv._ 1b, count, recount; account, consider; relate, say
+    [tala].
+tngir  _sfpl._ relationship, connection by marriage.
+tngja  _wv._ 1, bind, fasten together.
+tngsl  _snpl._ cable.
+ta  _wv._ 1, _impers. w. acc._ desire.
+tindi  _snpl._ tidings, news.
+tr  _adj._ usual, happening--'hvat er ttt um ik?' what is the
+    matter with you?  *ttt* _adv._ often, quickly--'sem tast,'
+    as quickly as possible.
+tiginn  _adj._ of high rank.
+tigr  _sm._--'fjrir tigir,' forty.
+til  _prp. w. gen._ to; till; for (of use)--'alt er t. vpna
+    var,' everything that could be used as a missile; for (of
+    object, intention)--'brjta lgg til mrgjar,' break a leg to
+    get at the marrow; with respect to--'til vista var eigi
+    gott,' they were not well off for provisions.
+til  _adv._ too (of excess).
+til-vsan  _sf._ direction, guidance.
+ttt  _see_ *tr*.
+tvi  _wm._ god.
+tjald  _sn._ tent.
+tjgu-skgg  _sn._ forked beard.
+tka  _see_ *taka*.
+tk  _see_ *taka*.
+tnn  _sf._ 3, tooth.
+trani  _wm._ crane.
+tr  _sn._ tree.
+troa  _sv._ tread.
+trog  _sn._ trough.
+tros  _sn._ droppings, rubbish.
+tra  _wf._ faith--'at veit tr. mn at...,' by my faith.
+tra  _wv._ 2, _w. dat. of pers._ believe, trust, rely on.
+tn  _sn._ enclosure, dwelling.
+tveir  _num._ two.
+tna  _wv._ 1, _w. dat._ lose.
+typpa  _wv._ tie in a top-knot.
+
+
+
+  _see_ *s*.
+  _see_ *iggja*.
+  _adv._ then.
+r  _see_ *s*.
+akr  _see_ *kja*.
+akka  _wv._ 3, _w. acc. of thing and dat. of pers._ thank;
+    requite, reward.
+ambar-sklfir  _sm._ bowstring-shaker (?).
+ann  _see_ *s*.
+annig  _adv._ thither; so [= ann veg].
+ar  _adv._ there; then; '. af,' _etc._, thereof.  'ar sem,'
+    since, because.  'ar til,' until.
+arf  _see_ *urfa*.
+at  _see_ *s*.
+au  _see_ *s*.
+egar  _adv._ at once.  '. er,' as soon as.
+ginn  _see_ *iggja*.
+gja  _wv._ 1b, be silent.
+eim  _see_ *s*.
+eir, eirra  _see_ *s*.
+kja  _wv._ 1b, roof.
+kkja  _wv._ 1, notice.  *kkjask*, take pleasure in; accept.
+r  _see_ **.
+ess  _see_ *s*.
+ess  _adv. w. comp._ the, so much the.
+essi  _prn._ this.
+iggja  _sv._ 5, receive.
+ik  _see_ **.
+ing  _sn._ meeting, parliament.
+inn  _see_ **.
+it  _see_ **.
+j  _sf._ nation, race.
+  _adv._ though, yet.
+k  _see_ *kja*.
+kk  _sf._ thanks, gratitude [akka].
+ola  _wv._ 2, endure, put up with.
+ora  _wv._ 2, dare.
+rf  _sf._ need.
+orrinn  _see_ *verra*.
+tt  _adv._ though [=  at].
+tta  _see_ *ykkja*.
+raut  _see_ *rjta*.
+reifask  _wv._ 3, grope, feel.
+reyta  _wv._ 1, make exertions, try.
+rii  _adj._ third.
+rijungr  _sm._ third.
+rr  _num._ three.
+rjta  _sv._ 7, _impers. w. acc. of pers._ come to an end, fail.
+rugr  _adj._ mighty.
+  _prn._ thou.
+umlungr  _sm._ thumb of glove.
+unn-vangi  _wm._ temple (of head).
+urr  _sm._ diminution.
+urfa  _swv. often impers._ require, need.
+urr  _adj._ dry.
+urs  _sm._ giant.
+verra  _sv._ 3, diminish.
+vers  _adv._ across.
+v  _see_ *s*.
+v  _adv._ therefore; _w. compar._ the, so much the more.
+vlikr  _adj._ such.
+ykkja  _wv._ 1c, seen, be considered.  'ykkir einum fyrir,'
+    there seems to be something in the way, one hesitates.
+    'myndi mr fyrir . ,' i should be displeased.  *ykkjask*,
+    think.
+ykkr  _adj._ thick, close.
+ynna  _wv._ 1, make thin.  *ynnask* get thin.
+yrstr  _adj._ (_ptc._) thirsty.
+
+u
+
+-fra  _wf._ impassable place; fix, difficulty.
+-frir  _sm._ hostility, war.
+-grynni  _sn._ countless number [grunnr, 'bottom'].
+-happ  _sn._ misfortune.
+-hreinn  _adj._ impure.
+um  _prp. w. acc._ around, about, over; _of time_ in, at; _of
+    superiority_ beyond; concerning, about.
+um-r  _sn._ advice, help.
+um-sj  _sf._ care.
+una  _wv._ 1, _w. dat._ be contented--'u. illa,' be discontented.
+undan  _prp. w. dat._, _adv._ away (from).
+undarliga  _adv._ strangely.
+undarligr  _adj._ strange.
+undir  _prp. w. acc. and dat._ under.
+undr  _sn._ wonder.
+ungr  _adj._ young.
+unninn  _see_ *vinna*.
+unz  _adv._ until.
+upp  _adv._ up.
+upp-ganga  _wf._ boarding (ship).
+upp-haf  _sn._ beginning [hfja].
+upp-himinn  _sm._ high heaven.
+uppi  _adv._ up; at an end.
+uru  _see_ *vera*.
+t  _adv._ out.  _comp._ *utar*, outer, outwards, farther away.
+utan  _adv._ outside; outwards.
+utan-fr  _sf._ journey abroad.
+utar  _see_ *t*.
+ti  _adv._ outside, out on the sea.
+t-lausn  _sf._ ransom.
+-vinr  _sm._ enemy.
+
+v
+
+vg  _sf._ forbearance.
+vnn  _adj._ likely, to be expected.
+vri  _see_ *vera*.
+vtr  _neut._ nothing.
+vaka  _wv._ 3, be awake, wake up.
+vakna  _wv._ 3, awake.
+vald  _sn._ power, control.
+val-kyrja  _sf._ chooser of the slain, war-goddess [kjsa].
+valr  _sm._ corpses on the battle-field.
+vn,  _sf._ hope, expectation, probability.
+vandra-skld  _sn._ the 'awkward' poet, the poet who is
+    difficult to deal with.
+vandri  _snpl._ difficulty.
+vangi  _wm._ cheek.
+vanr  _adj._ accustomed.
+vpn  _sn._ weapon.
+vpna-bur  _sm._ bearing weapons, shower of missiles.
+vpn-lauss  _adj._ without weapons.
+var  _see_ *vera*.
+vr  _sn._ spring.
+vr  _see_ *ek*.
+vara  _wv._ 2, _impers. w. acc. of pers._--'mik vari,' i
+    expected.
+var  _see_ *vera*.
+vari  _see_ *vrja*.
+vargr  _sm._ wolf.
+varir  _see_ *vrja*.
+varla  _adv._ scarcely.
+varnar  _sm._ goods, merchandise.
+vru  _see_ *vera*.
+vatn  _sn._ water.
+vaxa  _sv._ 2, grow; increase.
+ver  _sn._ weather.
+vegr  _sm._ road; way, manner; direction, side; _in composition_,
+    region, tract, land.
+veik  _see_ *vikja*.
+veit  _see_ *vita*.
+veita  _wv._ 1, give, grant; make (resistance, etc.).
+vkja  _wv._ 1b, wake [vaka].
+vl  _sf._ artifice, cunning.
+vlja  _wv._ 1b, choose.
+vndi  _see_ *vndr*.
+vr  _see_ *ek*.
+vera  _sv._ exist; remain, stay, happen; be.  'hvat ltum hafi
+    verit,' what had caused the noise.  *v. at*, be occupied
+    with.
+ver  _sn._ worth, value; price.
+vera  _sv._ 3, happen; happen to come.  'v. fyrir einum,' come
+    in one's way, appear before one; become; come into being, be;
+    'v. til eins,' be ready for, undertake; _w. infin._ be
+    obliged, must.  'n er  orit mikit fyrir mr,' now i have
+    come into a great perplexity, difficulty.  *v. at*, happen.
+verr  _adj._ worth; important.
+ver-gjarn  _adj._ desirous of a husband, loose.
+verit  _see_ *vera*.
+vert  _see_ *verr*.
+vrja  _wv._ 1b, defend--'v. baki,' defend with the back, turn
+    one's back on.
+vrja  _wv._ 1b, dress; lay out money, invest.
+verk  _sn._ work, job.
+verr  _sm._ man; husband.
+vrr  _adv. comp._ worse.  _superl._ *vrst*, worst.
+verld  _sf._ world.
+vestan  _adv._ from the west.  'v. fyrir' _w. gen. or acc._, west
+    of.
+vestr  _adv._ westwards.
+vetr  _sm._ winter; year.
+vx  _see_ *vaxa*.
+vxti  _see_ *vxtr*.
+vi  _prp. w. acc._ by, near; towards (of place and time); with
+    (of various relations).  _w. dat._ towards, at (laugh at,
+    etc.); in exchange for, for.
+va  _adv._ widely, far and wide, on many sides.
+viar-teinungr  _sm._ tree-shoot, plant.
+vi-brag  _sn._ push.
+vir  _sm._ 3, tree.
+vr  _adj._ wide, broad.
+vi-skipti  _snpl._ dealings.
+vi-taka  _wf._ reception; resistance.
+vgja  _wv._ 1, consecrate, hallow.
+vgr  _adj._ warlike, able-bodied.
+vking  _sf._ piracy, piratical expedition.
+vkingr  _sm._ pirate.
+vkja  _sv._ 6, turn, move, go.
+vilja  _swv._ will.
+villi-eldr  _sm._ wildfire, conflagration.
+vintta  _wf._ friendship.
+vinttu-ml  _snpl._ assurances of friendship.
+vinna  _sv._ 3, do, perform; win, conquer.  *vinnask til*,
+    suffice.
+vinr  _sm._ 2, friend.
+viring  _sf._ honour [verr].
+vsa  _wv._ 2, _w. dat._ show, guide.
+vss  _adj._ wise; certain.
+vissa  _see_ *vita*.
+vist  _sf._ 2, board and lodging; provisions.
+vit  _see_ *ek*.
+vita  _swv._ know; be turned in a certain direction.  *v. fram*,
+    see into futurity.
+vti  _sn._ punishment, penalty.
+vtis-horn  _sn._ penalty-horn (whose contents were drunk as a
+    punishment).
+vitkask  _wv._ 3, come to one's senses.
+vitr (-ran)  _adj._ wise.
+vllr  _sm._ 3, plain, field.
+vndr  _sm._ 3, twig, rod.
+vrn  _sf._ defence, resistance.
+vxtr  _sm._ 3, growth, stature.
+vreir = reir.
+
+y
+
+yr  _see_ **.
+yfir  _prp. w. acc. and dat._ over [ofan].
+miss  _adj._ various, different.
+ymr  _sm._ rumbling noise.
+ytri  _adj. comp._ outer.  _superl._ *yztr*, outside(st) [t].
+
+
+
+proper names
+
+ki  _sm._
+sa-rr  _sm._ (divine) thor.
+strr  _sf._
+auun  _sm._
+
+baldr (-rs)  _sm._
+bari  _wm._ 'the ram' (name of a ship).
+bil-skrnir  _sm._
+brsinga-mn  _sn._ freyja's necklace.
+burizleifr  _sm._
+
+dins-leif  _sf._ relic of dinn ['leif,' leaving, heritage].
+dana-konungr  _sm._ king of the danes.
+danir  _smpl._ the danes.
+dan-mrk  _sf._ 3, denmark.
+draupnir  _sm._
+
+einarr  _sm._
+eindrii  _wm._
+eirkr  _sm._
+erlingr  _sm._
+
+fn-salr  _sm._ 2.
+finnr  _sm._
+finskr  _adj._ finnish.
+freyja  _wf._
+freyr  _sm._
+frigg  _sf._ wife of odin.
+fulla  _wf._ frigg's handmaid.
+
+geira  _wf._
+gimsar  _fpl._
+gjallar-br  _sf._ the bridge over the river gjll.
+gjll  _sf._ 'the resounder,' the river of hell.
+grn-land  _sn._ greenland.
+gullin-bursti  _wm._ 'golden-bristle.'
+gull-toppr  _sm._ 'gold-top.'
+
+h-ey  _sf._ 'high-island.'
+hkon  _sm._
+hall-frer  _sm._
+haraldr  _sm._
+hinn  _sm._
+heim-dallr  _sm._
+hl  _sf._ the goddess of the infernal regions.
+hr-mr  _sm._
+hildr  _sf._ ['hildr,' war].
+hjaninga-vg  _sn._ battle of the hjanings.
+hjarrandi  _wm._
+hlrii  _wm._ the thunderer, thor.
+hgni  _wm._
+hring-horni  _wm._ 'ring-prowed.'
+hyrningr  _sm._
+hyrrokin  _sf._
+hr  _sm._
+
+s-land  _sn._ iceland.
+sland-fr  _sf._ journey to iceland.
+slnzkr  _adj._ icelandic.
+
+jms-borg  _sf._
+jms-vkingar  _smpl._ the pirates of jmsborg.
+
+kol-bjrn  _sm._
+
+laufey  _sf._
+litr  _sm._
+loki  _wm._
+
+m-gur  _sf._
+mri  _wf._
+
+nanna  _wf._
+nepr  _sm._
+njarar  _see_ *njrr*.
+njrr  _sm._
+na-tn  _snpl._
+noregr  _sm._ norway [= nor-vegr].
+
+ku-rr  _sm._ thor (the driver) [aka].
+lfr  _sm._
+inn  _sm._ odin.
+orkn-eyjar  _sfpl._ orkneys.
+
+rma-borg  _sf._ rome.
+rm-frli  _wm._ pilgrim to rome [fara].
+rskva  _wf._
+
+sax-land  _sn._ saxony, germany.
+sif  _sf._
+sigrr  _sf._
+sig-valdi  _wm._
+skjlgr  _sm._
+skrmir  _sm._
+sleipnir  _sm._
+slrug-tanni  _wm._ [tnn].
+snskr  _adj._ swedish.
+sveinn  _sm._
+sva-konungr  _sm._ king of sweden.
+svar  _smpl._ swedes.
+sva-vldi  _sn._ sweden [vald].
+sv-j  _sf._ sweden.
+svlr (-rar)  _sf._ island of svolder, near rgen.
+
+tann-gnjstr  _sm._ [tnn].
+tann-grisnir  _sm._ [tnn].
+tryggvi  _wm._ 'trusty.'
+
+jlfi  _wm._
+rir  _sm._
+or-kll  _sm._
+rr  _sm._ thor.
+or-steinn  _sm._
+r-vangar  _smpl._ 'plains of strength.'
+rymyr  _sm._
+kk  _sf._
+
+lfr  _sm._
+tgara-loki  _wm._
+t-garr  _sm._ *t-garar* _pl._ 'outer enclosure,' world of
+    the giants.
+
+vanir  _smpl._ race of gods.
+vr  _sf._ goddess of betrothal and marriage.
+vest-firzkr  _adj._ of the west firths (in iceland).
+vk  _sf._ 'the bay,' the skagerak and the christiania fjord.
+vinda-snkkja  _wf._ wendish ship.
+vind-land  _sn._ wendland.
+vindr  _smpl._ the wends.
+ving-rr  _sm._ name of thor.
