@@ -1,6 +1,6 @@
-#Stlyometry based Authorship Identification
+# Stlyometry based Authorship Identification
 
-# Every author has an innate style of writing, of which one might not be aware. This has nothing to do with the handwriting, but the word placements, the usage of particular words, the length of sentences, words and paragraphs used. We in our project used machine learning to train our system for particular authors and identify authors based on that.
+Every author has an innate style of writing, of which one might not be aware. This has nothing to do with the handwriting, but the word placements, the usage of particular words, the length of sentences, words and paragraphs used. We in our project used machine learning to train our system for particular authors and identify authors based on that.
 
 The back end of the project is made using python and the front end is made using Web tools such as bootstrap , html , css and php.
 
